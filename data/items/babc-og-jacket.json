@@ -1,0 +1,17 @@
+{
+  "id": "babc-og-jacket",
+  "name": "Bored Ape Bimmer Club OG Jacket",
+  "drop": "BAYC x BMW",
+  "released": "2024-10-18",
+  "category": "jacket",
+  "chart_type": "none",
+  "label_shift": -2,
+  "source": {
+    "type": "member_report",
+    "post": "https://www.theboredapegazette.com/post/from-the-garage-to-the-swamp-apes-got-a-closer-look-at-the-bored-ape-bimmer-club-jackets"
+  },
+  "traps": [
+    "Officially \"a classic, oversized mechanics jacket.\" A member's S fit like a normal L. BAYC's reference: 6 ft wearing XL; 5'3\" and 5'5\" wearing S."
+  ],
+  "sizes": {}
+}

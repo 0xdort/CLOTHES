@@ -1,0 +1,16 @@
+{
+  "id": "mcbess-denim-jacket",
+  "name": "BAYC x McBess x The Dudes Denim Jacket",
+  "drop": "McCapsule (2022)",
+  "released": "2022-10-26",
+  "category": "jacket",
+  "chart_type": "none",
+  "label_shift": 1,
+  "source": {
+    "type": "member_report"
+  },
+  "traps": [
+    "No public chart. A member who wears an S in the Bimmer jacket (about a normal L) needed an XL here, so it runs about 1 size small."
+  ],
+  "sizes": {}
+}

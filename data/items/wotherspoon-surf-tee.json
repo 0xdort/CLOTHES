@@ -45,5 +45,9 @@
         49
       ]
     }
-  }
+  },
+  "traps": [
+    "This chart is BODY sizes, not the shirt. It's labeled \"WAIST\" but says to measure around your chest. It runs like standard sizing."
+  ],
+  "label_shift": 0
 }

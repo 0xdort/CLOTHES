@@ -142,3 +142,57 @@ Body-only charts are marked `"chart_type": "body"` and are not used in garment-t
 6. **Matching:** Should matching also use shoulder width and fit intent ("I like it boxy" vs. "I like it trim")?
    Is `chest + 0.35 × length` a reasonable starting score?
 7. **Anything we're missing** that would make an ape trust this enough to order based on it?
+
+---
+
+## 8. Review round 1: decisions and what v1 does
+
+The first reviewer's notes were adopted almost entirely. Status of each:
+
+| Reviewer suggestion | Status in v1 (`site/`) |
+|---|---|
+| Main flow is 3 taps (brand → item type → size), saved for next visit | ✅ Saved on the device; the home screen then shows your size on every drop |
+| "I'll measure a shirt" as a backup, with a diagram | ✅ Pit-to-pit + length inputs with an SVG how-to |
+| "Paste a chart" for power users | ✅ Its own page; spots all-the-way-around numbers and halves them |
+| One big answer: "Get the L" + High/Medium/Guess + reason in plain words | ✅ Big signal-flag size tag + stitched confidence badge + one-line reason |
+| Show where the data came from on every item | ✅ Official chart / member reports only, with links to the original post and the store |
+| "In between sizes? M if trim, L if boxy" | ✅ Shown when you fall between two sizes |
+| Flag known traps loudly | ✅ "⚑ Heads up" boxes (Half Zip 2 sizes small, body-size chart, measured all the way around) |
+| Silhouette overlay instead of bars; ruler second | ✅ Your reference as a dashed outline under the BAYC item; ruler below |
+| Shareable result | ✅ v1 copies a text line; image card still to do |
+| Clubhouse look: cream paper, navy ink, condensed serif headlines, mono numbers, tape dividers, signal-flag size tags, stitched badges, no anchors or crests | ✅ |
+| Dark mode as "night regatta" | ✅ |
+| Ape voice in the copy | ✅ "Measure twice, ape once", "Don't get rugged by a size chart" |
+| Warn when even the largest size is too small (found while testing) | ✅ "Even the biggest size is trimmer than what you're used to" |
+| Quick member input ("I bought M, it fits like my ___, runs small/true/big") | ⏳ Next: needs a small shared database |
+| Detailed member input (flat-lay photo, reviewer approval) | ⏳ |
+| Credit with ape number/ENS, Tailor badge, leaderboard, wallet signature against spam | ⏳ |
+| Member votes nudge the result by up to ½ size (shown when they do) | ⏳ Needs member input first |
+| Shoulder width in matching (light weight, only when both have it) | ⏳ Only 1 BAYC chart and few comps have shoulder so far |
+| "Don't buy blind" page for each new drop, posted the day its chart drops | ⏳ The paste page is the start of this |
+| Swap board tied to the p2p marketplace | ⏳ |
+| Shrinkage notes | ⏳ Comes with member input |
+| Unblock Rowing Blazers | ⏳ Needs one more allowed host (their size-chart service) |
+
+### How the v1 recommendation works
+1. **Your reference:** we take the median measurement of your brand's items in your type and size. For example, "Stüssy hoodie M" means the
+   median of 21 Stüssy hoodies in M (23½" pit to pit).
+2. **Different garment types:** if the BAYC item is a different family from your reference (e.g. a rugby vs. your hoodie), we use your
+   brand's own items in that family. If the brand has none, we adjust using how much bigger or smaller that family is typically cut
+   (median across brands, so oversized Fear of God can't skew it).
+3. **Picking the size:** the BAYC size with the lowest `|Δchest| + 0.35 × |Δlength|`.
+4. **Confidence:**
+   - **High:** a direct comparison, built from 2 or more of your brand's items, with the chest within ¾".
+   - **Medium:** we had to convert from a different garment type, the reference is a single item, or the chest is more than ¾" off.
+   - **Guess:** the chest is more than 1¾" off, the chart is body sizes, or there's no chart and only member reports.
+
+### Screenshots (`docs/screenshots/`)
+- `01` phone, first visit · `02` setup (3 taps) · `03` home with your sizes · `04`/`05` Half Zip answer and full page
+- `06` desktop Saladeen Rugby with a Fear of God reference: shows the "even the biggest size is trimmer" warning
+- `07` "How big is a Medium?" · `08` paste-a-chart result · `09` phone dark mode
+
+### Questions for round 2
+1. On the phone answer screen (`04`), is the flag + "Get the L" + reason enough above the fold, or should the first warning move up too?
+2. The silhouette uses a simple long-sleeve/tee outline for everything. Is it worth drawing separate hoodie, half-zip and jacket shapes?
+3. The confidence rules above: too strict, or too generous?
+4. What should the shareable image card look like?

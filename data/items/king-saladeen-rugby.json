@@ -58,5 +58,9 @@
       "sleeve": 26.25
     }
   },
-  "data_note": "Uses the same chart template and the same 'Chest 1in down from armhole' label as the Regatta Crewneck, but the Regatta values (22-29) are flat while these (38-46) are full circumference. Halved to chest_flat."
+  "data_note": "Uses the same chart template and the same 'Chest 1in down from armhole' label as the Regatta Crewneck, but the Regatta values (22-29) are flat while these (38-46) are full circumference. Halved to chest_flat.",
+  "traps": [
+    "The trimmest rugby we track: the M matches an Aim\u00e9 Leon Dore rugby in XS and runs about 2 sizes smaller than a Polo rugby.",
+    "The chart lists chest all the way around (38\u201346\"), unlike the Regatta charts from the same drop. We halved it."
+  ]
 }
