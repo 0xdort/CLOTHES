@@ -1,0 +1,20 @@
+{
+  "id": "polo-rl-rugby-classic",
+  "name": "Polo Ralph Lauren Classic Fit Rugby",
+  "category": "rugby",
+  "fit_note": "Classic fit. The reference rugby.",
+  "source": "https://www.ralphlauren.com/men-clothing-rugby-shirts/classic-fit-polo-bear-rugby-shirt/100084749.html",
+  "units": "in",
+  "measurement_basis": {
+    "chest_flat": "laid flat, 1in below armhole",
+    "length": "high point shoulder to hem (back)"
+  },
+  "sizes": {
+    "M": {
+      "chest_flat": 22.5,
+      "length": 29.5
+    }
+  },
+  "data_note": "Ralph Lauren publishes size M only: 45in chest circumference (22.5 flat), 29.5in length, 18.75in shoulder.",
+  "reference_only": "single size published"
+}

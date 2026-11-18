@@ -20,6 +20,14 @@ def known():
         items += [(p, *x) for x in load(p)]
     return items
 
+# Garment families: "fits like" is most meaningful within the same family.
+FAMILY = {
+    "tee": "tee", "long-sleeve": "long-sleeve", "rugby": "long-sleeve", "oxford": "shirt",
+    "hoodie": "fleece", "zip-hoodie": "fleece", "crewneck": "fleece", "half-zip": "fleece",
+    "jacket": "jacket",
+}
+fam = lambda c: FAMILY.get(c, c)
+
 def score(a, b):
     s = abs(a["chest_flat"] - b["chest_flat"]) * 1.0
     if "length" in a and "length" in b:
@@ -39,7 +47,12 @@ def main(paths):
                     continue
                 best = min(osizes.items(), key=lambda kv: score(m, kv[1]))
                 matches.append((score(m, best[1]), oname, ocat, best[0], best[1]))
-            for sc, oname, ocat, osize, om in sorted(matches)[:6]:
+            same = [x for x in sorted(matches) if fam(x[2]) == fam(tcat)][:5]
+            other = [x for x in sorted(matches) if fam(x[2]) != fam(tcat)][:3]
+            for label, group in (("same type", same), ("other types", other)):
+              if not group: continue
+              print(f"     -- {label}")
+              for sc, oname, ocat, osize, om in group:
                 dc = m["chest_flat"] - om["chest_flat"]
                 dl = (m.get("length", 0) - om.get("length", 0)) if "length" in om and "length" in m else None
                 tag = "same" if abs(dc) < 0.5 else (f"{abs(dc):g}\" {'roomier' if dc>0 else 'tighter'}")

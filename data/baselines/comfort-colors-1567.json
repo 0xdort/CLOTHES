@@ -1,0 +1,38 @@
+{
+  "id": "comfort-colors-1567",
+  "name": "Comfort Colors 1567 Garment-Dyed Hoodie",
+  "category": "hoodie",
+  "fit_note": "Relaxed, garment-dyed.",
+  "source": "https://www.blankstyle.com/files/specs/11050/SpecSheetMeasurements_1567.pdf",
+  "units": "in",
+  "measurement_basis": {
+    "chest_flat": "laid flat, 1in below armhole",
+    "length": "high point shoulder to hem (back)"
+  },
+  "sizes": {
+    "S": {
+      "chest_flat": 21.0,
+      "length": 27.5
+    },
+    "M": {
+      "chest_flat": 23.0,
+      "length": 28.5
+    },
+    "L": {
+      "chest_flat": 25.0,
+      "length": 29.5
+    },
+    "XL": {
+      "chest_flat": 26.5,
+      "length": 30.5
+    },
+    "2XL": {
+      "chest_flat": 28.0,
+      "length": 31.5
+    },
+    "3XL": {
+      "chest_flat": 29.5,
+      "length": 32.5
+    }
+  }
+}

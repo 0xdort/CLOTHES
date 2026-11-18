@@ -1,0 +1,43 @@
+{
+  "id": "carhartt-k124",
+  "name": "Carhartt K124 Midweight Crewneck",
+  "category": "crewneck",
+  "fit_note": "Loose fit.",
+  "source": "https://www.blankstyle.com/files/specs/15804/SpecSheetMeasurements_CTK124.pdf",
+  "units": "in",
+  "measurement_basis": {
+    "chest_flat": "laid flat, 1in below armhole",
+    "length": "high point shoulder to hem (back)"
+  },
+  "sizes": {
+    "S": {
+      "chest_flat": 22.0,
+      "length": 28.0
+    },
+    "M": {
+      "chest_flat": 24.0,
+      "length": 29.0
+    },
+    "L": {
+      "chest_flat": 26.0,
+      "length": 29.0
+    },
+    "XL": {
+      "chest_flat": 28.0,
+      "length": 30.0
+    },
+    "2XL": {
+      "chest_flat": 30.0,
+      "length": 30.0
+    },
+    "3XL": {
+      "chest_flat": 32.0,
+      "length": 31.0
+    },
+    "4XL": {
+      "chest_flat": 34.0,
+      "length": 31.0
+    }
+  },
+  "data_note": "Official spec sheet lists L chest as 23 (typo; series runs 22/24/26/28/30). Corrected to 28."
+}

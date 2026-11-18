@@ -1,0 +1,42 @@
+{
+  "id": "carhartt-k87",
+  "name": "Carhartt K87 Workwear Pocket Tee",
+  "category": "tee",
+  "fit_note": "Loose fit. Big and long, the classic oversized work tee.",
+  "source": "https://www.blankstyle.com/files/specs/15800/SpecSheetMeasurements_CTK87.pdf",
+  "units": "in",
+  "measurement_basis": {
+    "chest_flat": "laid flat, 1in below armhole",
+    "length": "high point shoulder to hem (back)"
+  },
+  "sizes": {
+    "S": {
+      "chest_flat": 21.0,
+      "length": 29.25
+    },
+    "M": {
+      "chest_flat": 23.0,
+      "length": 29.75
+    },
+    "L": {
+      "chest_flat": 25.0,
+      "length": 30.25
+    },
+    "XL": {
+      "chest_flat": 27.0,
+      "length": 31.25
+    },
+    "2XL": {
+      "chest_flat": 29.0,
+      "length": 32.25
+    },
+    "3XL": {
+      "chest_flat": 31.0,
+      "length": 33.25
+    },
+    "4XL": {
+      "chest_flat": 33.0,
+      "length": 34.25
+    }
+  }
+}

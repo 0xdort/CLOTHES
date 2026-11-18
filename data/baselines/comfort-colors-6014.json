@@ -1,0 +1,38 @@
+{
+  "id": "comfort-colors-6014",
+  "name": "Comfort Colors 6014 Garment-Dyed Long Sleeve Tee",
+  "category": "long-sleeve",
+  "fit_note": "Relaxed fit.",
+  "source": "https://www.blankstyle.com/files/specs/2552/SpecSheetMeasurements_6014.pdf",
+  "units": "in",
+  "measurement_basis": {
+    "chest_flat": "laid flat, 1in below armhole",
+    "length": "high point shoulder to hem (back)"
+  },
+  "sizes": {
+    "S": {
+      "chest_flat": 17.5,
+      "length": 26.625
+    },
+    "M": {
+      "chest_flat": 19.5,
+      "length": 28.0
+    },
+    "L": {
+      "chest_flat": 21.25,
+      "length": 29.375
+    },
+    "XL": {
+      "chest_flat": 23.0,
+      "length": 30.75
+    },
+    "2XL": {
+      "chest_flat": 25.0,
+      "length": 31.625
+    },
+    "3XL": {
+      "chest_flat": 27.0,
+      "length": 32.5
+    }
+  }
+}

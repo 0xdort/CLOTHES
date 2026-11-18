@@ -1,0 +1,20 @@
+{
+  "id": "levis-trucker-jacket",
+  "name": "Levi's Trucker Jacket (standard fit)",
+  "category": "jacket",
+  "fit_note": "Standard, cropped length.",
+  "source": "https://www.levi.com/US/en_US/clothing/men/outerwear/trucker-jacket/p/723340306",
+  "units": "in",
+  "measurement_basis": {
+    "chest_flat": "laid flat, 1in below armhole",
+    "length": "high point shoulder to hem (back)"
+  },
+  "sizes": {
+    "M": {
+      "chest_flat": 22.625,
+      "length": 24.375
+    }
+  },
+  "data_note": "Levi's publishes size M only: chest 22.625, length 24.375, sleeve 35. Assumed flat (consistent with ~45in circumference).",
+  "reference_only": "single size published"
+}

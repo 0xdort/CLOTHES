@@ -1,0 +1,42 @@
+{
+  "id": "nike-club-fleece-cj1611",
+  "name": "Nike Club Fleece Pullover Hoodie CJ1611",
+  "category": "hoodie",
+  "fit_note": "Standard fit, 8.2oz. One of the most-owned hoodies anywhere.",
+  "source": "https://www.blankstyle.com/files/specs/17779/SpecSheetMeasurements_CJ1611.pdf",
+  "units": "in",
+  "measurement_basis": {
+    "chest_flat": "laid flat, 1in below armhole",
+    "length": "high point shoulder to hem (back)"
+  },
+  "sizes": {
+    "S": {
+      "chest_flat": 21.625,
+      "length": 26.75
+    },
+    "M": {
+      "chest_flat": 23.25,
+      "length": 27.125
+    },
+    "L": {
+      "chest_flat": 24.75,
+      "length": 28
+    },
+    "XL": {
+      "chest_flat": 26.875,
+      "length": 28.75
+    },
+    "2XL": {
+      "chest_flat": 28.75,
+      "length": 29.5
+    },
+    "3XL": {
+      "chest_flat": 30.75,
+      "length": 30.25
+    },
+    "4XL": {
+      "chest_flat": 32.75,
+      "length": 32
+    }
+  }
+}

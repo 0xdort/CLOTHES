@@ -1,0 +1,50 @@
+{
+  "id": "gildan-18000",
+  "name": "Gildan Heavy Blend Crewneck 18000",
+  "category": "crewneck",
+  "fit_note": "Classic.",
+  "source": "https://www.blankstyle.com/files/specs/1279/SpecSheetMeasurements_18000.pdf",
+  "units": "in",
+  "measurement_basis": {
+    "chest_flat": "laid flat, 1in below armhole",
+    "length": "high point shoulder to hem (back)"
+  },
+  "sizes": {
+    "XS": {
+      "chest_flat": 18.0,
+      "length": 26.0
+    },
+    "S": {
+      "chest_flat": 20.0,
+      "length": 26.0
+    },
+    "M": {
+      "chest_flat": 22.0,
+      "length": 27.0
+    },
+    "L": {
+      "chest_flat": 24.0,
+      "length": 28.0
+    },
+    "XL": {
+      "chest_flat": 26.0,
+      "length": 29.0
+    },
+    "2XL": {
+      "chest_flat": 28.0,
+      "length": 30.0
+    },
+    "3XL": {
+      "chest_flat": 30.0,
+      "length": 31.0
+    },
+    "4XL": {
+      "chest_flat": 32.0,
+      "length": 32.0
+    },
+    "5XL": {
+      "chest_flat": 34.0,
+      "length": 33.0
+    }
+  }
+}
