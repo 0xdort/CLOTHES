@@ -1,0 +1,42 @@
+{
+  "id": "bella-canvas-3001",
+  "name": "Bella+Canvas 3001 Unisex Jersey Tee",
+  "category": "tee",
+  "fit_note": "Retail / slimmer fit, thin 4.2oz. Typical print-on-demand blank.",
+  "source": "Consensus of reseller charts (Merchize, Gooten, BlueCotton); official spec sheet not yet fetched",
+  "units": "in",
+  "measurement_basis": {
+    "chest_flat": "laid flat, 1in below armhole",
+    "length": "high point shoulder to hem"
+  },
+  "sizes": {
+    "XS": {
+      "chest_flat": 16.5,
+      "length": 27
+    },
+    "S": {
+      "chest_flat": 18,
+      "length": 28
+    },
+    "M": {
+      "chest_flat": 20,
+      "length": 29
+    },
+    "L": {
+      "chest_flat": 22,
+      "length": 30
+    },
+    "XL": {
+      "chest_flat": 24,
+      "length": 31
+    },
+    "2XL": {
+      "chest_flat": 26,
+      "length": 32
+    },
+    "3XL": {
+      "chest_flat": 28,
+      "length": 33
+    }
+  }
+}

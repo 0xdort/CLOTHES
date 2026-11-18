@@ -1,0 +1,38 @@
+{
+  "id": "gildan-5000",
+  "name": "Gildan Heavy Cotton Tee 5000",
+  "category": "tee",
+  "fit_note": "Classic fit. The most common blank tee in the world.",
+  "source": "https://www.blankstyle.com/files/specs/20774/SpecSheetMeasurements_5000.pdf",
+  "units": "in",
+  "measurement_basis": {
+    "chest_flat": "laid flat, 1in below armhole",
+    "length": "high point shoulder to hem"
+  },
+  "sizes": {
+    "S": {
+      "chest_flat": 18,
+      "length": 28
+    },
+    "M": {
+      "chest_flat": 20,
+      "length": 29
+    },
+    "L": {
+      "chest_flat": 22,
+      "length": 30
+    },
+    "XL": {
+      "chest_flat": 24,
+      "length": 31
+    },
+    "2XL": {
+      "chest_flat": 26,
+      "length": 32
+    },
+    "3XL": {
+      "chest_flat": 28,
+      "length": 33
+    }
+  }
+}

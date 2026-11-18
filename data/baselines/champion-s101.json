@@ -1,0 +1,38 @@
+{
+  "id": "champion-s101",
+  "name": "Champion Reverse Weave Hoodie S101",
+  "category": "hoodie",
+  "fit_note": "12oz heavyweight. Classic roomy hoodie.",
+  "source": "https://www.blankstyle.com/files/specs/25251/SpecSheetMeasurements_S101.pdf",
+  "units": "in",
+  "measurement_basis": {
+    "chest_flat": "laid flat, 1in below armhole",
+    "length": "high point shoulder to hem"
+  },
+  "sizes": {
+    "S": {
+      "chest_flat": 21.75,
+      "length": 27.5
+    },
+    "M": {
+      "chest_flat": 23.75,
+      "length": 28.5
+    },
+    "L": {
+      "chest_flat": 25.75,
+      "length": 29.5
+    },
+    "XL": {
+      "chest_flat": 27.75,
+      "length": 30.5
+    },
+    "2XL": {
+      "chest_flat": 29.75,
+      "length": 31.5
+    },
+    "3XL": {
+      "chest_flat": 31.75,
+      "length": 32.5
+    }
+  }
+}

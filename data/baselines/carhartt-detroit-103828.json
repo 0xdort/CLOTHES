@@ -1,0 +1,38 @@
+{
+  "id": "carhartt-detroit-103828",
+  "name": "Carhartt Duck Detroit Jacket 103828",
+  "category": "jacket",
+  "fit_note": "Relaxed fit, short/cropped work jacket.",
+  "source": "https://www.blankstyle.com/files/specs/19132/SpecSheetMeasurements_CT103828.pdf",
+  "units": "in",
+  "measurement_basis": {
+    "chest_flat": "laid flat, 1in below armhole",
+    "length": "high point shoulder to hem"
+  },
+  "sizes": {
+    "S": {
+      "chest_flat": 21.5,
+      "length": 26.5
+    },
+    "M": {
+      "chest_flat": 23.5,
+      "length": 27.5
+    },
+    "L": {
+      "chest_flat": 25.5,
+      "length": 27.5
+    },
+    "XL": {
+      "chest_flat": 27.5,
+      "length": 28.5
+    },
+    "2XL": {
+      "chest_flat": 29.5,
+      "length": 28.5
+    },
+    "3XL": {
+      "chest_flat": 31.5,
+      "length": 29.5
+    }
+  }
+}

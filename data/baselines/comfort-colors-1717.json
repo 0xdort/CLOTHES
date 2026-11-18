@@ -1,0 +1,38 @@
+{
+  "id": "comfort-colors-1717",
+  "name": "Comfort Colors 1717 Garment-Dyed Heavyweight Tee",
+  "category": "tee",
+  "fit_note": "Relaxed, garment-dyed. Very common merch blank. Tolerance \u00b13/4 in width, \u00b11 in length.",
+  "source": "https://cdn.shopify.com/s/files/1/0513/9995/0497/files/Comfort_Colors_1717_Spec_Sheet.pdf.pdf",
+  "units": "in",
+  "measurement_basis": {
+    "chest_flat": "laid flat, 1in below armhole",
+    "length": "high point shoulder to hem"
+  },
+  "sizes": {
+    "S": {
+      "chest_flat": 17.5,
+      "length": 26.6
+    },
+    "M": {
+      "chest_flat": 19.5,
+      "length": 28
+    },
+    "L": {
+      "chest_flat": 21.25,
+      "length": 29.4
+    },
+    "XL": {
+      "chest_flat": 23,
+      "length": 30.75
+    },
+    "2XL": {
+      "chest_flat": 25,
+      "length": 31.6
+    },
+    "3XL": {
+      "chest_flat": 27,
+      "length": 32.5
+    }
+  }
+}

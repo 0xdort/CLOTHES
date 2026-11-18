@@ -8,3 +8,10 @@ Approach: compare garment **measurements** (flat chest, length, shoulder, sleeve
 - `data/items/` – one JSON per item, measurements per size (`chest_flat` is the primary comparison key)
 - `data/fit-notes.json` – official fit notes and member reports where no chart exists yet
 - `sources/charts/` – original size chart images
+- `data/baselines/` – widely available everyday garments (Gildan 5000, Comfort Colors 1717, Bella+Canvas 3001,
+  LA Apparel 1801, Champion Reverse Weave, Carhartt Detroit) from official spec sheets, used as reference points
+  until we have charts for more BAYC drops
+
+## Try it
+
+    python3 tools/fits_like.py data/items/king-saladeen-rugby.json

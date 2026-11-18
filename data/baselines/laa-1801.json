@@ -1,0 +1,38 @@
+{
+  "id": "laa-1801",
+  "name": "Los Angeles Apparel 1801 6.5oz Garment Dye Tee",
+  "category": "tee",
+  "fit_note": "Heavyweight, roomy torso and sleeves. Streetwear-standard boxy tee.",
+  "source": "https://losangelesapparel.net/products/the-1801-garment-dye",
+  "units": "in",
+  "measurement_basis": {
+    "chest_flat": "laid flat, 1in below armhole",
+    "length": "high point shoulder to hem"
+  },
+  "sizes": {
+    "XS": {
+      "chest_flat": 17,
+      "length": 26.5
+    },
+    "S": {
+      "chest_flat": 19,
+      "length": 27.5
+    },
+    "M": {
+      "chest_flat": 21,
+      "length": 28.5
+    },
+    "L": {
+      "chest_flat": 23,
+      "length": 29.5
+    },
+    "XL": {
+      "chest_flat": 25,
+      "length": 30.5
+    },
+    "2XL": {
+      "chest_flat": 27,
+      "length": 31.5
+    }
+  }
+}
