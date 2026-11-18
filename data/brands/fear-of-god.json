@@ -1,0 +1,4739 @@
+{
+ "brand": "Fear of God",
+ "units": "in",
+ "measurement_basis": {
+  "chest_flat": "laid flat (circumference charts halved)",
+  "length": "body length as published"
+ },
+ "items": [
+  {
+   "name": "Hooded Bomber [MAINLINE FW26 - ETERNAL ORDER]",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 26.5,
+     "length": 27.25
+    },
+    "S": {
+     "chest_flat": 27.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 28.5,
+     "length": 28.25
+    },
+    "L": {
+     "chest_flat": 29.5,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "Track Jacket [MAINLINE FW26 - ETERNAL ORDER]",
+   "category": "jacket",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 27.0,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 28.0,
+     "length": 26.0
+    },
+    "M": {
+     "chest_flat": 29.0,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 30.0,
+     "length": 27.25
+    }
+   }
+  },
+  {
+   "name": "Washed Cotton Nylon Gabardine Field Jacket [MAINLINE FW26 - ETERNAL ORDER]",
+   "category": "jacket",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 27.5,
+     "length": 33.0
+    },
+    "S": {
+     "chest_flat": 28.5,
+     "length": 34.0
+    },
+    "M": {
+     "chest_flat": 29.5,
+     "length": 35.0
+    }
+   }
+  },
+  {
+   "name": "Cotton Rayon Mockneck Short Sleeve Tee [MAINLINE FW26 - ETERNAL ORDER]",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 24.75,
+     "length": 28.0
+    },
+    "S": {
+     "chest_flat": 25.62,
+     "length": 29.0
+    },
+    "M": {
+     "chest_flat": 26.62,
+     "length": 30.0
+    },
+    "L": {
+     "chest_flat": 27.62,
+     "length": 31.0
+    },
+    "XL": {
+     "chest_flat": 28.5,
+     "length": 32.0
+    },
+    "2XL": {
+     "chest_flat": 29.5,
+     "length": 33.0
+    }
+   }
+  },
+  {
+   "name": "Raglan Funnel Neck Sweatshirt [MAINLINE FW26 - ETERNAL ORDER]",
+   "category": "crewneck",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.5,
+     "length": 22.0
+    },
+    "S": {
+     "chest_flat": 26.5,
+     "length": 23.0
+    },
+    "M": {
+     "chest_flat": 27.5,
+     "length": 23.0
+    },
+    "L": {
+     "chest_flat": 28.5,
+     "length": 24.0
+    },
+    "XL": {
+     "chest_flat": 29.5,
+     "length": 24.0
+    }
+   }
+  },
+  {
+   "name": "Canvas Field Jacket [MAINLINE FW26 - ETERNAL ORDER]",
+   "category": "jacket",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 26.5,
+     "length": 31.0
+    },
+    "S": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    },
+    "M": {
+     "chest_flat": 28.5,
+     "length": 32.0
+    },
+    "L": {
+     "chest_flat": 29.5,
+     "length": 33.0
+    }
+   }
+  },
+  {
+   "name": "Mockneck Long Sleeve Tee [MAINLINE FW26 - ETERNAL ORDER]",
+   "category": "long-sleeve",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 24.5,
+     "length": 28.0
+    },
+    "S": {
+     "chest_flat": 25.5,
+     "length": 29.0
+    },
+    "M": {
+     "chest_flat": 26.5,
+     "length": 30.0
+    },
+    "L": {
+     "chest_flat": 27.5,
+     "length": 31.0
+    },
+    "XL": {
+     "chest_flat": 28.5,
+     "length": 32.0
+    },
+    "2XL": {
+     "chest_flat": 29.5,
+     "length": 33.0
+    }
+   }
+  },
+  {
+   "name": "LS TEE [MAINLINE FW26 - ETERNAL ORDER]",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 24.5,
+     "length": 29.25
+    },
+    "S": {
+     "chest_flat": 25.5,
+     "length": 30.0
+    },
+    "M": {
+     "chest_flat": 26.5,
+     "length": 30.25
+    },
+    "L": {
+     "chest_flat": 27.5,
+     "length": 31.0
+    },
+    "XL": {
+     "chest_flat": 28.5,
+     "length": 31.25
+    },
+    "2XL": {
+     "chest_flat": 29.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "Military Shirt [MAINLINE FW26 - ETERNAL ORDER]",
+   "category": "shirt",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.5,
+     "length": 30.0
+    },
+    "S": {
+     "chest_flat": 26.5,
+     "length": 31.0
+    },
+    "M": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    },
+    "L": {
+     "chest_flat": 28.5,
+     "length": 32.5
+    },
+    "XL": {
+     "chest_flat": 29.5,
+     "length": 33.5
+    }
+   }
+  },
+  {
+   "name": "Relaxed Polo [MAINLINE FW26 - ETERNAL ORDER]",
+   "category": "polo",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 24.0,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 25.0,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 26.0,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 26.75,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 27.75,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 28.75,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "Extrafine Merino Wool Mockneck Sweater [MAINLINE FW26 - ETERNAL ORDER]",
+   "category": "sweater",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 27.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 28.5,
+     "length": 25.5
+    },
+    "M": {
+     "chest_flat": 29.5,
+     "length": 26.0
+    }
+   }
+  },
+  {
+   "name": "Heavy Fleece Crewneck [MAINLINE FW26 - ETERNAL ORDER]",
+   "category": "crewneck",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 26.75,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 27.75,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 28.75,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 29.75,
+     "length": 28.5
+    }
+   }
+  },
+  {
+   "name": "Heavy Fleece Hoodie [MAINLINE FW26 - ETERNAL ORDER]",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 26.75,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 27.75,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 28.75,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 29.75,
+     "length": 28.5
+    }
+   }
+  },
+  {
+   "name": "Heavy Fleece Half-Zip Hoodie [MAINLINE FW26 - ETERNAL ORDER]",
+   "category": "half-zip",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 26.75,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 27.75,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 28.75,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 29.75,
+     "length": 28.5
+    }
+   }
+  },
+  {
+   "name": "Double Knit Merino Mockneck Sweater [MAINLINE FW26 - ETERNAL ORDER]",
+   "category": "sweater",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.25,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 24.0,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 25.0,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 26.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 27.0,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 28.12,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "Wool Cashmere Half-Zip Rib Sweater [MAINLINE FW26 - ETERNAL ORDER]",
+   "category": "half-zip",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.0,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 26.0,
+     "length": 26.25
+    },
+    "M": {
+     "chest_flat": 26.75,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 27.75,
+     "length": 27.25
+    },
+    "XL": {
+     "chest_flat": 28.75,
+     "length": 28.0
+    },
+    "2XL": {
+     "chest_flat": 29.75,
+     "length": 28.25
+    }
+   }
+  },
+  {
+   "name": "Merino Mockneck Rib Sweater [MAINLINE FW26 - ETERNAL ORDER]",
+   "category": "sweater",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 27.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 28.5,
+     "length": 25.5
+    },
+    "M": {
+     "chest_flat": 29.5,
+     "length": 26.0
+    }
+   }
+  },
+  {
+   "name": "SS TEE [MAINLINE FW26 - ETERNAL ORDER]",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 24.0,
+     "length": 28.0
+    },
+    "S": {
+     "chest_flat": 25.0,
+     "length": 29.0
+    },
+    "M": {
+     "chest_flat": 26.0,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 27.0,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 28.0,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 29.0,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "Eternal Short Sleeve Tee [MAINLINE FW26 - ETERNAL ORDER]",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.0,
+     "length": 28.5
+    },
+    "S": {
+     "chest_flat": 26.0,
+     "length": 29.5
+    },
+    "M": {
+     "chest_flat": 26.75,
+     "length": 30.5
+    },
+    "L": {
+     "chest_flat": 27.75,
+     "length": 31.5
+    },
+    "XL": {
+     "chest_flat": 28.75,
+     "length": 32.5
+    },
+    "2XL": {
+     "chest_flat": 29.75,
+     "length": 33.5
+    }
+   }
+  },
+  {
+   "name": "BLACK STAR LS T-SHIRT [MAINLINE FW26 - ETERNAL ORDER]",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 24.5,
+     "length": 29.25
+    },
+    "S": {
+     "chest_flat": 25.5,
+     "length": 30.0
+    },
+    "M": {
+     "chest_flat": 26.5,
+     "length": 30.25
+    },
+    "L": {
+     "chest_flat": 27.5,
+     "length": 31.0
+    },
+    "XL": {
+     "chest_flat": 28.5,
+     "length": 31.25
+    },
+    "2XL": {
+     "chest_flat": 29.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "Raglan Hoodie [MAINLINE FW26 - ETERNAL ORDER]",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.5,
+     "length": 22.0
+    },
+    "S": {
+     "chest_flat": 26.5,
+     "length": 23.0
+    },
+    "M": {
+     "chest_flat": 27.5,
+     "length": 23.0
+    },
+    "L": {
+     "chest_flat": 28.5,
+     "length": 24.0
+    },
+    "XL": {
+     "chest_flat": 29.5,
+     "length": 24.0
+    }
+   }
+  },
+  {
+   "name": "Fleece Crewneck [MAINLINE FW26 - ETERNAL ORDER]",
+   "category": "crewneck",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 24.5,
+     "length": 22.0
+    },
+    "S": {
+     "chest_flat": 26.5,
+     "length": 23.0
+    },
+    "M": {
+     "chest_flat": 27.5,
+     "length": 23.0
+    },
+    "L": {
+     "chest_flat": 28.5,
+     "length": 24.0
+    },
+    "XL": {
+     "chest_flat": 29.5,
+     "length": 24.0
+    }
+   }
+  },
+  {
+   "name": "Leisure Jacket [MAINLINE FW26 - ETERNAL ORDER]",
+   "category": "jacket",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.62,
+     "length": 33.0
+    },
+    "S": {
+     "chest_flat": 24.62,
+     "length": 34.0
+    },
+    "M": {
+     "chest_flat": 25.5,
+     "length": 35.0
+    },
+    "L": {
+     "chest_flat": 26.5,
+     "length": 36.0
+    },
+    "XL": {
+     "chest_flat": 27.5,
+     "length": 37.0
+    }
+   }
+  },
+  {
+   "name": "Lapelless Mid-length Jacket [MAINLINE FW26 - ETERNAL ORDER]",
+   "category": "jacket",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.0,
+     "length": 34.0
+    },
+    "S": {
+     "chest_flat": 26.0,
+     "length": 35.0
+    },
+    "M": {
+     "chest_flat": 27.0,
+     "length": 36.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 36.5
+    },
+    "XL": {
+     "chest_flat": 29.0,
+     "length": 37.0
+    }
+   }
+  },
+  {
+   "name": "Overshirt [MAINLINE FW26 - ETERNAL ORDER]",
+   "category": "shirt",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 26.5,
+     "length": 33.0
+    },
+    "S": {
+     "chest_flat": 27.5,
+     "length": 33.0
+    },
+    "M": {
+     "chest_flat": 28.5,
+     "length": 33.5
+    },
+    "L": {
+     "chest_flat": 29.5,
+     "length": 34.0
+    }
+   }
+  },
+  {
+   "name": "OVERSHIRT [MAINLINE FW26 - ETERNAL ORDER]",
+   "category": "shirt",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 26.0,
+     "length": 31.12
+    },
+    "S": {
+     "chest_flat": 26.94
+    },
+    "M": {
+     "chest_flat": 27.94,
+     "length": 33.12
+    },
+    "L": {
+     "chest_flat": 28.94,
+     "length": 34.12
+    },
+    "XL": {
+     "chest_flat": 29.94,
+     "length": 35.0
+    }
+   }
+  },
+  {
+   "name": "NFL Paris 90s Relaxed Hoodie",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 18.5,
+     "length": 26.0
+    },
+    "XS": {
+     "chest_flat": 19.5,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 20.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 23.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 24.5,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "NFL Paris Merch Tee",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.75,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 24.75,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 25.75,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 26.75,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 27.75,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 28.75,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "NFL Paris Boxy Crewneck",
+   "category": "crewneck",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 23.5,
+     "length": 26.5
+    },
+    "XS": {
+     "chest_flat": 24.5,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 25.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 26.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 29.5,
+     "length": 29.5
+    }
+   }
+  },
+  {
+   "name": "NBA 90's RELAXED CREWNECK",
+   "category": "crewneck",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 18.5,
+     "length": 26.0
+    },
+    "XS": {
+     "chest_flat": 19.5,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 20.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 23.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 24.5,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "NBA MUSCLE TEE",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 26.0,
+     "length": 29.0
+    },
+    "XS": {
+     "chest_flat": 27.0,
+     "length": 29.5
+    },
+    "S": {
+     "chest_flat": 28.0,
+     "length": 30.0
+    },
+    "M": {
+     "chest_flat": 29.0,
+     "length": 30.5
+    }
+   }
+  },
+  {
+   "name": "NBA FALL 90'S RELAXED HOODIE",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 18.5,
+     "length": 26.0
+    },
+    "XS": {
+     "chest_flat": 19.5,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 20.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 23.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 24.5,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "NBA FALL MERCH TEE",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.75,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 24.75,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 25.75,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 26.75,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 27.75,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 28.75,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "Marathon Merch Tee",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.75,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 24.75,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 25.75,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 26.75,
+     "length": 28.5
+    },
+    "XL": {
+     "chest_flat": 27.75,
+     "length": 29.0
+    },
+    "2XL": {
+     "chest_flat": 28.75,
+     "length": 29.5
+    }
+   }
+  },
+  {
+   "name": "Signature 3/4 Sleeve 90s Knit Polo",
+   "category": "polo",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 24.5,
+     "length": 25.0
+    },
+    "XS": {
+     "chest_flat": 25.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 26.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 27.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 29.0,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "Active Trace Modern Fleece Hoodie",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 22.5,
+     "length": 25.5
+    },
+    "XS": {
+     "chest_flat": 23.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 24.5,
+     "length": 26.5
+    },
+    "M": {
+     "chest_flat": 25.5,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 27.0,
+     "length": 27.5
+    },
+    "XL": {
+     "chest_flat": 28.5,
+     "length": 28.0
+    },
+    "2XL": {
+     "chest_flat": 30.0,
+     "length": 28.5
+    }
+   }
+  },
+  {
+   "name": "Marathon Modern Track Jacket",
+   "category": "jacket",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 23.5,
+     "length": 25.5
+    },
+    "XS": {
+     "chest_flat": 24.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 25.5,
+     "length": 26.5
+    },
+    "M": {
+     "chest_flat": 26.5,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 27.5
+    },
+    "XL": {
+     "chest_flat": 29.5,
+     "length": 28.0
+    }
+   }
+  },
+  {
+   "name": "Marathon Merch Hoodie",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 27.5,
+     "length": 27.5
+    },
+    "S": {
+     "chest_flat": 28.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 29.5,
+     "length": 28.5
+    }
+   }
+  },
+  {
+   "name": "Signature Lounge Half Zip Hoodie",
+   "category": "half-zip",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 24.5,
+     "length": 33.5
+    },
+    "XS": {
+     "chest_flat": 25.5,
+     "length": 34.0
+    },
+    "S": {
+     "chest_flat": 26.5,
+     "length": 35.5
+    },
+    "M": {
+     "chest_flat": 27.5,
+     "length": 35.0
+    },
+    "L": {
+     "chest_flat": 29.0,
+     "length": 35.5
+    }
+   }
+  },
+  {
+   "name": "Tricot Modern Track Jacket",
+   "category": "jacket",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 23.5,
+     "length": 25.5
+    },
+    "XS": {
+     "chest_flat": 24.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 25.5,
+     "length": 26.5
+    },
+    "M": {
+     "chest_flat": 26.5,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 27.5
+    },
+    "XL": {
+     "chest_flat": 29.5,
+     "length": 28.0
+    }
+   }
+  },
+  {
+   "name": "Tricot 90s Relaxed Long Sleeve Mock Neck",
+   "category": "long-sleeve",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 23.0,
+     "length": 31.5
+    },
+    "XS": {
+     "chest_flat": 24.0,
+     "length": 32.0
+    },
+    "S": {
+     "chest_flat": 25.0,
+     "length": 32.5
+    },
+    "M": {
+     "chest_flat": 26.0,
+     "length": 33.0
+    },
+    "L": {
+     "chest_flat": 27.5,
+     "length": 33.5
+    },
+    "XL": {
+     "chest_flat": 29.0,
+     "length": 34.0
+    }
+   }
+  },
+  {
+   "name": "FLEECE OVERSHIRT",
+   "category": "shirt",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 26.0,
+     "length": 33.0
+    },
+    "XS": {
+     "chest_flat": 27.0,
+     "length": 34.0
+    },
+    "S": {
+     "chest_flat": 28.0,
+     "length": 35.0
+    },
+    "M": {
+     "chest_flat": 29.0,
+     "length": 36.0
+    }
+   }
+  },
+  {
+   "name": "CLASSIC RAGLAN HI-HOODIE",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 23.5,
+     "length": 26.5
+    },
+    "XS": {
+     "chest_flat": 24.5,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 25.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 26.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 28.5
+    },
+    "XL": {
+     "chest_flat": 29.5,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "ESSENTIAL RAGLAN TEE",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 26.0,
+     "length": 30.0
+    },
+    "XS": {
+     "chest_flat": 27.0,
+     "length": 30.5
+    },
+    "S": {
+     "chest_flat": 28.0,
+     "length": 31.0
+    },
+    "M": {
+     "chest_flat": 29.5,
+     "length": 31.5
+    }
+   }
+  },
+  {
+   "name": "90S RELAXED MOCKNECK RAGLAN LS TEE",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 23.0,
+     "length": 31.5
+    },
+    "XS": {
+     "chest_flat": 24.0,
+     "length": 32.0
+    },
+    "S": {
+     "chest_flat": 25.0,
+     "length": 32.5
+    },
+    "M": {
+     "chest_flat": 26.0,
+     "length": 33.0
+    },
+    "L": {
+     "chest_flat": 27.5,
+     "length": 33.5
+    },
+    "XL": {
+     "chest_flat": 29.0,
+     "length": 34.0
+    }
+   }
+  },
+  {
+   "name": "CLASSIC RAGLAN HOODIE",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 23.5,
+     "length": 26.5
+    },
+    "XS": {
+     "chest_flat": 24.5,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 25.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 26.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 28.5
+    },
+    "XL": {
+     "chest_flat": 29.5,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "CLASSIC TRACK JACKET",
+   "category": "jacket",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 23.5,
+     "length": 25.5
+    },
+    "XS": {
+     "chest_flat": 24.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 25.5,
+     "length": 26.5
+    },
+    "M": {
+     "chest_flat": 26.5,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 27.5
+    },
+    "XL": {
+     "chest_flat": 29.5,
+     "length": 28.0
+    }
+   }
+  },
+  {
+   "name": "PADDED SHIRT JACKET",
+   "category": "shirt",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 26.0,
+     "length": 33.0
+    },
+    "XS": {
+     "chest_flat": 27.0,
+     "length": 34.0
+    },
+    "S": {
+     "chest_flat": 28.0,
+     "length": 35.0
+    },
+    "M": {
+     "chest_flat": 29.0,
+     "length": 36.0
+    }
+   }
+  },
+  {
+   "name": "CLASSIC HALF ZIP RAGLAN",
+   "category": "half-zip",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 25.5,
+     "length": 25.5
+    },
+    "XS": {
+     "chest_flat": 26.5,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 27.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 28.5
+    },
+    "L": {
+     "chest_flat": 29.5,
+     "length": 29.5
+    }
+   }
+  },
+  {
+   "name": "PANELLED MODERN LONG SLEEVE TEE",
+   "category": "long-sleeve",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 24.5,
+     "length": 30.5
+    },
+    "XS": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "S": {
+     "chest_flat": 26.5,
+     "length": 31.5
+    },
+    "M": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    },
+    "L": {
+     "chest_flat": 29.0,
+     "length": 32.5
+    }
+   }
+  },
+  {
+   "name": "PANELLED MODERN TEE",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 26.0,
+     "length": 30.0
+    },
+    "XS": {
+     "chest_flat": 27.0,
+     "length": 30.5
+    },
+    "S": {
+     "chest_flat": 28.0,
+     "length": 31.0
+    },
+    "M": {
+     "chest_flat": 29.5,
+     "length": 31.5
+    }
+   }
+  },
+  {
+   "name": "CLASSIC DOUBLE LAYER TEE",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 21.5,
+     "length": 28.0
+    },
+    "XS": {
+     "chest_flat": 22.5,
+     "length": 28.5
+    },
+    "S": {
+     "chest_flat": 23.5,
+     "length": 29.0
+    },
+    "M": {
+     "chest_flat": 24.5,
+     "length": 29.5
+    },
+    "L": {
+     "chest_flat": 26.0,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 27.5,
+     "length": 30.5
+    },
+    "2XL": {
+     "chest_flat": 29.0,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "NFL Merch Tee",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.75,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 24.75,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 25.75,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 26.75,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 27.75,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 28.75,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "NFL 90s Relaxed Crewneck",
+   "category": "crewneck",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 18.5,
+     "length": 26.0
+    },
+    "XS": {
+     "chest_flat": 19.5,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 20.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 23.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 24.5,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "NFL 90s Relaxed Hoodie",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 18.5,
+     "length": 26.0
+    },
+    "XS": {
+     "chest_flat": 19.5,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 20.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 23.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 24.5,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "Amy Sherald Tee",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.75,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 24.75,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 25.75,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 26.75,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 27.75,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 28.75,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "Amy Sherald Pocket Hoodie",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.0,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 26.0,
+     "length": 26.0
+    },
+    "M": {
+     "chest_flat": 27.0,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 29.0,
+     "length": 29.0
+    },
+    "2XL": {
+     "chest_flat": 30.0,
+     "length": 30.0
+    }
+   }
+  },
+  {
+   "name": "Mens 90's Relaxed Hoodie",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 18.5,
+     "length": 26.0
+    },
+    "XS": {
+     "chest_flat": 19.5,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 20.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 23.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 24.5,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "Mens 90's Relaxed Crewneck",
+   "category": "crewneck",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 18.5,
+     "length": 26.0
+    },
+    "XS": {
+     "chest_flat": 19.5,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 20.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 23.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 24.5,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "Property Lounge Half Zip Hoodie",
+   "category": "half-zip",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 24.5,
+     "length": 33.5
+    },
+    "XS": {
+     "chest_flat": 25.5,
+     "length": 34.0
+    },
+    "S": {
+     "chest_flat": 26.5,
+     "length": 35.5
+    },
+    "M": {
+     "chest_flat": 27.5,
+     "length": 35.0
+    },
+    "L": {
+     "chest_flat": 29.0,
+     "length": 35.5
+    }
+   }
+  },
+  {
+   "name": "Tri-Blend Essential Tee Slim Fit",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 21.5,
+     "length": 27.25
+    },
+    "XS": {
+     "chest_flat": 22.5,
+     "length": 28.25
+    },
+    "S": {
+     "chest_flat": 23.5,
+     "length": 29.25
+    },
+    "M": {
+     "chest_flat": 24.5,
+     "length": 30.25
+    },
+    "L": {
+     "chest_flat": 25.5,
+     "length": 31.25
+    },
+    "XL": {
+     "chest_flat": 26.5,
+     "length": 32.25
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 33.25
+    }
+   }
+  },
+  {
+   "name": "Dallas Cowboys Training Camp Tee",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.75,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 24.75,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 25.75,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 26.75,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 27.75,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 28.75,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "Dallas Cowboys Training Camp Crewneck Boxy Fit",
+   "category": "crewneck",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 23.5,
+     "length": 26.5
+    },
+    "XS": {
+     "chest_flat": 24.5,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 25.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 26.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 29.5,
+     "length": 29.5
+    }
+   }
+  },
+  {
+   "name": "MLB Full Zip Sport Hoodie",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 22.5,
+     "length": 24.5
+    },
+    "XS": {
+     "chest_flat": 23.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 24.5,
+     "length": 25.5
+    },
+    "M": {
+     "chest_flat": 25.5,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 27.0,
+     "length": 26.5
+    },
+    "XL": {
+     "chest_flat": 28.5,
+     "length": 27.0
+    },
+    "2XL": {
+     "chest_flat": 30.0,
+     "length": 27.5
+    }
+   }
+  },
+  {
+   "name": "Soft Knit Tee",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 25.0,
+     "length": 26.0
+    },
+    "XS": {
+     "chest_flat": 26.0,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 27.0,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 28.0,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 29.0,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 30.0,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "3/4 Henley Sweatshirt",
+   "category": "crewneck",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 24.75,
+     "length": 30.5
+    },
+    "XS": {
+     "chest_flat": 26.5,
+     "length": 31.0
+    },
+    "S": {
+     "chest_flat": 27.5,
+     "length": 31.5
+    },
+    "M": {
+     "chest_flat": 28.5,
+     "length": 32.0
+    },
+    "L": {
+     "chest_flat": 30.0,
+     "length": 32.5
+    }
+   }
+  },
+  {
+   "name": "Cotton Canvas Overshirt",
+   "category": "shirt",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 26.0,
+     "length": 33.0
+    },
+    "XS": {
+     "chest_flat": 27.0,
+     "length": 34.0
+    },
+    "S": {
+     "chest_flat": 28.0,
+     "length": 35.0
+    },
+    "M": {
+     "chest_flat": 29.0,
+     "length": 36.0
+    }
+   }
+  },
+  {
+   "name": "Half Zip Track Jacket",
+   "category": "half-zip",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 26.5,
+     "length": 26.5
+    },
+    "XS": {
+     "chest_flat": 27.5,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 28.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 29.5,
+     "length": 28.0
+    }
+   }
+  },
+  {
+   "name": "Half Zip Baseball Shirt",
+   "category": "half-zip",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 27.75,
+     "length": 30.5
+    },
+    "S": {
+     "chest_flat": 28.75,
+     "length": 31.0
+    },
+    "M": {
+     "chest_flat": 29.75,
+     "length": 31.5
+    }
+   }
+  },
+  {
+   "name": "Cropped Polo",
+   "category": "polo",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 25.5,
+     "length": 27.0
+    },
+    "XS": {
+     "chest_flat": 26.5,
+     "length": 27.5
+    },
+    "S": {
+     "chest_flat": 27.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 29.0,
+     "length": 28.5
+    }
+   }
+  },
+  {
+   "name": "Cut Off 90s Tee",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 27.0,
+     "length": 29.5
+    },
+    "S": {
+     "chest_flat": 28.0,
+     "length": 30.0
+    },
+    "M": {
+     "chest_flat": 29.0,
+     "length": 30.5
+    }
+   }
+  },
+  {
+   "name": "Merch Tee Boxy Fit",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 23.75,
+     "length": 27.0
+    },
+    "XS": {
+     "chest_flat": 24.75,
+     "length": 27.5
+    },
+    "S": {
+     "chest_flat": 25.75,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 27.25,
+     "length": 28.5
+    },
+    "L": {
+     "chest_flat": 28.75,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "Ponte Modern Tee Relaxed Fit",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 26.0,
+     "length": 30.0
+    },
+    "XS": {
+     "chest_flat": 27.0,
+     "length": 30.5
+    },
+    "S": {
+     "chest_flat": 28.0,
+     "length": 31.0
+    },
+    "M": {
+     "chest_flat": 29.5,
+     "length": 31.5
+    }
+   }
+  },
+  {
+   "name": "Merch Long Sleeve Tee",
+   "category": "long-sleeve",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 21.5,
+     "length": 28.0
+    },
+    "XS": {
+     "chest_flat": 22.5,
+     "length": 28.5
+    },
+    "S": {
+     "chest_flat": 23.5,
+     "length": 29.0
+    },
+    "M": {
+     "chest_flat": 24.5,
+     "length": 29.5
+    },
+    "L": {
+     "chest_flat": 26.0,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 27.5,
+     "length": 30.5
+    },
+    "2XL": {
+     "chest_flat": 29.0,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "Heavy Jersey Merch Long Sleeve Tee",
+   "category": "long-sleeve",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 21.5,
+     "length": 28.0
+    },
+    "XS": {
+     "chest_flat": 22.5,
+     "length": 28.5
+    },
+    "S": {
+     "chest_flat": 23.5,
+     "length": 29.0
+    },
+    "M": {
+     "chest_flat": 24.5,
+     "length": 29.5
+    },
+    "L": {
+     "chest_flat": 26.0,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 27.5,
+     "length": 30.5
+    },
+    "2XL": {
+     "chest_flat": 29.0,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "Sport Mesh Merch Long Sleeve Tee",
+   "category": "long-sleeve",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 21.5,
+     "length": 28.0
+    },
+    "XS": {
+     "chest_flat": 22.5,
+     "length": 28.5
+    },
+    "S": {
+     "chest_flat": 23.5,
+     "length": 29.0
+    },
+    "M": {
+     "chest_flat": 24.5,
+     "length": 29.5
+    },
+    "L": {
+     "chest_flat": 26.0,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 27.5,
+     "length": 30.5
+    },
+    "2XL": {
+     "chest_flat": 29.0,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "Cropped Relaxed Panelled Hoodie",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 27.0,
+     "length": 25.0
+    },
+    "XS": {
+     "chest_flat": 28.0,
+     "length": 25.5
+    },
+    "S": {
+     "chest_flat": 29.0,
+     "length": 26.0
+    },
+    "M": {
+     "chest_flat": 30.0,
+     "length": 26.5
+    }
+   }
+  },
+  {
+   "name": "90s Hoodie",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 18.5,
+     "length": 26.0
+    },
+    "XS": {
+     "chest_flat": 19.5,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 20.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 23.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 24.5,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "90's Relaxed Zip Up Hoodie",
+   "category": "zip-hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 18.5,
+     "length": 26.0
+    },
+    "XS": {
+     "chest_flat": 19.5,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 20.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 23.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 24.5,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "Sport Mesh Merch Tee",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.75,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 24.75,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 25.75,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 26.75,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 27.75,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 28.75,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "Merch Tee",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.75,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 24.75,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 25.75,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 26.75,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 27.75,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 28.75,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "Track Jacket",
+   "category": "jacket",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 23.5,
+     "length": 25.5
+    },
+    "XS": {
+     "chest_flat": 24.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 25.5,
+     "length": 26.5
+    },
+    "M": {
+     "chest_flat": 26.5,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 27.5
+    },
+    "XL": {
+     "chest_flat": 29.5,
+     "length": 28.0
+    }
+   }
+  },
+  {
+   "name": "Cotton Twill Work Jacket [Summer 2026 Mens Essentials]",
+   "category": "jacket",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 25.0,
+     "length": 25.5
+    },
+    "XS": {
+     "chest_flat": 26.0,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 27.0,
+     "length": 26.5
+    },
+    "M": {
+     "chest_flat": 28.0,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 29.5,
+     "length": 27.5
+    }
+   }
+  },
+  {
+   "name": "90s Crewneck Sweatshirt",
+   "category": "crewneck",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 18.5,
+     "length": 26.0
+    },
+    "XS": {
+     "chest_flat": 19.5,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 20.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 23.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 24.5,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "MLB Sport Hoodie",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 23.5,
+     "length": 26.5
+    },
+    "XS": {
+     "chest_flat": 24.5,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 25.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 26.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 28.5
+    },
+    "XL": {
+     "chest_flat": 29.5,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "MLB Boxy Long Sleeve Tee",
+   "category": "long-sleeve",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 23.0,
+     "length": 31.5
+    },
+    "XS": {
+     "chest_flat": 24.0,
+     "length": 32.0
+    },
+    "S": {
+     "chest_flat": 25.0,
+     "length": 32.5
+    },
+    "M": {
+     "chest_flat": 26.0,
+     "length": 33.0
+    },
+    "L": {
+     "chest_flat": 27.5,
+     "length": 33.5
+    },
+    "XL": {
+     "chest_flat": 29.0,
+     "length": 34.0
+    }
+   }
+  },
+  {
+   "name": "Yankees Half Zip Pullover",
+   "category": "half-zip",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 26.5,
+     "length": 26.5
+    },
+    "XS": {
+     "chest_flat": 27.5,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 28.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 29.5,
+     "length": 28.0
+    }
+   }
+  },
+  {
+   "name": "MLB Merch Tee",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.75,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 24.75,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 25.75,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 26.75,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 27.75,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 28.75,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "Dodgers Raglan Half Zip Sport Hoodie",
+   "category": "half-zip",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 23.5,
+     "length": 26.5
+    },
+    "XS": {
+     "chest_flat": 24.5,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 25.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 26.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 28.5
+    },
+    "XL": {
+     "chest_flat": 29.5,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "MLB Raglan Sport Hoodie",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 23.5,
+     "length": 26.5
+    },
+    "XS": {
+     "chest_flat": 24.5,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 25.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 26.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 28.5
+    },
+    "XL": {
+     "chest_flat": 29.5,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "Jackie Robinson Day Merch Hoodie",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 27.5,
+     "length": 27.5
+    },
+    "S": {
+     "chest_flat": 28.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 29.5,
+     "length": 28.5
+    }
+   }
+  },
+  {
+   "name": "Jackie Robinson Day Merch Tee",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.75,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 24.75,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 25.75,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 26.75,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 27.75,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 28.75,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "JACKIE ROBINSON X NLBM SPORT HOODIE",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 23.5,
+     "length": 26.5
+    },
+    "XS": {
+     "chest_flat": 24.5,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 25.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 26.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 28.5
+    },
+    "XL": {
+     "chest_flat": 29.5,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "Leather Relaxed Shirt [9th SP26] MENS",
+   "category": "shirt",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.0,
+     "length": 31.0
+    },
+    "S": {
+     "chest_flat": 26.0,
+     "length": 32.0
+    },
+    "M": {
+     "chest_flat": 27.0,
+     "length": 33.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 34.0
+    },
+    "XL": {
+     "chest_flat": 29.0,
+     "length": 35.0
+    },
+    "2XL": {
+     "chest_flat": 30.0,
+     "length": 36.0
+    }
+   }
+  },
+  {
+   "name": "Baseball Club Half Zip Hoodie",
+   "category": "half-zip",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.0,
+     "length": 24.0
+    },
+    "S": {
+     "chest_flat": 26.0,
+     "length": 25.0
+    },
+    "M": {
+     "chest_flat": 27.0,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 27.0
+    },
+    "XL": {
+     "chest_flat": 29.0,
+     "length": 28.0
+    }
+   }
+  },
+  {
+   "name": "Cotton Wool Oxford Classic Shirt [9th SP26] MENS",
+   "category": "shirt",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.0,
+     "length": 31.0
+    },
+    "S": {
+     "chest_flat": 26.0,
+     "length": 32.0
+    },
+    "M": {
+     "chest_flat": 27.0,
+     "length": 33.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 34.0
+    },
+    "XL": {
+     "chest_flat": 29.0,
+     "length": 35.0
+    },
+    "2XL": {
+     "chest_flat": 30.0,
+     "length": 36.0
+    }
+   }
+  },
+  {
+   "name": "Half Raglan Hoodie W/ Pocket [9TH SP26] MENS",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.0,
+     "length": 24.5
+    },
+    "S": {
+     "chest_flat": 26.0,
+     "length": 25.0
+    },
+    "M": {
+     "chest_flat": 27.0,
+     "length": 25.5
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 26.0
+    },
+    "XL": {
+     "chest_flat": 29.0,
+     "length": 26.5
+    },
+    "2XL": {
+     "chest_flat": 30.0,
+     "length": 27.0
+    }
+   }
+  },
+  {
+   "name": "Sunfaded Classic Half Raglan Sweatshirt [9TH SP26] MENS",
+   "category": "crewneck",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.0,
+     "length": 24.5
+    },
+    "S": {
+     "chest_flat": 26.0,
+     "length": 25.0
+    },
+    "M": {
+     "chest_flat": 27.0,
+     "length": 25.5
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 26.0
+    },
+    "XL": {
+     "chest_flat": 29.0,
+     "length": 26.5
+    },
+    "2XL": {
+     "chest_flat": 30.0,
+     "length": 27.0
+    }
+   }
+  },
+  {
+   "name": "Classic Trucker Jacket [9th SP26] MENS",
+   "category": "jacket",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.0
+    },
+    "S": {
+     "chest_flat": 24.0
+    },
+    "M": {
+     "chest_flat": 25.0
+    },
+    "L": {
+     "chest_flat": 26.0
+    },
+    "XL": {
+     "chest_flat": 27.0
+    },
+    "2XL": {
+     "chest_flat": 28.0
+    }
+   }
+  },
+  {
+   "name": "Property Lounge Long Zip Hoodie [SP26]",
+   "category": "zip-hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 24.5,
+     "length": 33.5
+    },
+    "XS": {
+     "chest_flat": 25.5,
+     "length": 34.0
+    },
+    "S": {
+     "chest_flat": 26.5,
+     "length": 35.5
+    },
+    "M": {
+     "chest_flat": 27.5,
+     "length": 35.0
+    },
+    "L": {
+     "chest_flat": 29.0,
+     "length": 35.5
+    }
+   }
+  },
+  {
+   "name": "Japanese Selvedge Classic Trucker Jacket [9th SP26] MENS",
+   "category": "jacket",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.0
+    },
+    "S": {
+     "chest_flat": 24.0
+    },
+    "M": {
+     "chest_flat": 25.0
+    },
+    "L": {
+     "chest_flat": 26.0
+    },
+    "XL": {
+     "chest_flat": 27.0
+    },
+    "2XL": {
+     "chest_flat": 28.0
+    }
+   }
+  },
+  {
+   "name": "NBA X Barkley Hendricks 90s Crewneck",
+   "category": "crewneck",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 18.5,
+     "length": 26.0
+    },
+    "XS": {
+     "chest_flat": 19.5,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 20.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 23.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 24.5,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "NBA X Barkley Hendricks Long Sleeve V-Neck Tee",
+   "category": "long-sleeve",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 24.5,
+     "length": 30.5
+    },
+    "XS": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "S": {
+     "chest_flat": 26.5,
+     "length": 31.5
+    },
+    "M": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    },
+    "L": {
+     "chest_flat": 29.0,
+     "length": 32.5
+    }
+   }
+  },
+  {
+   "name": "NBA X Barkley Hendricks 90s Hoodie",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 18.5,
+     "length": 26.0
+    },
+    "XS": {
+     "chest_flat": 19.5,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 20.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 23.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 24.5,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 29.0
+    },
+    "3XL": {
+     "chest_flat": 27.5,
+     "length": 29.5
+    }
+   }
+  },
+  {
+   "name": "USA Baseball Sport Hoodie",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 23.5,
+     "length": 26.5
+    },
+    "XS": {
+     "chest_flat": 24.5,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 25.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 26.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 28.5
+    },
+    "XL": {
+     "chest_flat": 29.5,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "USA Baseball Merch Tee",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.75,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 24.75,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 25.75,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 26.75,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 27.75,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 28.75,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "Cut Sleeve Sweatshirt [9th SP26] MENS",
+   "category": "crewneck",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 26.0,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 27.0,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 28.0,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 29.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 30.0,
+     "length": 28.0
+    }
+   }
+  },
+  {
+   "name": "Cotton Rayon Tee [9th SP26] MENS",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.0,
+     "length": 28.0
+    },
+    "S": {
+     "chest_flat": 26.0,
+     "length": 29.0
+    },
+    "M": {
+     "chest_flat": 27.0,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 29.0,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 30.0,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "Cotton Rayon 43 Tee [9th SP26] MENS",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.0,
+     "length": 30.0
+    },
+    "S": {
+     "chest_flat": 26.0,
+     "length": 31.0
+    },
+    "M": {
+     "chest_flat": 27.0,
+     "length": 31.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 32.0
+    },
+    "XL": {
+     "chest_flat": 29.0,
+     "length": 32.0
+    },
+    "2XL": {
+     "chest_flat": 30.0,
+     "length": 33.0
+    }
+   }
+  },
+  {
+   "name": "\"26\" SHORT SLEEVE TEE [9th SP26] MENS",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.75,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 24.75,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 25.75,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 26.75,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 27.75,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 28.75,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "CLASSIC FIT HOODIE [9th SP26] MENS",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.0,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 26.0,
+     "length": 26.0
+    },
+    "M": {
+     "chest_flat": 27.0,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 29.0,
+     "length": 29.0
+    },
+    "2XL": {
+     "chest_flat": 30.0,
+     "length": 30.0
+    }
+   }
+  },
+  {
+   "name": "Mens Active Trace Half Zip Track Jacket [SP26]",
+   "category": "half-zip",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 26.5,
+     "length": 26.5
+    },
+    "XS": {
+     "chest_flat": 27.5,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 28.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 29.5,
+     "length": 28.0
+    }
+   }
+  },
+  {
+   "name": "Mens Classic Hoodie [SP26]",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 23.0,
+     "length": 25.5
+    },
+    "XS": {
+     "chest_flat": 24.0,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 25.0,
+     "length": 26.5
+    },
+    "M": {
+     "chest_flat": 26.0,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 27.5,
+     "length": 27.5
+    },
+    "XL": {
+     "chest_flat": 29.0,
+     "length": 28.0
+    }
+   }
+  },
+  {
+   "name": "Mens 90s Hoodie [SP26]",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 18.5,
+     "length": 26.0
+    },
+    "XS": {
+     "chest_flat": 19.5,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 20.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 23.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 24.5,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 29.0
+    },
+    "3XL": {
+     "chest_flat": 27.5,
+     "length": 29.5
+    }
+   }
+  },
+  {
+   "name": "Barkley Hendricks 90s Tee [26]",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "S": {
+     "chest_flat": 26.5,
+     "length": 31.5
+    },
+    "M": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    },
+    "L": {
+     "chest_flat": 29.0,
+     "length": 32.5
+    }
+   }
+  },
+  {
+   "name": "Essential Tee [SP26] MENS",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 21.25,
+     "length": 26.5
+    },
+    "XS": {
+     "chest_flat": 22.25,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 23.25,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 24.25,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 25.75,
+     "length": 28.5
+    },
+    "XL": {
+     "chest_flat": 27.25,
+     "length": 29.5
+    },
+    "2XL": {
+     "chest_flat": 28.75,
+     "length": 30.0
+    }
+   }
+  },
+  {
+   "name": "Baseball Tee [SP26] MENS",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 24.5,
+     "length": 30.5
+    },
+    "XS": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "S": {
+     "chest_flat": 26.5,
+     "length": 31.5
+    },
+    "M": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    },
+    "L": {
+     "chest_flat": 29.0,
+     "length": 32.5
+    }
+   }
+  },
+  {
+   "name": "90s long Sleeve Tee [SP26] MENS",
+   "category": "long-sleeve",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 24.5,
+     "length": 30.5
+    },
+    "XS": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "S": {
+     "chest_flat": 26.5,
+     "length": 31.5
+    },
+    "M": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    },
+    "L": {
+     "chest_flat": 29.0,
+     "length": 32.5
+    }
+   }
+  },
+  {
+   "name": "90s Short Sleeve Tee [SP26] MENS",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 24.5,
+     "length": 30.5
+    },
+    "XS": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "S": {
+     "chest_flat": 26.5,
+     "length": 31.5
+    },
+    "M": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    },
+    "L": {
+     "chest_flat": 29.0,
+     "length": 32.5
+    }
+   }
+  },
+  {
+   "name": "INGLEWOOD X ALL STAR WEEKEND 26 90S TEE",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "S": {
+     "chest_flat": 26.5,
+     "length": 31.5
+    },
+    "M": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    },
+    "L": {
+     "chest_flat": 29.0,
+     "length": 32.5
+    }
+   }
+  },
+  {
+   "name": "INGLEWOOD X ASW26 90'S HOODIE",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 18.5,
+     "length": 26.0
+    },
+    "XS": {
+     "chest_flat": 19.5,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 20.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 23.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 24.5,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 29.0
+    },
+    "3XL": {
+     "chest_flat": 27.5,
+     "length": 29.5
+    }
+   }
+  },
+  {
+   "name": "JID Long Sleeve Tee",
+   "category": "long-sleeve",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.5,
+     "length": 32.12
+    },
+    "S": {
+     "chest_flat": 24.5,
+     "length": 32.62
+    },
+    "M": {
+     "chest_flat": 25.5,
+     "length": 33.12
+    },
+    "L": {
+     "chest_flat": 26.5,
+     "length": 33.62
+    },
+    "XL": {
+     "chest_flat": 27.5,
+     "length": 34.12
+    },
+    "2XL": {
+     "chest_flat": 28.5,
+     "length": 34.62
+    }
+   }
+  },
+  {
+   "name": "JID Heirophant Hoodie",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.0,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 26.0,
+     "length": 26.0
+    },
+    "M": {
+     "chest_flat": 27.0,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 29.0,
+     "length": 29.0
+    },
+    "2XL": {
+     "chest_flat": 30.0,
+     "length": 30.0
+    }
+   }
+  },
+  {
+   "name": "JID Cut Off Tee",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.0,
+     "length": 27.25
+    },
+    "S": {
+     "chest_flat": 26.0,
+     "length": 27.75
+    },
+    "M": {
+     "chest_flat": 27.0,
+     "length": 28.25
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 28.75
+    },
+    "XL": {
+     "chest_flat": 29.0,
+     "length": 29.25
+    },
+    "2XL": {
+     "chest_flat": 30.0,
+     "length": 29.75
+    }
+   }
+  },
+  {
+   "name": "Sinners Hoodie",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.0,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 26.0,
+     "length": 26.0
+    },
+    "M": {
+     "chest_flat": 27.0,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 29.0,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "Yankees Suede Fleece Modern Half Zip",
+   "category": "half-zip",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 26.5,
+     "length": 26.5
+    },
+    "XS": {
+     "chest_flat": 27.5,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 28.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 29.5,
+     "length": 28.0
+    }
+   }
+  },
+  {
+   "name": "Sport Crewneck",
+   "category": "crewneck",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 23.5,
+     "length": 26.5
+    },
+    "XS": {
+     "chest_flat": 24.5,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 25.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 26.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 28.5
+    },
+    "XL": {
+     "chest_flat": 29.5,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "MENS ESSENTIALS 2025 D3 [Denim Full Zip Work Shirt]",
+   "category": "shirt",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 26.0,
+     "length": 30.5
+    },
+    "XS": {
+     "chest_flat": 27.0,
+     "length": 31.0
+    },
+    "S": {
+     "chest_flat": 28.0,
+     "length": 31.5
+    },
+    "M": {
+     "chest_flat": 29.0,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "Mens Classic Crewneck Sweatshirt",
+   "category": "crewneck",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 22.5,
+     "length": 24.5
+    },
+    "XS": {
+     "chest_flat": 23.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 24.5,
+     "length": 25.5
+    },
+    "M": {
+     "chest_flat": 25.5,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 27.0,
+     "length": 26.5
+    },
+    "XL": {
+     "chest_flat": 28.5,
+     "length": 27.0
+    },
+    "2XL": {
+     "chest_flat": 30.0,
+     "length": 27.5
+    }
+   }
+  },
+  {
+   "name": "MENS ESSENTIALS 2025 D3 [Denim Work Jacket]",
+   "category": "jacket",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 25.0,
+     "length": 25.5
+    },
+    "XS": {
+     "chest_flat": 26.0,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 27.0,
+     "length": 26.5
+    },
+    "M": {
+     "chest_flat": 28.0,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 29.5,
+     "length": 27.5
+    }
+   }
+  },
+  {
+   "name": "MENS ESSENTIALS 2025 D3 [Nylon Half Zip Track Jacket]",
+   "category": "half-zip",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 26.5,
+     "length": 26.5
+    },
+    "XS": {
+     "chest_flat": 27.5,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 28.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 29.5,
+     "length": 28.0
+    }
+   }
+  },
+  {
+   "name": "CIVIL COLLECTION [Snap Front Denim Overshirt]",
+   "category": "shirt",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 26.0,
+     "length": 31.0
+    },
+    "S": {
+     "chest_flat": 27.0,
+     "length": 32.0
+    },
+    "M": {
+     "chest_flat": 28.0,
+     "length": 33.0
+    },
+    "L": {
+     "chest_flat": 29.0,
+     "length": 34.0
+    },
+    "XL": {
+     "chest_flat": 30.0,
+     "length": 35.0
+    }
+   }
+  },
+  {
+   "name": "MENS ESSENTIALS 2025 D3 [Sporty Nylon Half Zip]",
+   "category": "half-zip",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 26.5,
+     "length": 26.5
+    },
+    "XS": {
+     "chest_flat": 27.5,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 28.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 29.5,
+     "length": 28.0
+    }
+   }
+  },
+  {
+   "name": "NBA FALL 25' [NBA 1/2 ZIP TRACK JACKET]",
+   "category": "half-zip",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 26.5,
+     "length": 26.5
+    },
+    "XS": {
+     "chest_flat": 27.5,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 28.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 29.5,
+     "length": 28.0
+    }
+   }
+  },
+  {
+   "name": "NBA FALL 25' [NBA ZIP UP JACKET]",
+   "category": "jacket",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 25.0,
+     "length": 30.5
+    },
+    "XS": {
+     "chest_flat": 26.0,
+     "length": 31.0
+    },
+    "S": {
+     "chest_flat": 27.0,
+     "length": 31.5
+    },
+    "M": {
+     "chest_flat": 28.0,
+     "length": 32.0
+    },
+    "L": {
+     "chest_flat": 29.5,
+     "length": 32.5
+    }
+   }
+  },
+  {
+   "name": "Sport Pullover Hoodie",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 23.5,
+     "length": 26.5
+    },
+    "XS": {
+     "chest_flat": 24.5,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 25.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 26.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 28.5
+    },
+    "XL": {
+     "chest_flat": 29.5,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "Mlb 3/4 Sleeve Half Zip Jacket",
+   "category": "half-zip",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 24.0,
+     "length": 25.5
+    },
+    "XS": {
+     "chest_flat": 25.0,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 26.0,
+     "length": 26.5
+    },
+    "M": {
+     "chest_flat": 27.0,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 28.5,
+     "length": 27.5
+    },
+    "XL": {
+     "chest_flat": 30.0,
+     "length": 28.0
+    }
+   }
+  },
+  {
+   "name": "MENS ESSENTIALS 2025 D2 [90's Tee]",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 24.5,
+     "length": 30.5
+    },
+    "XS": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "S": {
+     "chest_flat": 26.5,
+     "length": 31.5
+    },
+    "M": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    },
+    "L": {
+     "chest_flat": 29.0,
+     "length": 32.5
+    }
+   }
+  },
+  {
+   "name": "MENS ESSENTIALS 2025 D2 [Embossed Classic Fleece Zip-Up Hoodie]",
+   "category": "zip-hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 22.5,
+     "length": 24.5
+    },
+    "XS": {
+     "chest_flat": 23.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 24.5,
+     "length": 25.5
+    },
+    "M": {
+     "chest_flat": 25.5,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 27.0,
+     "length": 26.5
+    },
+    "XL": {
+     "chest_flat": 28.5,
+     "length": 27.0
+    },
+    "2XL": {
+     "chest_flat": 30.0,
+     "length": 27.5
+    }
+   }
+  },
+  {
+   "name": "MENS ESSENTIALS 2025 D2 [Pique 90's Polo Sleeve Tee]",
+   "category": "polo",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 24.5,
+     "length": 26.5
+    },
+    "XS": {
+     "chest_flat": 25.5,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 26.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 27.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 29.0,
+     "length": 28.5
+    }
+   }
+  },
+  {
+   "name": "CIVIL [Fear of God Denim Trucker Jacket]",
+   "category": "jacket",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 22.5,
+     "length": 23.0
+    },
+    "S": {
+     "chest_flat": 23.5,
+     "length": 24.0
+    },
+    "M": {
+     "chest_flat": 24.5,
+     "length": 25.0
+    },
+    "L": {
+     "chest_flat": 25.5,
+     "length": 26.0
+    },
+    "XL": {
+     "chest_flat": 26.5,
+     "length": 27.0
+    }
+   }
+  },
+  {
+   "name": "[ATL] Essentials Falcons Crewneck",
+   "category": "crewneck",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 23.5,
+     "length": 28.5
+    },
+    "XS": {
+     "chest_flat": 24.5,
+     "length": 29.0
+    },
+    "S": {
+     "chest_flat": 25.5,
+     "length": 29.5
+    },
+    "M": {
+     "chest_flat": 26.5,
+     "length": 30.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 30.5
+    },
+    "XL": {
+     "chest_flat": 29.5,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "CIVIL COLLECTION [Textured Wool Zip Up Hoodie]",
+   "category": "zip-hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.0,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 26.0,
+     "length": 26.0
+    },
+    "M": {
+     "chest_flat": 27.0,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 29.0,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "CIVIL COLLECTION [ZIP HOODIE]",
+   "category": "zip-hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.0,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 26.0,
+     "length": 26.0
+    },
+    "M": {
+     "chest_flat": 27.0,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 29.0,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "MENS ESSENTIALS 2025 D1 [Classic Tee]",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 21.5,
+     "length": 28.0
+    },
+    "XS": {
+     "chest_flat": 22.5,
+     "length": 28.5
+    },
+    "S": {
+     "chest_flat": 23.5,
+     "length": 29.0
+    },
+    "M": {
+     "chest_flat": 24.5,
+     "length": 29.5
+    },
+    "L": {
+     "chest_flat": 26.0,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 27.5,
+     "length": 30.5
+    },
+    "2XL": {
+     "chest_flat": 29.0,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "MENS ESSENTIALS 2025 D1 [Classic Long Sleeve Tee]",
+   "category": "long-sleeve",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 21.5,
+     "length": 28.0
+    },
+    "XS": {
+     "chest_flat": 22.5,
+     "length": 28.5
+    },
+    "S": {
+     "chest_flat": 23.5,
+     "length": 29.0
+    },
+    "M": {
+     "chest_flat": 24.5,
+     "length": 29.5
+    },
+    "L": {
+     "chest_flat": 26.0,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 27.5,
+     "length": 30.5
+    },
+    "2XL": {
+     "chest_flat": 29.0,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "MENS ESSENTIAL 2025 D1 [DENIM TRUCKER JACKET]",
+   "category": "jacket",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 25.0,
+     "length": 25.5
+    },
+    "XS": {
+     "chest_flat": 26.0,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 27.0,
+     "length": 26.5
+    },
+    "M": {
+     "chest_flat": 28.0,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 29.5,
+     "length": 27.5
+    }
+   }
+  },
+  {
+   "name": "MENS ESSENTIALS 2025 D1 [MODERN TRACK JACKET]",
+   "category": "jacket",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 23.5,
+     "length": 25.5
+    },
+    "XS": {
+     "chest_flat": 24.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 25.5,
+     "length": 26.5
+    },
+    "M": {
+     "chest_flat": 26.5,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 27.5
+    },
+    "XL": {
+     "chest_flat": 29.5,
+     "length": 28.0
+    }
+   }
+  },
+  {
+   "name": "MENS SPRING D1 CLASSIC FULL ZIP HOODIE 2025",
+   "category": "zip-hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 22.5,
+     "length": 24.5
+    },
+    "XS": {
+     "chest_flat": 23.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 24.5,
+     "length": 25.5
+    },
+    "M": {
+     "chest_flat": 25.5,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 27.0,
+     "length": 26.5
+    },
+    "XL": {
+     "chest_flat": 28.5,
+     "length": 27.0
+    },
+    "2XL": {
+     "chest_flat": 30.0,
+     "length": 27.5
+    }
+   }
+  },
+  {
+   "name": "ETERNAL V2 [Half Zip Hoodie]",
+   "category": "half-zip",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.0,
+     "length": 24.0
+    },
+    "S": {
+     "chest_flat": 26.0,
+     "length": 25.0
+    },
+    "M": {
+     "chest_flat": 27.0,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 27.0
+    },
+    "XL": {
+     "chest_flat": 29.0,
+     "length": 28.0
+    }
+   }
+  },
+  {
+   "name": "ALWAYS ON [Classic Short Sleeve Tee]",
+   "category": "tee",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 21.5,
+     "length": 28.0
+    },
+    "XS": {
+     "chest_flat": 22.5,
+     "length": 28.5
+    },
+    "S": {
+     "chest_flat": 23.5,
+     "length": 29.0
+    },
+    "M": {
+     "chest_flat": 24.5,
+     "length": 29.5
+    },
+    "L": {
+     "chest_flat": 26.0,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 27.5,
+     "length": 30.5
+    },
+    "2XL": {
+     "chest_flat": 29.0,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "ALWAYS ON [Classic Long Sleeve Tee]",
+   "category": "long-sleeve",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 21.5,
+     "length": 28.0
+    },
+    "XS": {
+     "chest_flat": 22.5,
+     "length": 28.5
+    },
+    "S": {
+     "chest_flat": 23.5,
+     "length": 29.0
+    },
+    "M": {
+     "chest_flat": 24.5,
+     "length": 29.5
+    },
+    "L": {
+     "chest_flat": 26.0,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 27.5,
+     "length": 30.5
+    },
+    "2XL": {
+     "chest_flat": 29.0,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "ALWAYS ON [Classic Full Zip-Up Hoodie]",
+   "category": "zip-hoodie",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 22.5,
+     "length": 24.5
+    },
+    "XS": {
+     "chest_flat": 23.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 24.5,
+     "length": 25.5
+    },
+    "M": {
+     "chest_flat": 25.5,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 27.0,
+     "length": 26.5
+    },
+    "XL": {
+     "chest_flat": 28.5,
+     "length": 27.0
+    },
+    "2XL": {
+     "chest_flat": 30.0,
+     "length": 27.5
+    }
+   }
+  },
+  {
+   "name": "ETERNAL V2 [DENIM BUTTON UP SHIRT]",
+   "category": "shirt",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 26.5,
+     "length": 30.5
+    },
+    "S": {
+     "chest_flat": 27.5,
+     "length": 31.0
+    },
+    "M": {
+     "chest_flat": 28.5,
+     "length": 32.5
+    },
+    "L": {
+     "chest_flat": 29.5,
+     "length": 33.0
+    }
+   }
+  },
+  {
+   "name": "MENS ESSENTIAL BT24 [DENIM TRUCKER JACKET] 202BT244270F",
+   "category": "jacket",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 25.0,
+     "length": 25.5
+    },
+    "XS": {
+     "chest_flat": 26.0,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 27.0,
+     "length": 26.5
+    },
+    "M": {
+     "chest_flat": 28.0,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 29.5,
+     "length": 27.5
+    }
+   }
+  },
+  {
+   "name": "Collection 8 Denim Jacket",
+   "category": "jacket",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.38,
+     "length": 22.25
+    },
+    "S": {
+     "chest_flat": 23.38,
+     "length": 23.25
+    },
+    "M": {
+     "chest_flat": 24.38,
+     "length": 24.25
+    },
+    "L": {
+     "chest_flat": 25.38,
+     "length": 25.25
+    },
+    "XL": {
+     "chest_flat": 26.38
+    },
+    "2XL": {
+     "chest_flat": 27.38,
+     "length": 27.25
+    }
+   }
+  },
+  {
+   "name": "COLLECTION 8 FULL ZIP DENIM SHIRT (8th D1)",
+   "category": "shirt",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.5,
+     "length": 29.75
+    },
+    "S": {
+     "chest_flat": 26.5,
+     "length": 30.75
+    },
+    "M": {
+     "chest_flat": 27.5,
+     "length": 31.75
+    },
+    "L": {
+     "chest_flat": 28.5,
+     "length": 32.75
+    },
+    "XL": {
+     "chest_flat": 29.5,
+     "length": 33.75
+    }
+   }
+  },
+  {
+   "name": "DENIM JACKET (CORE 2024)",
+   "category": "jacket",
+   "fit_note": null,
+   "url": null,
+   "sizes": {
+    "XXS": {
+     "chest_flat": 25.0,
+     "length": 24.0
+    },
+    "XS": {
+     "chest_flat": 26.0,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 27.0,
+     "length": 26.0
+    },
+    "M": {
+     "chest_flat": 28.0,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 29.5,
+     "length": 28.0
+    }
+   }
+  }
+ ]
+}

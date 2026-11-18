@@ -12,19 +12,23 @@ def load(path):
         return out  # wearer measurements only; not comparable garment-to-garment
     if "sizes" in d:
         out.append((d["id"], d["name"], d.get("category", ""), d["sizes"]))
-    for it in d.get("items", []):  # one-of-one listings (e.g. vintage drops)
-        out.append((it["handle"], it["handle"], d.get("category", ""), {it["size"]: it}))
+    for it in d.get("items", []):
+        if "sizes" in it:  # brand catalogs: data/brands/*.json
+            name = f'{d["brand"]}: {it["name"]}'
+            out.append((name, name, it["category"], it["sizes"]))
+        else:  # one-of-one listings (e.g. vintage drops)
+            out.append((it["handle"], it["handle"], d.get("category", ""), {it["size"]: it}))
     return out
 
 def known():
     items = []
-    for p in sorted(glob.glob(f"{ROOT}/items/*.json") + glob.glob(f"{ROOT}/baselines/*.json")):
+    for p in sorted(glob.glob(f"{ROOT}/items/*.json") + glob.glob(f"{ROOT}/baselines/*.json") + glob.glob(f"{ROOT}/brands/*.json")):
         items += [(p, *x) for x in load(p)]
     return items
 
 # Garment families: "fits like" is most meaningful within the same family.
 FAMILY = {
-    "tee": "tee", "long-sleeve": "long-sleeve", "rugby": "long-sleeve", "oxford": "shirt",
+    "tee": "tee", "long-sleeve": "long-sleeve", "rugby": "long-sleeve", "oxford": "shirt", "polo": "shirt", "sweater": "fleece",
     "kids-crewneck": "kids", "hoodie": "fleece", "zip-hoodie": "fleece", "crewneck": "fleece", "half-zip": "fleece",
     "jacket": "jacket",
 }
@@ -49,8 +53,16 @@ def main(paths):
                     continue
                 best = min(osizes.items(), key=lambda kv: score(m, kv[1]))
                 matches.append((score(m, best[1]), oname, ocat, best[0], best[1]))
-            same = [x for x in sorted(matches) if fam(x[2]) == fam(tcat)][:5]
-            other = [x for x in sorted(matches) if fam(x[2]) != fam(tcat)][:3]
+            def diverse(xs, n):  # at most 2 picks per brand so one catalog can't crowd out the rest
+                seen, out = {}, []
+                for x in xs:
+                    b = x[1].split(":")[0] if ":" in x[1] else x[1]
+                    if seen.get(b, 0) < 2:
+                        seen[b] = seen.get(b, 0) + 1; out.append(x)
+                    if len(out) == n: break
+                return out
+            same = diverse([x for x in sorted(matches) if fam(x[2]) == fam(tcat)], 6)
+            other = diverse([x for x in sorted(matches) if fam(x[2]) != fam(tcat)], 3)
             for label, group in (("same type", same), ("other types", other)):
               if not group: continue
               print(f"     -- {label}")
@@ -59,7 +71,7 @@ def main(paths):
                 dl = (m.get("length", 0) - om.get("length", 0)) if "length" in om and "length" in m else None
                 tag = "same" if abs(dc) < 0.5 else (f"{abs(dc):g}\" {'roomier' if dc>0 else 'tighter'}")
                 lt = "" if dl is None else f", {abs(dl):g}\" {'longer' if dl>0 else 'shorter'}" if abs(dl) >= 0.5 else ", same length"
-                print(f"     {osize:>4} {oname[:48]:48} [{ocat}]  chest {tag}{lt}")
+                print(f"     {osize:>4} {oname[:60]:60} [{ocat}]  chest {tag}{lt}")
 
 if __name__ == "__main__":
     main(sys.argv[1:] or sys.exit(__doc__))

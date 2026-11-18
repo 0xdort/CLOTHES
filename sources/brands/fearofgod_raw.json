@@ -1,0 +1,8682 @@
+[
+ {
+  "name": "Hooded Bomber [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    53.0,
+    27.25
+   ],
+   "S": [
+    55.0,
+    28.0
+   ],
+   "M": [
+    57.0,
+    28.25
+   ],
+   "L": [
+    59.0,
+    29.0
+   ],
+   "XL": [
+    61.0,
+    29.25
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Track Jacket [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    54.0,
+    26.0
+   ],
+   "S": [
+    56.0,
+    26.0
+   ],
+   "M": [
+    58.0,
+    27.0
+   ],
+   "L": [
+    60.0,
+    27.25
+   ],
+   "XL": [
+    62.0,
+    28.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Washed Cotton Nylon Gabardine Field Jacket [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    55.0,
+    33.0
+   ],
+   "S": [
+    57.0,
+    34.0
+   ],
+   "M": [
+    59.0,
+    35.0
+   ],
+   "L": [
+    61.0,
+    36.0
+   ],
+   "XL": [
+    63.0,
+    37.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Cotton Rayon Mockneck Short Sleeve Tee [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    49.5,
+    28.0
+   ],
+   "S": [
+    51.25,
+    29.0
+   ],
+   "M": [
+    53.25,
+    30.0
+   ],
+   "L": [
+    55.25,
+    31.0
+   ],
+   "XL": [
+    57.0,
+    32.0
+   ],
+   "XXL": [
+    59.0,
+    33.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Raglan Funnel Neck Sweatshirt [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    51.0,
+    22.0
+   ],
+   "S": [
+    53.0,
+    23.0
+   ],
+   "M": [
+    55.0,
+    23.0
+   ],
+   "L": [
+    57.0,
+    24.0
+   ],
+   "XL": [
+    59.0,
+    24.0
+   ],
+   "XXL": [
+    61.0,
+    25.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Raglan Funnel Neck Sweatshirt [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    51.0,
+    22.0
+   ],
+   "S": [
+    53.0,
+    23.0
+   ],
+   "M": [
+    55.0,
+    23.0
+   ],
+   "L": [
+    57.0,
+    24.0
+   ],
+   "XL": [
+    59.0,
+    24.0
+   ],
+   "XXL": [
+    61.0,
+    25.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Canvas Field Jacket [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    53.0,
+    31.0
+   ],
+   "S": [
+    55.0,
+    32.0
+   ],
+   "M": [
+    57.0,
+    32.0
+   ],
+   "L": [
+    59.0,
+    33.0
+   ],
+   "XL": [
+    62.0,
+    33.0
+   ],
+   "XXL": [
+    63.0,
+    34.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Melton Wool Shawl Overcoat [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    47.25,
+    46.875
+   ],
+   "S": [
+    49.25,
+    47.875
+   ],
+   "M": [
+    51.125,
+    48.875
+   ],
+   "L": [
+    53.125,
+    49.75
+   ],
+   "XL": [
+    55.125,
+    50.75
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Cotton Wool Flannel Robe [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    48.0,
+    48.0
+   ],
+   "S": [
+    50.0,
+    49.0
+   ],
+   "M": [
+    52.0,
+    50.0
+   ],
+   "L": [
+    54.0,
+    51.25
+   ],
+   "XL": [
+    56.0,
+    52.25
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Mockneck Long Sleeve Tee [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    49.0,
+    28.0
+   ],
+   "S": [
+    51.0,
+    29.0
+   ],
+   "M": [
+    53.0,
+    30.0
+   ],
+   "L": [
+    55.0,
+    31.0
+   ],
+   "XL": [
+    57.0,
+    32.0
+   ],
+   "XXL": [
+    59.0,
+    33.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "WOOL FLANNEL [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    51.5,
+    30.0
+   ],
+   "S": [
+    53.5,
+    31.25
+   ],
+   "M": [
+    55.0,
+    32.25
+   ],
+   "L": [
+    57.0,
+    33.25
+   ],
+   "XL": [
+    59.0,
+    34.25
+   ],
+   "XXL": [
+    61.0,
+    35.25
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "LS TEE [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    49.0,
+    29.25
+   ],
+   "S": [
+    51.0,
+    30.0
+   ],
+   "M": [
+    53.0,
+    30.25
+   ],
+   "L": [
+    55.0,
+    31.0
+   ],
+   "XL": [
+    57.0,
+    31.25
+   ],
+   "XXL": [
+    59.0,
+    32.0
+   ]
+  },
+  "products": 6
+ },
+ {
+  "name": "Military Shirt [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    51.0,
+    30.0
+   ],
+   "S": [
+    53.0,
+    31.0
+   ],
+   "M": [
+    55.0,
+    32.0
+   ],
+   "L": [
+    57.0,
+    32.5
+   ],
+   "XL": [
+    59.0,
+    33.5
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Relaxed Polo [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    48.0,
+    26.0
+   ],
+   "S": [
+    50.0,
+    27.0
+   ],
+   "M": [
+    52.0,
+    28.0
+   ],
+   "L": [
+    53.5,
+    29.0
+   ],
+   "XL": [
+    55.5,
+    30.0
+   ],
+   "XXL": [
+    57.5,
+    31.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Extrafine Merino Wool Mockneck Sweater [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    55.0,
+    25.0
+   ],
+   "S": [
+    57.0,
+    25.5
+   ],
+   "M": [
+    59.0,
+    26.0
+   ],
+   "L": [
+    61.0,
+    26.5
+   ],
+   "XL": [
+    63.0,
+    27.0
+   ],
+   "XXL": [
+    65.0,
+    27.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Heavy Fleece Crewneck [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    53.5,
+    27.0
+   ],
+   "S": [
+    55.5,
+    27.5
+   ],
+   "M": [
+    57.5,
+    28.0
+   ],
+   "L": [
+    59.5,
+    28.5
+   ],
+   "XL": [
+    61.5,
+    29.0
+   ],
+   "XXL": [
+    63.5,
+    29.5
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Heavy Fleece Hoodie [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    53.5,
+    27.0
+   ],
+   "S": [
+    55.5,
+    27.5
+   ],
+   "M": [
+    57.5,
+    28.0
+   ],
+   "L": [
+    59.5,
+    28.5
+   ],
+   "XL": [
+    61.5,
+    29.0
+   ],
+   "XXL": [
+    63.5,
+    29.5
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Heavy Fleece Half-Zip Hoodie [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    53.5,
+    27.0
+   ],
+   "S": [
+    55.5,
+    27.5
+   ],
+   "M": [
+    57.5,
+    28.0
+   ],
+   "L": [
+    59.5,
+    28.5
+   ],
+   "XL": [
+    61.5,
+    29.5
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Double Knit Merino Mockneck Sweater [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    46.5,
+    27.0
+   ],
+   "S": [
+    48.0,
+    27.0
+   ],
+   "M": [
+    50.0,
+    27.5
+   ],
+   "L": [
+    52.0,
+    28.0
+   ],
+   "XL": [
+    54.0,
+    28.5
+   ],
+   "XXL": [
+    56.25,
+    29.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Wool Cashmere Half-Zip Rib Sweater [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    50.0,
+    26.0
+   ],
+   "S": [
+    52.0,
+    26.25
+   ],
+   "M": [
+    53.5,
+    27.0
+   ],
+   "L": [
+    55.5,
+    27.25
+   ],
+   "XL": [
+    57.5,
+    28.0
+   ],
+   "XXL": [
+    59.5,
+    28.25
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Merino Mockneck Rib Sweater [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    55.0,
+    25.0
+   ],
+   "S": [
+    57.0,
+    25.5
+   ],
+   "M": [
+    59.0,
+    26.0
+   ],
+   "L": [
+    61.0,
+    26.5
+   ],
+   "XL": [
+    63.0,
+    27.0
+   ],
+   "XXL": [
+    65.0,
+    27.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "SS TEE [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    48.0,
+    28.0
+   ],
+   "S": [
+    50.0,
+    29.0
+   ],
+   "M": [
+    52.0,
+    29.0
+   ],
+   "L": [
+    54.0,
+    30.0
+   ],
+   "XL": [
+    56.0,
+    30.0
+   ],
+   "XXL": [
+    58.0,
+    31.0
+   ]
+  },
+  "products": 11
+ },
+ {
+  "name": "Hoodie [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    58.0,
+    27.0
+   ],
+   "S": [
+    60.0,
+    28.0
+   ],
+   "M": [
+    62.0,
+    28.0
+   ],
+   "L": [
+    64.0,
+    29.0
+   ],
+   "XL": [
+    66.0,
+    29.0
+   ],
+   "XXL": [
+    68.0,
+    30.0
+   ]
+  },
+  "products": 9
+ },
+ {
+  "name": "Eternal Short Sleeve Tee [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    50.0,
+    28.5
+   ],
+   "S": [
+    52.0,
+    29.5
+   ],
+   "M": [
+    53.5,
+    30.5
+   ],
+   "L": [
+    55.5,
+    31.5
+   ],
+   "XL": [
+    57.5,
+    32.5
+   ],
+   "XXL": [
+    59.5,
+    33.5
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "BLACK STAR LS T-SHIRT [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    49.0,
+    29.25
+   ],
+   "S": [
+    51.0,
+    30.0
+   ],
+   "M": [
+    53.0,
+    30.25
+   ],
+   "L": [
+    55.0,
+    31.0
+   ],
+   "XL": [
+    57.0,
+    31.25
+   ],
+   "XXL": [
+    59.0,
+    32.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Raglan Hoodie [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    51.0,
+    22.0
+   ],
+   "S": [
+    53.0,
+    23.0
+   ],
+   "M": [
+    55.0,
+    23.0
+   ],
+   "L": [
+    57.0,
+    24.0
+   ],
+   "XL": [
+    59.0,
+    24.0
+   ],
+   "XXL": [
+    61.0,
+    25.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Fleece Crewneck [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    49.0,
+    22.0
+   ],
+   "S": [
+    53.0,
+    23.0
+   ],
+   "M": [
+    55.0,
+    23.0
+   ],
+   "L": [
+    57.0,
+    24.0
+   ],
+   "XL": [
+    59.0,
+    24.0
+   ],
+   "XXL": [
+    61.0,
+    25.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Leisure Jacket [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    47.25,
+    33.0
+   ],
+   "S": [
+    49.25,
+    34.0
+   ],
+   "M": [
+    51.0,
+    35.0
+   ],
+   "L": [
+    53.0,
+    36.0
+   ],
+   "XL": [
+    55.0,
+    37.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Casual Trench Coat [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    55.5,
+    40.0
+   ],
+   "S": [
+    57.5,
+    41.0
+   ],
+   "M": [
+    59.5,
+    42.0
+   ],
+   "L": [
+    61.0,
+    43.0
+   ],
+   "XL": [
+    63.0,
+    44.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Relaxed Jacket [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "44": [
+    47.0,
+    30.25
+   ],
+   "46": [
+    49.0,
+    null
+   ],
+   "48": [
+    51.0,
+    32.25
+   ],
+   "50": [
+    53.0,
+    33.25
+   ],
+   "52": [
+    55.0,
+    34.25
+   ],
+   "54": [
+    56.5,
+    35.25
+   ],
+   "56": [
+    58.5,
+    36.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Casual Trench Coat [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    55.5,
+    40.0
+   ],
+   "S": [
+    57.5,
+    41.0
+   ],
+   "M": [
+    59.5,
+    42.0
+   ],
+   "L": [
+    61.0,
+    43.0
+   ],
+   "XL": [
+    63.0,
+    44.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Tailored Jacket [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "44": [
+    46.0,
+    29.0
+   ],
+   "46": [
+    48.0,
+    30.0
+   ],
+   "48": [
+    50.0,
+    31.0
+   ],
+   "50": [
+    52.0,
+    32.0
+   ],
+   "52": [
+    53.5,
+    33.0
+   ],
+   "54": [
+    55.5,
+    34.0
+   ],
+   "56": [
+    57.5,
+    35.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Belted Jacket [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "44": [
+    39.0,
+    29.5
+   ],
+   "46": [
+    40.5,
+    30.5
+   ],
+   "48": [
+    42.5,
+    31.5
+   ],
+   "50": [
+    44.5,
+    32.5
+   ],
+   "52": [
+    46.5,
+    33.5
+   ],
+   "54": [
+    48.0,
+    34.5
+   ],
+   "56": [
+    50.0,
+    35.5
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Lapelless Mid-length Jacket [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    50.0,
+    34.0
+   ],
+   "S": [
+    52.0,
+    35.0
+   ],
+   "M": [
+    54.0,
+    36.0
+   ],
+   "L": [
+    56.0,
+    36.5
+   ],
+   "XL": [
+    58.0,
+    37.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Overshirt [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    53.0,
+    33.0
+   ],
+   "S": [
+    55.0,
+    33.0
+   ],
+   "M": [
+    57.0,
+    33.5
+   ],
+   "L": [
+    59.0,
+    34.0
+   ],
+   "XL": [
+    61.0,
+    34.25
+   ],
+   "XXL": [
+    63.0,
+    35.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "DOUBLE FACE OVERCOAT [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    48.0,
+    47.0
+   ],
+   "S": [
+    50.0,
+    48.0
+   ],
+   "M": [
+    52.0,
+    48.0
+   ],
+   "L": [
+    53.5,
+    49.25
+   ],
+   "XL": [
+    55.5,
+    50.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Long Overcoat [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    53.0,
+    49.0
+   ],
+   "S": [
+    55.0,
+    50.0
+   ],
+   "M": [
+    57.0,
+    51.0
+   ],
+   "L": [
+    59.0,
+    52.0
+   ],
+   "XL": [
+    61.0,
+    53.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "OVERSHIRT [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    52.0,
+    31.125
+   ],
+   "S": [
+    53.875,
+    null
+   ],
+   "M": [
+    55.875,
+    33.125
+   ],
+   "L": [
+    57.875,
+    34.125
+   ],
+   "XL": [
+    59.875,
+    35.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "ETERNAL BOMBER [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    61.75,
+    26.625
+   ],
+   "S": [
+    63.75,
+    27.5
+   ],
+   "M": [
+    65.75,
+    28.375
+   ],
+   "L": [
+    67.75,
+    29.25
+   ],
+   "XL": [
+    69.625,
+    30.25
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "SHAWL OVER COAT [MAINLINE FW26 - ETERNAL ORDER]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    47.25,
+    46.875
+   ],
+   "S": [
+    49.25,
+    47.875
+   ],
+   "M": [
+    51.125,
+    48.875
+   ],
+   "L": [
+    53.125,
+    49.75
+   ],
+   "XL": [
+    55.125,
+    50.75
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "NFL Paris 90s Relaxed Hoodie",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    37.0,
+    26.0
+   ],
+   "XS": [
+    39.0,
+    26.5
+   ],
+   "S": [
+    41.0,
+    27.0
+   ],
+   "M": [
+    43.0,
+    27.5
+   ],
+   "L": [
+    46.0,
+    28.0
+   ],
+   "XL": [
+    49.0,
+    28.5
+   ],
+   "XXL": [
+    52.0,
+    29.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "NFL Paris Merch Tee",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    47.5,
+    26.5
+   ],
+   "S": [
+    49.5,
+    27.0
+   ],
+   "M": [
+    51.5,
+    27.5
+   ],
+   "L": [
+    53.5,
+    28.0
+   ],
+   "XL": [
+    55.5,
+    28.5
+   ],
+   "XXL": [
+    57.5,
+    29.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "NFL Paris Boxy Crewneck",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    47.0,
+    26.5
+   ],
+   "XS": [
+    49.0,
+    27.0
+   ],
+   "S": [
+    51.0,
+    27.5
+   ],
+   "M": [
+    53.0,
+    28.0
+   ],
+   "L": [
+    56.0,
+    29.0
+   ],
+   "XL": [
+    59.0,
+    29.5
+   ],
+   "XXL": [
+    62.0,
+    30.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "NBA 90's RELAXED CREWNECK",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    37.0,
+    26.0
+   ],
+   "XS": [
+    39.0,
+    26.5
+   ],
+   "S": [
+    41.0,
+    27.0
+   ],
+   "M": [
+    43.0,
+    27.5
+   ],
+   "L": [
+    46.0,
+    28.0
+   ],
+   "XL": [
+    49.0,
+    28.5
+   ],
+   "XXL": [
+    52.0,
+    29.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "NBA MUSCLE TEE",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    52.0,
+    29.0
+   ],
+   "XS": [
+    54.0,
+    29.5
+   ],
+   "S": [
+    56.0,
+    30.0
+   ],
+   "M": [
+    58.0,
+    30.5
+   ],
+   "L": [
+    61.0,
+    31.0
+   ],
+   "XL": [
+    64.0,
+    31.5
+   ],
+   "XXL": [
+    67.0,
+    32.0
+   ],
+   "XXXL": [
+    70.0,
+    32.5
+   ]
+  },
+  "products": 5
+ },
+ {
+  "name": "NBA FALL 90'S RELAXED HOODIE",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    37.0,
+    26.0
+   ],
+   "XS": [
+    39.0,
+    26.5
+   ],
+   "S": [
+    41.0,
+    27.0
+   ],
+   "M": [
+    43.0,
+    27.5
+   ],
+   "L": [
+    46.0,
+    28.0
+   ],
+   "XL": [
+    49.0,
+    28.5
+   ],
+   "XXL": [
+    52.0,
+    29.0
+   ]
+  },
+  "products": 15
+ },
+ {
+  "name": "NBA FALL MERCH TEE",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    47.5,
+    26.5
+   ],
+   "S": [
+    49.5,
+    27.0
+   ],
+   "M": [
+    51.5,
+    27.5
+   ],
+   "L": [
+    53.5,
+    28.0
+   ],
+   "XL": [
+    55.5,
+    28.5
+   ],
+   "XXL": [
+    57.5,
+    29.0
+   ]
+  },
+  "products": 5
+ },
+ {
+  "name": "Marathon Merch Tee",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    47.5,
+    27.0
+   ],
+   "S": [
+    49.5,
+    27.5
+   ],
+   "M": [
+    51.5,
+    28.0
+   ],
+   "L": [
+    53.5,
+    28.5
+   ],
+   "XL": [
+    55.5,
+    29.0
+   ],
+   "XXL": [
+    57.5,
+    29.5
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Active Trace Full Length Trench",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    52.0,
+    50.5
+   ],
+   "XS": [
+    54.0,
+    51.0
+   ],
+   "S": [
+    56.0,
+    51.0
+   ],
+   "M": [
+    58.0,
+    52.0
+   ],
+   "L": [
+    61.0,
+    52.5
+   ],
+   "XL": [
+    64.0,
+    53.0
+   ],
+   "XXL": [
+    67.0,
+    53.5
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Signature 3/4 Sleeve 90s Knit Polo",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    49.0,
+    25.0
+   ],
+   "XS": [
+    51.0,
+    26.0
+   ],
+   "S": [
+    53.0,
+    27.0
+   ],
+   "M": [
+    55.0,
+    28.0
+   ],
+   "L": [
+    58.0,
+    29.0
+   ],
+   "XL": [
+    61.0,
+    30.0
+   ],
+   "XXL": [
+    64.0,
+    31.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Active Trace Modern Fleece Hoodie",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    22.5,
+    25.5
+   ],
+   "XS": [
+    23.5,
+    26.0
+   ],
+   "S": [
+    24.5,
+    26.5
+   ],
+   "M": [
+    25.5,
+    27.0
+   ],
+   "L": [
+    27.0,
+    27.5
+   ],
+   "XL": [
+    28.5,
+    28.0
+   ],
+   "XXL": [
+    30.0,
+    28.5
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Marathon Modern Track Jacket",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    47.0,
+    25.5
+   ],
+   "XS": [
+    49.0,
+    26.0
+   ],
+   "S": [
+    51.0,
+    26.5
+   ],
+   "M": [
+    53.0,
+    27.0
+   ],
+   "L": [
+    56.0,
+    27.5
+   ],
+   "XL": [
+    59.0,
+    28.0
+   ],
+   "XXL": [
+    62.0,
+    28.5
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Marathon Merch Hoodie",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    55.0,
+    27.5
+   ],
+   "S": [
+    57.0,
+    28.0
+   ],
+   "M": [
+    59.0,
+    28.5
+   ],
+   "L": [
+    62.0,
+    29.0
+   ],
+   "XL": [
+    65.0,
+    29.5
+   ],
+   "XXL": [
+    68.0,
+    30.0
+   ],
+   "XXXL": [
+    71.0,
+    30.5
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Womens Rib Knit Modern Cropped Boatneck",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    39.0,
+    21.5
+   ],
+   "S": [
+    41.0,
+    22.0
+   ],
+   "M": [
+    43.0,
+    22.5
+   ],
+   "L": [
+    46.0,
+    23.0
+   ],
+   "XL": [
+    49.0,
+    23.5
+   ],
+   "XXL": [
+    52.0,
+    24.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Womens Rib Knit Chevron V-Neck",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    23.5,
+    22.5
+   ],
+   "S": [
+    25.5,
+    23.0
+   ],
+   "M": [
+    27.5,
+    23.5
+   ],
+   "L": [
+    30.5,
+    24.0
+   ],
+   "XL": [
+    33.5,
+    24.5
+   ],
+   "XXL": [
+    36.5,
+    25.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Womens Tricot Slim Track Jacket",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    28.0,
+    23.5
+   ],
+   "S": [
+    30.0,
+    24.0
+   ],
+   "M": [
+    32.0,
+    24.5
+   ],
+   "L": [
+    33.0,
+    25.0
+   ],
+   "XL": [
+    34.0,
+    25.5
+   ],
+   "XXL": [
+    35.0,
+    26.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Womens Essential Longsleeve Tee",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    18.0,
+    26.0
+   ],
+   "XS": [
+    19.0,
+    26.5
+   ],
+   "S": [
+    20.0,
+    27.0
+   ],
+   "M": [
+    21.0,
+    27.5
+   ],
+   "L": [
+    22.0,
+    28.0
+   ],
+   "XL": [
+    23.0,
+    28.5
+   ],
+   "XXL": [
+    24.0,
+    29.0
+   ]
+  },
+  "products": 5
+ },
+ {
+  "name": "Womens Pullover Track Jacket",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    42.0,
+    24.0
+   ],
+   "XS": [
+    44.0,
+    24.5
+   ],
+   "S": [
+    46.0,
+    25.0
+   ],
+   "M": [
+    48.0,
+    25.5
+   ],
+   "L": [
+    51.0,
+    26.0
+   ],
+   "XL": [
+    54.0,
+    26.5
+   ],
+   "XXL": [
+    57.0,
+    27.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Womens Slim Mock Neck Longsleeve Tee",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    34.25,
+    21.75
+   ],
+   "S": [
+    36.25,
+    22.25
+   ],
+   "M": [
+    38.25,
+    22.75
+   ],
+   "L": [
+    41.25,
+    23.25
+   ],
+   "XL": [
+    44.25,
+    23.75
+   ],
+   "XXL": [
+    47.25,
+    24.25
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Womens Slim Mock Neck Tee",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    33.75,
+    21.75
+   ],
+   "S": [
+    35.75,
+    22.25
+   ],
+   "M": [
+    37.75,
+    22.75
+   ],
+   "L": [
+    40.75,
+    23.25
+   ],
+   "XL": [
+    43.75,
+    23.75
+   ],
+   "XXL": [
+    46.75,
+    24.25
+   ]
+  },
+  "products": 6
+ },
+ {
+  "name": "Kids Classic Track Jacket",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "8": [
+    42.0,
+    20.5
+   ],
+   "10": [
+    45.0,
+    22.0
+   ],
+   "12": [
+    47.0,
+    24.0
+   ]
+  },
+  "products": 4
+ },
+ {
+  "name": "Womens Rib Knit Long Sleeve Dress",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    24.5,
+    58.0
+   ],
+   "S": [
+    26.5,
+    58.5
+   ],
+   "M": [
+    28.5,
+    59.0
+   ],
+   "L": [
+    31.5,
+    59.5
+   ],
+   "XL": [
+    34.5,
+    60.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Signature Lounge Half Zip Hoodie",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    49.0,
+    33.5
+   ],
+   "XS": [
+    51.0,
+    34.0
+   ],
+   "S": [
+    53.0,
+    35.5
+   ],
+   "M": [
+    55.0,
+    35.0
+   ],
+   "L": [
+    58.0,
+    35.5
+   ],
+   "XL": [
+    61.0,
+    36.0
+   ],
+   "XXL": [
+    64.0,
+    36.5
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Tricot Modern Track Jacket",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    23.5,
+    25.5
+   ],
+   "XS": [
+    24.5,
+    26.0
+   ],
+   "S": [
+    25.5,
+    26.5
+   ],
+   "M": [
+    26.5,
+    27.0
+   ],
+   "L": [
+    28.0,
+    27.5
+   ],
+   "XL": [
+    29.5,
+    28.0
+   ],
+   "XXL": [
+    31.0,
+    28.5
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Tricot 90s Relaxed Long Sleeve Mock Neck",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    46.0,
+    31.5
+   ],
+   "XS": [
+    48.0,
+    32.0
+   ],
+   "S": [
+    50.0,
+    32.5
+   ],
+   "M": [
+    52.0,
+    33.0
+   ],
+   "L": [
+    55.0,
+    33.5
+   ],
+   "XL": [
+    58.0,
+    34.0
+   ],
+   "XXL": [
+    61.0,
+    34.5
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "MODERN MOCKNECK PULLOVER",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    23.5,
+    25.5
+   ],
+   "XS": [
+    24.5,
+    26.0
+   ],
+   "S": [
+    25.5,
+    26.5
+   ],
+   "M": [
+    26.5,
+    27.0
+   ],
+   "L": [
+    28.0,
+    27.5
+   ],
+   "XL": [
+    29.5,
+    28.0
+   ],
+   "XXL": [
+    31.0,
+    28.5
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "FLEECE OVERSHIRT",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    52.0,
+    33.0
+   ],
+   "XS": [
+    54.0,
+    34.0
+   ],
+   "S": [
+    56.0,
+    35.0
+   ],
+   "M": [
+    58.0,
+    36.0
+   ],
+   "L": [
+    61.0,
+    37.0
+   ],
+   "XL": [
+    64.0,
+    38.0
+   ],
+   "XXL": [
+    67.0,
+    39.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "CLASSIC RAGLAN HI-HOODIE",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    47.0,
+    26.5
+   ],
+   "XS": [
+    49.0,
+    27.0
+   ],
+   "S": [
+    51.0,
+    27.5
+   ],
+   "M": [
+    53.0,
+    28.0
+   ],
+   "L": [
+    56.0,
+    28.5
+   ],
+   "XL": [
+    59.0,
+    29.0
+   ],
+   "XXL": [
+    62.0,
+    30.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "ESSENTIAL RAGLAN TEE",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    52.0,
+    30.0
+   ],
+   "XS": [
+    54.0,
+    30.5
+   ],
+   "S": [
+    56.0,
+    31.0
+   ],
+   "M": [
+    59.0,
+    31.5
+   ],
+   "L": [
+    62.0,
+    32.0
+   ],
+   "XL": [
+    65.0,
+    32.5
+   ],
+   "XXL": [
+    68.0,
+    33.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "90S RELAXED MOCKNECK RAGLAN LS TEE",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    46.0,
+    31.5
+   ],
+   "XS": [
+    48.0,
+    32.0
+   ],
+   "S": [
+    50.0,
+    32.5
+   ],
+   "M": [
+    52.0,
+    33.0
+   ],
+   "L": [
+    55.0,
+    33.5
+   ],
+   "XL": [
+    58.0,
+    34.0
+   ],
+   "XXL": [
+    61.0,
+    34.5
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "CLASSIC RAGLAN HOODIE",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    47.0,
+    26.5
+   ],
+   "XS": [
+    49.0,
+    27.0
+   ],
+   "S": [
+    51.0,
+    27.5
+   ],
+   "M": [
+    53.0,
+    28.0
+   ],
+   "L": [
+    56.0,
+    28.5
+   ],
+   "XL": [
+    59.0,
+    29.0
+   ],
+   "XXL": [
+    62.0,
+    30.0
+   ]
+  },
+  "products": 7
+ },
+ {
+  "name": "CLASSIC TRACK JACKET",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    23.5,
+    25.5
+   ],
+   "XS": [
+    24.5,
+    26.0
+   ],
+   "S": [
+    25.5,
+    26.5
+   ],
+   "M": [
+    26.5,
+    27.0
+   ],
+   "L": [
+    28.0,
+    27.5
+   ],
+   "XL": [
+    29.5,
+    28.0
+   ],
+   "XXL": [
+    31.0,
+    28.5
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "PADDED SHIRT JACKET",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    52.0,
+    33.0
+   ],
+   "XS": [
+    54.0,
+    34.0
+   ],
+   "S": [
+    56.0,
+    35.0
+   ],
+   "M": [
+    58.0,
+    36.0
+   ],
+   "L": [
+    61.0,
+    37.0
+   ],
+   "XL": [
+    64.0,
+    38.0
+   ],
+   "XXL": [
+    67.0,
+    39.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "CLASSIC HALF ZIP RAGLAN",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    51.0,
+    25.5
+   ],
+   "XS": [
+    53.0,
+    26.5
+   ],
+   "S": [
+    55.0,
+    27.5
+   ],
+   "M": [
+    57.0,
+    null
+   ],
+   "L": [
+    59.0,
+    29.5
+   ],
+   "XL": [
+    61.0,
+    30.5
+   ],
+   "XXL": [
+    63.0,
+    31.5
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "PANELLED MODERN LONG SLEEVE TEE",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    49.0,
+    30.5
+   ],
+   "XS": [
+    51.0,
+    31.0
+   ],
+   "S": [
+    53.0,
+    31.5
+   ],
+   "M": [
+    55.0,
+    32.0
+   ],
+   "L": [
+    58.0,
+    32.5
+   ],
+   "XL": [
+    61.0,
+    33.0
+   ],
+   "XXL": [
+    64.0,
+    33.5
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "PANELLED MODERN TEE",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    52.0,
+    30.0
+   ],
+   "XS": [
+    54.0,
+    30.5
+   ],
+   "S": [
+    56.0,
+    31.0
+   ],
+   "M": [
+    59.0,
+    31.5
+   ],
+   "L": [
+    62.0,
+    32.0
+   ],
+   "XL": [
+    65.0,
+    32.5
+   ],
+   "XXL": [
+    68.0,
+    33.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "CLASSIC DOUBLE LAYER TEE",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    21.5,
+    28.0
+   ],
+   "XS": [
+    22.5,
+    28.5
+   ],
+   "S": [
+    23.5,
+    29.0
+   ],
+   "M": [
+    24.5,
+    29.5
+   ],
+   "L": [
+    26.0,
+    30.0
+   ],
+   "XL": [
+    27.5,
+    30.5
+   ],
+   "XXL": [
+    29.0,
+    31.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Essentials FW26 Classic Cut-Off",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    54.0,
+    29.5
+   ],
+   "S": [
+    56.0,
+    30.0
+   ],
+   "M": [
+    58.0,
+    30.5
+   ],
+   "L": [
+    61.0,
+    31.0
+   ],
+   "XL": [
+    64.0,
+    31.5
+   ],
+   "XXL": [
+    67.0,
+    32.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "NFL Merch Tee",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    47.5,
+    26.5
+   ],
+   "S": [
+    49.5,
+    27.0
+   ],
+   "M": [
+    51.5,
+    27.5
+   ],
+   "L": [
+    53.5,
+    28.0
+   ],
+   "XL": [
+    55.5,
+    28.5
+   ],
+   "XXL": [
+    57.5,
+    29.0
+   ]
+  },
+  "products": 32
+ },
+ {
+  "name": "NFL 90s Relaxed Crewneck",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    37.0,
+    26.0
+   ],
+   "XS": [
+    39.0,
+    26.5
+   ],
+   "S": [
+    41.0,
+    27.0
+   ],
+   "M": [
+    43.0,
+    27.5
+   ],
+   "L": [
+    46.0,
+    28.0
+   ],
+   "XL": [
+    49.0,
+    28.5
+   ],
+   "XXL": [
+    52.0,
+    29.0
+   ]
+  },
+  "products": 19
+ },
+ {
+  "name": "NFL 90s Relaxed Hoodie",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    37.0,
+    26.0
+   ],
+   "XS": [
+    39.0,
+    26.5
+   ],
+   "S": [
+    41.0,
+    27.0
+   ],
+   "M": [
+    43.0,
+    27.5
+   ],
+   "L": [
+    46.0,
+    28.0
+   ],
+   "XL": [
+    49.0,
+    28.5
+   ],
+   "XXL": [
+    52.0,
+    29.0
+   ]
+  },
+  "products": 20
+ },
+ {
+  "name": "Amy Sherald Tee",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    47.5,
+    26.5
+   ],
+   "S": [
+    49.5,
+    27.0
+   ],
+   "M": [
+    51.5,
+    27.5
+   ],
+   "L": [
+    53.5,
+    28.0
+   ],
+   "XL": [
+    55.5,
+    28.5
+   ],
+   "XXL": [
+    57.5,
+    29.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Amy Sherald Pocket Hoodie",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    25.0,
+    25.0
+   ],
+   "S": [
+    26.0,
+    26.0
+   ],
+   "M": [
+    27.0,
+    27.0
+   ],
+   "L": [
+    28.0,
+    28.0
+   ],
+   "XL": [
+    29.0,
+    29.0
+   ],
+   "XXL": [
+    30.0,
+    30.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Mens 90's Relaxed Hoodie ",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    37.0,
+    26.0
+   ],
+   "XS": [
+    39.0,
+    26.5
+   ],
+   "S": [
+    41.0,
+    27.0
+   ],
+   "M": [
+    43.0,
+    27.5
+   ],
+   "L": [
+    46.0,
+    28.0
+   ],
+   "XL": [
+    49.0,
+    28.5
+   ],
+   "XXL": [
+    52.0,
+    29.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Mens 90's Relaxed Crewneck ",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    37.0,
+    26.0
+   ],
+   "XS": [
+    39.0,
+    26.5
+   ],
+   "S": [
+    41.0,
+    27.0
+   ],
+   "M": [
+    43.0,
+    27.5
+   ],
+   "L": [
+    46.0,
+    28.0
+   ],
+   "XL": [
+    49.0,
+    28.5
+   ],
+   "XXL": [
+    52.0,
+    29.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Womens Cropped Crewneck ",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    38.0,
+    19.5
+   ],
+   "XS": [
+    40.0,
+    20.0
+   ],
+   "S": [
+    42.0,
+    20.5
+   ],
+   "M": [
+    44.0,
+    21.0
+   ],
+   "L": [
+    47.0,
+    21.5
+   ],
+   "XL": [
+    50.0,
+    22.0
+   ],
+   "XXL": [
+    53.0,
+    22.5
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Womens Modern Cropped Hoodie ",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    38.0,
+    19.5
+   ],
+   "XS": [
+    40.0,
+    20.0
+   ],
+   "S": [
+    42.0,
+    20.5
+   ],
+   "M": [
+    44.0,
+    21.0
+   ],
+   "L": [
+    47.0,
+    21.5
+   ],
+   "XL": [
+    50.0,
+    22.0
+   ],
+   "XXL": [
+    53.0,
+    22.5
+   ]
+  },
+  "products": 5
+ },
+ {
+  "name": "Womens Classic Tee",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    16.5,
+    22.0
+   ],
+   "XS": [
+    17.5,
+    22.5
+   ],
+   "S": [
+    18.5,
+    23.0
+   ],
+   "M": [
+    19.5,
+    23.5
+   ],
+   "L": [
+    21.0,
+    24.0
+   ],
+   "XL": [
+    22.5,
+    24.5
+   ],
+   "XXL": [
+    24.0,
+    25.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Property Lounge Half Zip Hoodie",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    49.0,
+    33.5
+   ],
+   "XS": [
+    51.0,
+    34.0
+   ],
+   "S": [
+    53.0,
+    35.5
+   ],
+   "M": [
+    55.0,
+    35.0
+   ],
+   "L": [
+    58.0,
+    35.5
+   ],
+   "XL": [
+    61.0,
+    36.0
+   ],
+   "XXL": [
+    64.0,
+    36.5
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Tri-Blend Essential Tee Slim Fit",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    43.0,
+    27.25
+   ],
+   "XS": [
+    45.0,
+    28.25
+   ],
+   "S": [
+    47.0,
+    29.25
+   ],
+   "M": [
+    49.0,
+    30.25
+   ],
+   "L": [
+    51.0,
+    31.25
+   ],
+   "XL": [
+    53.0,
+    32.25
+   ],
+   "XXL": [
+    55.0,
+    33.25
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Dallas Cowboys Training Camp Tee",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    47.5,
+    26.5
+   ],
+   "S": [
+    49.5,
+    27.0
+   ],
+   "M": [
+    51.5,
+    27.5
+   ],
+   "L": [
+    53.5,
+    28.0
+   ],
+   "XL": [
+    55.5,
+    28.5
+   ],
+   "XXL": [
+    57.5,
+    29.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Dallas Cowboys Training Camp Crewneck Boxy Fit",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    47.0,
+    26.5
+   ],
+   "XS": [
+    49.0,
+    27.0
+   ],
+   "S": [
+    51.0,
+    27.5
+   ],
+   "M": [
+    53.0,
+    28.0
+   ],
+   "L": [
+    56.0,
+    29.0
+   ],
+   "XL": [
+    59.0,
+    29.5
+   ],
+   "XXL": [
+    62.0,
+    30.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "MLB 3/4 Sleeve Pullover",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    48.0,
+    25.5
+   ],
+   "XS": [
+    50.0,
+    26.0
+   ],
+   "S": [
+    52.0,
+    26.5
+   ],
+   "M": [
+    54.0,
+    27.0
+   ],
+   "L": [
+    57.0,
+    27.5
+   ],
+   "XL": [
+    60.0,
+    28.0
+   ],
+   "XXL": [
+    63.0,
+    28.5
+   ]
+  },
+  "products": 4
+ },
+ {
+  "name": "Dodgers 90s Cut Off",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    54.0,
+    29.5
+   ],
+   "S": [
+    56.0,
+    30.0
+   ],
+   "M": [
+    58.0,
+    30.5
+   ],
+   "L": [
+    61.0,
+    31.0
+   ],
+   "XL": [
+    64.0,
+    31.5
+   ],
+   "XXL": [
+    67.0,
+    32.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Fear Of God X Franklin 90s Cutoff",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    54.0,
+    29.5
+   ],
+   "S": [
+    56.0,
+    30.0
+   ],
+   "M": [
+    58.0,
+    30.5
+   ],
+   "L": [
+    61.0,
+    31.0
+   ],
+   "XL": [
+    64.0,
+    31.5
+   ],
+   "XXL": [
+    67.0,
+    32.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "MLB Full Zip Sport Hoodie",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    22.5,
+    24.5
+   ],
+   "XS": [
+    23.5,
+    25.0
+   ],
+   "S": [
+    24.5,
+    25.5
+   ],
+   "M": [
+    25.5,
+    26.0
+   ],
+   "L": [
+    27.0,
+    26.5
+   ],
+   "XL": [
+    28.5,
+    27.0
+   ],
+   "XXL": [
+    30.0,
+    27.5
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Womens Sport Mesh Merch Tee",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    45.0,
+    26.0
+   ],
+   "XS": [
+    45.5,
+    26.5
+   ],
+   "S": [
+    47.5,
+    27.0
+   ],
+   "M": [
+    49.5,
+    27.5
+   ],
+   "L": [
+    52.5,
+    28.0
+   ],
+   "XL": [
+    55.5,
+    28.5
+   ],
+   "XXL": [
+    58.5,
+    29.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Soft Knit Tee",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    25.0,
+    26.0
+   ],
+   "XS": [
+    26.0,
+    27.0
+   ],
+   "S": [
+    27.0,
+    28.0
+   ],
+   "M": [
+    28.0,
+    29.0
+   ],
+   "L": [
+    29.0,
+    30.0
+   ],
+   "XL": [
+    30.0,
+    31.0
+   ],
+   "XXL": [
+    31.0,
+    32.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "3/4 Henley Sweatshirt",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    49.5,
+    30.5
+   ],
+   "XS": [
+    53.0,
+    31.0
+   ],
+   "S": [
+    55.0,
+    31.5
+   ],
+   "M": [
+    57.0,
+    32.0
+   ],
+   "L": [
+    60.0,
+    32.5
+   ],
+   "XL": [
+    63.0,
+    33.0
+   ],
+   "XXL": [
+    66.0,
+    33.5
+   ]
+  },
+  "products": 5
+ },
+ {
+  "name": "Cotton Canvas Overshirt",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    52.0,
+    33.0
+   ],
+   "XS": [
+    54.0,
+    34.0
+   ],
+   "S": [
+    56.0,
+    35.0
+   ],
+   "M": [
+    58.0,
+    36.0
+   ],
+   "L": [
+    61.0,
+    37.0
+   ],
+   "XL": [
+    64.0,
+    38.0
+   ],
+   "XXL": [
+    67.0,
+    39.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Half Zip Track Jacket",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    53.0,
+    26.5
+   ],
+   "XS": [
+    55.0,
+    27.0
+   ],
+   "S": [
+    57.0,
+    27.5
+   ],
+   "M": [
+    59.0,
+    28.0
+   ],
+   "L": [
+    62.0,
+    28.5
+   ],
+   "XL": [
+    65.0,
+    29.0
+   ],
+   "XXL": [
+    68.0,
+    29.5
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Half Zip Baseball Shirt",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    55.5,
+    30.5
+   ],
+   "S": [
+    57.5,
+    31.0
+   ],
+   "M": [
+    59.5,
+    31.5
+   ],
+   "L": [
+    62.5,
+    32.0
+   ],
+   "XL": [
+    65.5,
+    32.5
+   ],
+   "XXL": [
+    71.5,
+    33.5
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Full Zip Hooded Anorak",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    60.5,
+    26.5
+   ],
+   "XS": [
+    62.5,
+    27.0
+   ],
+   "S": [
+    64.5,
+    27.5
+   ],
+   "M": [
+    66.5,
+    28.0
+   ],
+   "L": [
+    69.5,
+    28.5
+   ],
+   "XL": [
+    72.5,
+    29.0
+   ],
+   "XXL": [
+    75.5,
+    29.5
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Silk Blend 3/4 Sleeve Button Up Shirt",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    55.0,
+    31.0
+   ],
+   "XS": [
+    57.0,
+    31.5
+   ],
+   "S": [
+    59.0,
+    32.0
+   ],
+   "M": [
+    61.0,
+    32.5
+   ],
+   "L": [
+    64.0,
+    33.0
+   ],
+   "XL": [
+    67.0,
+    33.5
+   ],
+   "XXL": [
+    70.0,
+    34.0
+   ],
+   "XXXL": [
+    75.0,
+    34.5
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Womens Shrunken Baseball Tee",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    22.5,
+    20.0
+   ],
+   "XS": [
+    24.5,
+    20.5
+   ],
+   "S": [
+    26.5,
+    21.0
+   ],
+   "M": [
+    28.5,
+    21.5
+   ],
+   "L": [
+    31.5,
+    22.0
+   ],
+   "XL": [
+    34.5,
+    22.5
+   ],
+   "XXL": [
+    37.5,
+    23.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Cropped Relaxed Panelled Sweatshirt",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    56.0,
+    25.0
+   ],
+   "XS": [
+    58.0,
+    25.5
+   ],
+   "S": [
+    60.0,
+    26.0
+   ],
+   "M": [
+    63.0,
+    26.5
+   ],
+   "L": [
+    66.0,
+    27.0
+   ],
+   "XL": [
+    69.0,
+    27.5
+   ],
+   "XXL": [
+    72.0,
+    28.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Cropped Polo ",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    51.0,
+    27.0
+   ],
+   "XS": [
+    53.0,
+    27.5
+   ],
+   "S": [
+    55.0,
+    28.0
+   ],
+   "M": [
+    58.0,
+    28.5
+   ],
+   "L": [
+    61.0,
+    29.0
+   ],
+   "XL": [
+    64.0,
+    29.5
+   ],
+   "XXL": [
+    67.0,
+    30.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Cut Off 90s Tee",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    54.0,
+    29.5
+   ],
+   "S": [
+    56.0,
+    30.0
+   ],
+   "M": [
+    58.0,
+    30.5
+   ],
+   "L": [
+    61.0,
+    31.0
+   ],
+   "XL": [
+    64.0,
+    31.5
+   ],
+   "XXL": [
+    67.0,
+    32.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Merch Tee Boxy Fit",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    47.5,
+    27.0
+   ],
+   "XS": [
+    49.5,
+    27.5
+   ],
+   "S": [
+    51.5,
+    28.0
+   ],
+   "M": [
+    54.5,
+    28.5
+   ],
+   "L": [
+    57.5,
+    29.0
+   ],
+   "XL": [
+    60.5,
+    29.5
+   ],
+   "XXL": [
+    63.5,
+    30.0
+   ]
+  },
+  "products": 8
+ },
+ {
+  "name": "Ponte Modern Tee Relaxed Fit",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    52.0,
+    30.0
+   ],
+   "XS": [
+    54.0,
+    30.5
+   ],
+   "S": [
+    56.0,
+    31.0
+   ],
+   "M": [
+    59.0,
+    31.5
+   ],
+   "L": [
+    62.0,
+    32.0
+   ],
+   "XL": [
+    65.0,
+    32.5
+   ],
+   "XXL": [
+    68.0,
+    33.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Kids Cropped Polo",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "8": [
+    42.0,
+    22.5
+   ],
+   "10": [
+    45.0,
+    24.0
+   ],
+   "12": [
+    47.0,
+    26.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Kids Tri-Blend Essential Tee",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "8": [
+    18.5,
+    21.5
+   ],
+   "10": [
+    20.0,
+    23.0
+   ],
+   "12": [
+    21.0,
+    25.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Kids Merch Long Sleeve Tee",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "8": [
+    40.0,
+    22.5
+   ],
+   "10": [
+    43.0,
+    24.0
+   ],
+   "12": [
+    45.0,
+    26.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Kids Merch Tee Boxy Fit",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "8": [
+    40.0,
+    22.5
+   ],
+   "10": [
+    43.0,
+    24.0
+   ],
+   "12": [
+    45.0,
+    26.0
+   ]
+  },
+  "products": 7
+ },
+ {
+  "name": "Womens Long TShirt Dress",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    45.0,
+    51.5
+   ],
+   "XS": [
+    47.0,
+    52.0
+   ],
+   "S": [
+    49.0,
+    52.0
+   ],
+   "M": [
+    51.0,
+    52.0
+   ],
+   "L": [
+    54.0,
+    52.5
+   ],
+   "XL": [
+    57.0,
+    52.5
+   ],
+   "XXL": [
+    60.0,
+    52.5
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Merch Long Sleeve Tee",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    43.0,
+    28.0
+   ],
+   "XS": [
+    45.0,
+    28.5
+   ],
+   "S": [
+    47.0,
+    29.0
+   ],
+   "M": [
+    49.0,
+    29.5
+   ],
+   "L": [
+    52.0,
+    30.0
+   ],
+   "XL": [
+    55.0,
+    30.5
+   ],
+   "XXL": [
+    58.0,
+    31.0
+   ]
+  },
+  "products": 7
+ },
+ {
+  "name": "Heavy Jersey Merch Long Sleeve Tee",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    43.0,
+    28.0
+   ],
+   "XS": [
+    45.0,
+    28.5
+   ],
+   "S": [
+    47.0,
+    29.0
+   ],
+   "M": [
+    49.0,
+    29.5
+   ],
+   "L": [
+    52.0,
+    30.0
+   ],
+   "XL": [
+    55.0,
+    30.5
+   ],
+   "XXL": [
+    58.0,
+    31.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Sport Mesh Merch Long Sleeve Tee",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    43.0,
+    28.0
+   ],
+   "XS": [
+    45.0,
+    28.5
+   ],
+   "S": [
+    47.0,
+    29.0
+   ],
+   "M": [
+    49.0,
+    29.5
+   ],
+   "L": [
+    52.0,
+    30.0
+   ],
+   "XL": [
+    55.0,
+    30.5
+   ],
+   "XXL": [
+    58.0,
+    31.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Cropped Relaxed Panelled Hoodie",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    54.0,
+    25.0
+   ],
+   "XS": [
+    56.0,
+    25.5
+   ],
+   "S": [
+    58.0,
+    26.0
+   ],
+   "M": [
+    60.0,
+    26.5
+   ],
+   "L": [
+    63.0,
+    27.0
+   ],
+   "XL": [
+    66.0,
+    27.5
+   ],
+   "XXL": [
+    69.0,
+    28.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "90s Hoodie",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    37.0,
+    26.0
+   ],
+   "XS": [
+    39.0,
+    26.5
+   ],
+   "S": [
+    41.0,
+    27.0
+   ],
+   "M": [
+    43.0,
+    27.5
+   ],
+   "L": [
+    46.0,
+    28.0
+   ],
+   "XL": [
+    49.0,
+    28.5
+   ],
+   "XXL": [
+    52.0,
+    29.0
+   ]
+  },
+  "products": 4
+ },
+ {
+  "name": "90's Relaxed Zip Up Hoodie",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    37.0,
+    26.0
+   ],
+   "XS": [
+    39.0,
+    26.5
+   ],
+   "S": [
+    41.0,
+    27.0
+   ],
+   "M": [
+    43.0,
+    27.5
+   ],
+   "L": [
+    46.0,
+    28.0
+   ],
+   "XL": [
+    49.0,
+    28.5
+   ],
+   "XXL": [
+    52.0,
+    29.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Womens 90s Fleece Hoodie",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    20.0,
+    19.5
+   ],
+   "XS": [
+    21.0,
+    20.0
+   ],
+   "S": [
+    22.0,
+    20.5
+   ],
+   "M": [
+    23.0,
+    21.0
+   ],
+   "L": [
+    24.5,
+    21.5
+   ],
+   "XL": [
+    26.0,
+    22.0
+   ],
+   "XXL": [
+    27.5,
+    22.5
+   ]
+  },
+  "products": 4
+ },
+ {
+  "name": "Sport Mesh Merch Tee",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    47.5,
+    26.5
+   ],
+   "S": [
+    49.5,
+    27.0
+   ],
+   "M": [
+    51.5,
+    27.5
+   ],
+   "L": [
+    53.5,
+    28.0
+   ],
+   "XL": [
+    55.5,
+    28.5
+   ],
+   "XXL": [
+    57.5,
+    29.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Merch Tee",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    47.5,
+    26.5
+   ],
+   "S": [
+    49.5,
+    27.0
+   ],
+   "M": [
+    51.5,
+    27.5
+   ],
+   "L": [
+    53.5,
+    28.0
+   ],
+   "XL": [
+    55.5,
+    28.5
+   ],
+   "XXL": [
+    57.5,
+    29.0
+   ]
+  },
+  "products": 8
+ },
+ {
+  "name": "Womens Rib Knit Dress",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    22.0,
+    47.5
+   ],
+   "XS": [
+    24.0,
+    48.0
+   ],
+   "S": [
+    26.0,
+    48.0
+   ],
+   "M": [
+    28.0,
+    48.0
+   ],
+   "L": [
+    31.0,
+    48.5
+   ],
+   "XL": [
+    34.0,
+    48.5
+   ],
+   "XXL": [
+    37.0,
+    48.5
+   ]
+  },
+  "products": 4
+ },
+ {
+  "name": "Womens Rib Knit Zip Up Jacket",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    25.0,
+    22.5
+   ],
+   "S": [
+    27.0,
+    23.0
+   ],
+   "M": [
+    29.0,
+    23.5
+   ],
+   "L": [
+    32.0,
+    24.0
+   ],
+   "XL": [
+    35.0,
+    24.5
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Womens Soft Knit Slim Longsleeve",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    24.5,
+    22.0
+   ],
+   "XS": [
+    26.5,
+    22.5
+   ],
+   "S": [
+    28.5,
+    23.0
+   ],
+   "M": [
+    30.5,
+    23.5
+   ],
+   "L": [
+    33.5,
+    24.0
+   ],
+   "XL": [
+    36.5,
+    24.5
+   ],
+   "XXL": [
+    39.5,
+    25.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Womens Soft Rib Fitted T-Shirt",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    21.0,
+    19.0
+   ],
+   "XS": [
+    23.0,
+    null
+   ],
+   "S": [
+    25.0,
+    20.0
+   ],
+   "M": [
+    27.0,
+    20.5
+   ],
+   "L": [
+    30.0,
+    21.0
+   ],
+   "XL": [
+    33.0,
+    21.5
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Soft Rib Racerback Dress",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    22.0,
+    47.5
+   ],
+   "XS": [
+    24.0,
+    48.0
+   ],
+   "S": [
+    26.0,
+    48.0
+   ],
+   "M": [
+    28.0,
+    48.0
+   ],
+   "L": [
+    31.0,
+    48.5
+   ],
+   "XL": [
+    34.0,
+    48.5
+   ],
+   "XXL": [
+    37.0,
+    48.5
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Track Jacket",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    23.5,
+    25.5
+   ],
+   "XS": [
+    24.5,
+    26.0
+   ],
+   "S": [
+    25.5,
+    26.5
+   ],
+   "M": [
+    26.5,
+    27.0
+   ],
+   "L": [
+    28.0,
+    27.5
+   ],
+   "XL": [
+    29.5,
+    28.0
+   ],
+   "XXL": [
+    31.0,
+    28.5
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Womens Tri-Blend Classic Fit Long Sleeve Tee",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    18.0,
+    26.0
+   ],
+   "XS": [
+    19.0,
+    26.5
+   ],
+   "S": [
+    20.0,
+    27.0
+   ],
+   "M": [
+    21.0,
+    27.5
+   ],
+   "L": [
+    22.0,
+    28.0
+   ],
+   "XL": [
+    23.0,
+    28.5
+   ],
+   "XXL": [
+    24.0,
+    29.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Womens Tri-Blend Classic Fit Tee",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    16.5,
+    22.0
+   ],
+   "XS": [
+    17.5,
+    22.5
+   ],
+   "S": [
+    18.5,
+    23.0
+   ],
+   "M": [
+    19.5,
+    23.5
+   ],
+   "L": [
+    21.0,
+    24.0
+   ],
+   "XL": [
+    22.5,
+    24.5
+   ],
+   "XXL": [
+    24.0,
+    25.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Womens Tri-Blend Classic Tank",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    11.0,
+    19.0
+   ],
+   "XS": [
+    12.0,
+    19.5
+   ],
+   "S": [
+    13.0,
+    20.0
+   ],
+   "M": [
+    14.0,
+    20.5
+   ],
+   "L": [
+    15.0,
+    21.0
+   ],
+   "XL": [
+    16.0,
+    21.5
+   ],
+   "XXL": [
+    17.0,
+    22.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Womens Soft Knit Classic Tank",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    11.0,
+    19.0
+   ],
+   "XS": [
+    12.0,
+    19.5
+   ],
+   "S": [
+    13.0,
+    20.0
+   ],
+   "M": [
+    14.0,
+    20.5
+   ],
+   "L": [
+    15.0,
+    21.0
+   ],
+   "XL": [
+    16.0,
+    21.5
+   ],
+   "XXL": [
+    17.0,
+    22.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Womens Paneled Classic Sweatshirt",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    20.0,
+    21.5
+   ],
+   "XS": [
+    21.0,
+    22.0
+   ],
+   "S": [
+    22.0,
+    22.5
+   ],
+   "M": [
+    23.0,
+    23.0
+   ],
+   "L": [
+    24.5,
+    23.5
+   ],
+   "XL": [
+    26.0,
+    24.0
+   ],
+   "XXL": [
+    31.0,
+    24.5
+   ]
+  },
+  "products": 4
+ },
+ {
+  "name": "Cotton Twill Work Jacket [Summer 2026 Mens Essentials]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    50.0,
+    25.5
+   ],
+   "XS": [
+    52.0,
+    26.0
+   ],
+   "S": [
+    54.0,
+    26.5
+   ],
+   "M": [
+    56.0,
+    27.0
+   ],
+   "L": [
+    59.0,
+    27.5
+   ],
+   "XL": [
+    62.0,
+    28.0
+   ],
+   "XXL": [
+    65.0,
+    28.5
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Easy Care Wool Classic Shirt [9th Womens]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    50.0,
+    31.0
+   ],
+   "S": [
+    52.0,
+    32.0
+   ],
+   "M": [
+    54.0,
+    33.0
+   ],
+   "L": [
+    56.0,
+    34.0
+   ],
+   "XL": [
+    58.0,
+    35.0
+   ],
+   "XXL": [
+    60.0,
+    36.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "90s Crewneck Sweatshirt",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    37.0,
+    26.0
+   ],
+   "XS": [
+    39.0,
+    26.5
+   ],
+   "S": [
+    41.0,
+    27.0
+   ],
+   "M": [
+    43.0,
+    27.5
+   ],
+   "L": [
+    46.0,
+    28.0
+   ],
+   "XL": [
+    49.0,
+    28.5
+   ],
+   "XXL": [
+    52.0,
+    29.0
+   ]
+  },
+  "products": 7
+ },
+ {
+  "name": "MLB Sport Hoodie",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    47.0,
+    26.5
+   ],
+   "XS": [
+    49.0,
+    27.0
+   ],
+   "S": [
+    51.0,
+    27.5
+   ],
+   "M": [
+    53.0,
+    28.0
+   ],
+   "L": [
+    56.0,
+    28.5
+   ],
+   "XL": [
+    59.0,
+    29.0
+   ],
+   "XXL": [
+    62.0,
+    30.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "MLB Boxy Long Sleeve Tee",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    46.0,
+    31.5
+   ],
+   "XS": [
+    48.0,
+    32.0
+   ],
+   "S": [
+    50.0,
+    32.5
+   ],
+   "M": [
+    52.0,
+    33.0
+   ],
+   "L": [
+    55.0,
+    33.5
+   ],
+   "XL": [
+    58.0,
+    34.0
+   ],
+   "XXL": [
+    61.0,
+    34.5
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Yankees Half Zip Pullover",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    53.0,
+    26.5
+   ],
+   "XS": [
+    55.0,
+    27.0
+   ],
+   "S": [
+    57.0,
+    27.5
+   ],
+   "M": [
+    59.0,
+    28.0
+   ],
+   "L": [
+    62.0,
+    28.5
+   ],
+   "XL": [
+    65.0,
+    29.0
+   ],
+   "XXL": [
+    68.0,
+    29.5
+   ]
+  },
+  "products": 5
+ },
+ {
+  "name": "MLB Merch Tee",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    47.5,
+    26.5
+   ],
+   "S": [
+    49.5,
+    27.0
+   ],
+   "M": [
+    51.5,
+    27.5
+   ],
+   "L": [
+    53.5,
+    28.0
+   ],
+   "XL": [
+    55.5,
+    28.5
+   ],
+   "XXL": [
+    57.5,
+    29.0
+   ]
+  },
+  "products": 25
+ },
+ {
+  "name": "Dodgers Raglan Half Zip Sport Hoodie",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    47.0,
+    26.5
+   ],
+   "XS": [
+    49.0,
+    27.0
+   ],
+   "S": [
+    51.0,
+    27.5
+   ],
+   "M": [
+    53.0,
+    28.0
+   ],
+   "L": [
+    56.0,
+    28.5
+   ],
+   "XL": [
+    59.0,
+    29.0
+   ],
+   "XXL": [
+    62.0,
+    30.0
+   ]
+  },
+  "products": 10
+ },
+ {
+  "name": "MLB Raglan Sport Hoodie",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    47.0,
+    26.5
+   ],
+   "XS": [
+    49.0,
+    27.0
+   ],
+   "S": [
+    51.0,
+    27.5
+   ],
+   "M": [
+    53.0,
+    28.0
+   ],
+   "L": [
+    56.0,
+    28.5
+   ],
+   "XL": [
+    59.0,
+    29.0
+   ],
+   "XXL": [
+    62.0,
+    30.0
+   ]
+  },
+  "products": 4
+ },
+ {
+  "name": "Womens Cotton Twill Relaxed Lapelless Jacket [9TH SP26] WOMENS",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    26.0,
+    null
+   ],
+   "S": [
+    27.0,
+    null
+   ],
+   "M": [
+    28.0,
+    null
+   ],
+   "L": [
+    29.0,
+    null
+   ],
+   "XL": [
+    30.0,
+    null
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Garment Dyed Cotton Windbreaker [9TH SP26] MENS",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    57.0,
+    null
+   ],
+   "S": [
+    59.0,
+    null
+   ],
+   "M": [
+    61.0,
+    null
+   ],
+   "L": [
+    63.0,
+    null
+   ],
+   "XL": [
+    65.0,
+    null
+   ],
+   "XXL": [
+    67.0,
+    null
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Jackie Robinson Day Merch Hoodie",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    55.0,
+    27.5
+   ],
+   "S": [
+    57.0,
+    28.0
+   ],
+   "M": [
+    59.0,
+    28.5
+   ],
+   "L": [
+    62.0,
+    29.0
+   ],
+   "XL": [
+    65.0,
+    29.5
+   ],
+   "XXL": [
+    68.0,
+    30.0
+   ],
+   "XXXL": [
+    71.0,
+    30.5
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Jackie Robinson Day Merch Tee",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    47.5,
+    26.5
+   ],
+   "S": [
+    49.5,
+    27.0
+   ],
+   "M": [
+    51.5,
+    27.5
+   ],
+   "L": [
+    53.5,
+    28.0
+   ],
+   "XL": [
+    55.5,
+    28.5
+   ],
+   "XXL": [
+    57.5,
+    29.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "JACKIE ROBINSON X NLBM SPORT HOODIE",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    47.0,
+    26.5
+   ],
+   "XS": [
+    49.0,
+    27.0
+   ],
+   "S": [
+    51.0,
+    27.5
+   ],
+   "M": [
+    53.0,
+    28.0
+   ],
+   "L": [
+    56.0,
+    28.5
+   ],
+   "XL": [
+    59.0,
+    29.0
+   ],
+   "XXL": [
+    62.0,
+    30.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Washed Canvas Utility Shorts [9TH SP26 MENS]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "29": [
+    23.0,
+    null
+   ],
+   "30": [
+    24.0,
+    null
+   ],
+   "31": [
+    24.0,
+    null
+   ],
+   "32": [
+    25.0,
+    null
+   ],
+   "33": [
+    26.0,
+    null
+   ],
+   "34": [
+    26.0,
+    null
+   ],
+   "36": [
+    27.0,
+    null
+   ],
+   "38": [
+    28.0,
+    null
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Leather Relaxed Shirt [9th SP26] MENS",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    50.0,
+    31.0
+   ],
+   "S": [
+    52.0,
+    32.0
+   ],
+   "M": [
+    54.0,
+    33.0
+   ],
+   "L": [
+    56.0,
+    34.0
+   ],
+   "XL": [
+    58.0,
+    35.0
+   ],
+   "XXL": [
+    60.0,
+    36.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Baseball Club Half Zip Hoodie",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    25.0,
+    24.0
+   ],
+   "S": [
+    26.0,
+    25.0
+   ],
+   "M": [
+    27.0,
+    26.0
+   ],
+   "L": [
+    28.0,
+    27.0
+   ],
+   "XL": [
+    29.0,
+    28.0
+   ],
+   "XXL": [
+    31.0,
+    30.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Cotton Wool Oxford Classic Shirt [9th SP26] MENS",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    50.0,
+    31.0
+   ],
+   "S": [
+    52.0,
+    32.0
+   ],
+   "M": [
+    54.0,
+    33.0
+   ],
+   "L": [
+    56.0,
+    34.0
+   ],
+   "XL": [
+    58.0,
+    35.0
+   ],
+   "XXL": [
+    60.0,
+    36.0
+   ]
+  },
+  "products": 4
+ },
+ {
+  "name": "Rib Tank [Mens 2026]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    38.0,
+    30.5
+   ],
+   "S": [
+    40.0,
+    31.5
+   ],
+   "M": [
+    42.0,
+    32.5
+   ],
+   "L": [
+    45.0,
+    33.5
+   ],
+   "XL": [
+    48.0,
+    34.5
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Womens Classic Half Raglan Hoodie [9TH SP26] WOMENS",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    22.5,
+    22.5
+   ],
+   "S": [
+    23.5,
+    23.0
+   ],
+   "M": [
+    24.5,
+    23.5
+   ],
+   "L": [
+    25.5,
+    24.0
+   ],
+   "XL": [
+    26.5,
+    24.5
+   ],
+   "XXL": [
+    27.5,
+    25.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Womens Leather Collarless Jacket [9TH SP26] WOMENS",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    43.0,
+    31.0
+   ],
+   "S": [
+    44.0,
+    31.5
+   ],
+   "M": [
+    46.0,
+    32.0
+   ],
+   "L": [
+    47.0,
+    32.5
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Womens Leather Track Jacket [9TH SP26] WOMENS",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    54.0,
+    23.0
+   ],
+   "S": [
+    55.0,
+    23.5
+   ],
+   "M": [
+    57.0,
+    24.0
+   ],
+   "L": [
+    58.0,
+    24.5
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Womens Sheer Viscose Sleeveless Tee [9TH SP26] WOMENS",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    51.0,
+    31.0
+   ],
+   "S": [
+    52.0,
+    31.5
+   ],
+   "M": [
+    54.0,
+    32.0
+   ],
+   "L": [
+    55.0,
+    32.5
+   ],
+   "XL": [
+    57.0,
+    33.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Womens Viscose Oxford Relaxed Shirt [9TH SP26] WOMENS",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    59.0,
+    34.0
+   ],
+   "S": [
+    60.0,
+    35.0
+   ],
+   "M": [
+    62.0,
+    35.5
+   ],
+   "L": [
+    63.0,
+    36.0
+   ],
+   "XL": [
+    65.0,
+    26.5
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Womens Easy Care Wool Relaxed Shirt [9TH SP26] WOMENS",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    59.0,
+    34.0
+   ],
+   "S": [
+    60.0,
+    35.0
+   ],
+   "M": [
+    62.0,
+    35.5
+   ],
+   "L": [
+    63.0,
+    36.0
+   ],
+   "XL": [
+    65.0,
+    26.5
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Womens Flannel Relaxed Shirt [9TH SP26] WOMENS",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    59.0,
+    34.0
+   ],
+   "S": [
+    60.0,
+    35.0
+   ],
+   "M": [
+    62.0,
+    35.5
+   ],
+   "L": [
+    63.0,
+    36.0
+   ],
+   "XL": [
+    65.0,
+    26.5
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Womens Silk Stretch Tank Top [9TH SP26] WOMENS",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    51.0,
+    31.0
+   ],
+   "S": [
+    52.0,
+    31.5
+   ],
+   "M": [
+    54.0,
+    32.0
+   ],
+   "L": [
+    55.0,
+    32.5
+   ],
+   "XL": [
+    57.0,
+    33.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Womens Crinkle Viscose Track Jacket [9TH SP26] WOMENS",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    54.0,
+    23.0
+   ],
+   "S": [
+    55.0,
+    24.0
+   ],
+   "M": [
+    57.0,
+    24.5
+   ],
+   "L": [
+    58.0,
+    25.0
+   ],
+   "XL": [
+    60.0,
+    25.5
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Half Raglan Hoodie W/ Pocket [9TH SP26] MENS",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    25.0,
+    24.5
+   ],
+   "S": [
+    26.0,
+    25.0
+   ],
+   "M": [
+    27.0,
+    25.5
+   ],
+   "L": [
+    28.0,
+    26.0
+   ],
+   "XL": [
+    29.0,
+    26.5
+   ],
+   "XXL": [
+    30.0,
+    27.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Sunfaded Classic Half Raglan Sweatshirt [9TH SP26] MENS",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    25.0,
+    24.5
+   ],
+   "S": [
+    26.0,
+    25.0
+   ],
+   "M": [
+    27.0,
+    25.5
+   ],
+   "L": [
+    28.0,
+    26.0
+   ],
+   "XL": [
+    29.0,
+    26.5
+   ],
+   "XXL": [
+    30.0,
+    27.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Classic Trucker Jacket [9th SP26] MENS",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    46.0,
+    null
+   ],
+   "S": [
+    48.0,
+    null
+   ],
+   "M": [
+    50.0,
+    null
+   ],
+   "L": [
+    52.0,
+    null
+   ],
+   "XL": [
+    54.0,
+    null
+   ],
+   "XXL": [
+    56.0,
+    null
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Property Lounge Long Zip Hoodie [SP26]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    49.0,
+    33.5
+   ],
+   "XS": [
+    51.0,
+    34.0
+   ],
+   "S": [
+    53.0,
+    35.5
+   ],
+   "M": [
+    55.0,
+    35.0
+   ],
+   "L": [
+    58.0,
+    35.5
+   ],
+   "XL": [
+    61.0,
+    36.0
+   ],
+   "XXL": [
+    64.0,
+    36.5
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Double Weave Wool Crewneck Jacket [9th SP26] MENS",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "42": [
+    19.0,
+    29.0
+   ],
+   "44": [
+    20.0,
+    30.0
+   ],
+   "46": [
+    21.0,
+    31.0
+   ],
+   "48": [
+    22.0,
+    32.0
+   ],
+   "50": [
+    23.0,
+    33.0
+   ],
+   "52": [
+    24.0,
+    34.0
+   ],
+   "54": [
+    25.0,
+    35.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Japanese Selvedge Classic Trucker Jacket [9th SP26] MENS",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    46.0,
+    null
+   ],
+   "S": [
+    48.0,
+    null
+   ],
+   "M": [
+    50.0,
+    null
+   ],
+   "L": [
+    52.0,
+    null
+   ],
+   "XL": [
+    54.0,
+    null
+   ],
+   "XXL": [
+    56.0,
+    null
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "NBA X Barkley Hendricks 90s Crewneck",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    37.0,
+    26.0
+   ],
+   "XS": [
+    39.0,
+    26.5
+   ],
+   "S": [
+    41.0,
+    27.0
+   ],
+   "M": [
+    43.0,
+    27.5
+   ],
+   "L": [
+    46.0,
+    28.0
+   ],
+   "XL": [
+    49.0,
+    28.5
+   ],
+   "XXL": [
+    52.0,
+    29.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "NBA X Barkley Hendricks Long Sleeve V-Neck Tee",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    49.0,
+    30.5
+   ],
+   "XS": [
+    51.0,
+    31.0
+   ],
+   "S": [
+    53.0,
+    31.5
+   ],
+   "M": [
+    55.0,
+    32.0
+   ],
+   "L": [
+    58.0,
+    32.5
+   ],
+   "XL": [
+    61.0,
+    33.0
+   ],
+   "XXL": [
+    64.0,
+    33.5
+   ],
+   "XXXL": [
+    67.0,
+    34.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "NBA X Barkley Hendricks 90s Hoodie",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    37.0,
+    26.0
+   ],
+   "XS": [
+    39.0,
+    26.5
+   ],
+   "S": [
+    41.0,
+    27.0
+   ],
+   "M": [
+    43.0,
+    27.5
+   ],
+   "L": [
+    46.0,
+    28.0
+   ],
+   "XL": [
+    49.0,
+    28.5
+   ],
+   "XXL": [
+    52.0,
+    29.0
+   ],
+   "XXXL": [
+    55.0,
+    29.5
+   ]
+  },
+  "products": 7
+ },
+ {
+  "name": "USA Baseball Sport Hoodie",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    47.0,
+    26.5
+   ],
+   "XS": [
+    49.0,
+    27.0
+   ],
+   "S": [
+    51.0,
+    27.5
+   ],
+   "M": [
+    53.0,
+    28.0
+   ],
+   "L": [
+    56.0,
+    28.5
+   ],
+   "XL": [
+    59.0,
+    29.0
+   ],
+   "XXL": [
+    62.0,
+    30.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "USA Baseball Merch Tee",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    47.5,
+    26.5
+   ],
+   "S": [
+    49.5,
+    27.0
+   ],
+   "M": [
+    51.5,
+    27.5
+   ],
+   "L": [
+    53.5,
+    28.0
+   ],
+   "XL": [
+    55.5,
+    28.5
+   ],
+   "XXL": [
+    57.5,
+    29.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Cut Sleeve Sweatshirt [9th SP26] MENS",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    26.0,
+    26.0
+   ],
+   "S": [
+    27.0,
+    27.0
+   ],
+   "M": [
+    28.0,
+    27.0
+   ],
+   "L": [
+    29.0,
+    28.0
+   ],
+   "XL": [
+    30.0,
+    28.0
+   ],
+   "XXL": [
+    31.0,
+    29.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Cotton Rayon Tee [9th SP26] MENS",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    25.0,
+    28.0
+   ],
+   "S": [
+    26.0,
+    29.0
+   ],
+   "M": [
+    27.0,
+    29.0
+   ],
+   "L": [
+    28.0,
+    30.0
+   ],
+   "XL": [
+    29.0,
+    30.0
+   ],
+   "XXL": [
+    30.0,
+    31.0
+   ]
+  },
+  "products": 5
+ },
+ {
+  "name": "Cotton Rayon 43 Tee [9th SP26] MENS",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    25.0,
+    30.0
+   ],
+   "S": [
+    26.0,
+    31.0
+   ],
+   "M": [
+    27.0,
+    31.0
+   ],
+   "L": [
+    28.0,
+    32.0
+   ],
+   "XL": [
+    29.0,
+    32.0
+   ],
+   "XXL": [
+    30.0,
+    33.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "\"26\" SHORT SLEEVE TEE [9th SP26] MENS",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    47.5,
+    26.5
+   ],
+   "S": [
+    49.5,
+    27.0
+   ],
+   "M": [
+    51.5,
+    27.5
+   ],
+   "L": [
+    53.5,
+    28.0
+   ],
+   "XL": [
+    55.5,
+    28.5
+   ],
+   "XXL": [
+    57.5,
+    29.0
+   ]
+  },
+  "products": 7
+ },
+ {
+  "name": "CLASSIC FIT HOODIE [9th SP26] MENS",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    25.0,
+    25.0
+   ],
+   "S": [
+    26.0,
+    26.0
+   ],
+   "M": [
+    27.0,
+    27.0
+   ],
+   "L": [
+    28.0,
+    28.0
+   ],
+   "XL": [
+    29.0,
+    29.0
+   ],
+   "XXL": [
+    30.0,
+    30.0
+   ]
+  },
+  "products": 6
+ },
+ {
+  "name": "Mens Active Trace Half Zip Track Jacket [SP26]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    53.0,
+    26.5
+   ],
+   "XS": [
+    55.0,
+    27.0
+   ],
+   "S": [
+    57.0,
+    27.5
+   ],
+   "M": [
+    59.0,
+    28.0
+   ],
+   "L": [
+    62.0,
+    28.5
+   ],
+   "XL": [
+    65.0,
+    29.0
+   ],
+   "XXL": [
+    68.0,
+    29.5
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Womens Classic Knit Long Sleeve Tee [SP26]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    36.0,
+    26.0
+   ],
+   "XS": [
+    38.0,
+    26.5
+   ],
+   "S": [
+    40.0,
+    27.0
+   ],
+   "M": [
+    42.0,
+    27.5
+   ],
+   "L": [
+    45.0,
+    28.0
+   ],
+   "XL": [
+    48.0,
+    28.5
+   ],
+   "XXL": [
+    51.0,
+    29.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Mens Classic Hoodie [SP26]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    23.0,
+    25.5
+   ],
+   "XS": [
+    24.0,
+    26.0
+   ],
+   "S": [
+    25.0,
+    26.5
+   ],
+   "M": [
+    26.0,
+    27.0
+   ],
+   "L": [
+    27.5,
+    27.5
+   ],
+   "XL": [
+    29.0,
+    28.0
+   ],
+   "XXL": [
+    30.5,
+    28.5
+   ]
+  },
+  "products": 12
+ },
+ {
+  "name": "Womens Signature Rib Knit Fitted Short Sleeve [SP26]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    21.0,
+    19.0
+   ],
+   "XS": [
+    23.0,
+    null
+   ],
+   "S": [
+    25.0,
+    20.0
+   ],
+   "M": [
+    27.0,
+    20.5
+   ],
+   "L": [
+    30.0,
+    21.0
+   ],
+   "XL": [
+    33.0,
+    21.5
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Womens Boxy Knit Tee [SP26]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    22.5,
+    21.75
+   ],
+   "XS": [
+    23.5,
+    22.25
+   ],
+   "S": [
+    24.5,
+    22.75
+   ],
+   "M": [
+    25.5,
+    23.25
+   ],
+   "L": [
+    26.5,
+    23.75
+   ],
+   "XL": [
+    27.5,
+    24.25
+   ],
+   "XXL": [
+    28.5,
+    24.75
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Womens Signature Rib Knit Cropped Top [SP26]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    25.5,
+    16.0
+   ],
+   "XS": [
+    27.5,
+    16.5
+   ],
+   "S": [
+    29.5,
+    17.0
+   ],
+   "M": [
+    31.5,
+    17.5
+   ],
+   "L": [
+    34.5,
+    18.0
+   ],
+   "XL": [
+    27.5,
+    18.5
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Womens Signature Rib Knit Fitted Long Sleeve Zip Up Tee [SP26]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    25.0,
+    22.5
+   ],
+   "S": [
+    27.0,
+    23.0
+   ],
+   "M": [
+    29.0,
+    23.5
+   ],
+   "L": [
+    32.0,
+    24.0
+   ],
+   "XL": [
+    35.0,
+    24.5
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Mens 90s Hoodie [SP26] ",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    37.0,
+    26.0
+   ],
+   "XS": [
+    39.0,
+    26.5
+   ],
+   "S": [
+    41.0,
+    27.0
+   ],
+   "M": [
+    43.0,
+    27.5
+   ],
+   "L": [
+    46.0,
+    28.0
+   ],
+   "XL": [
+    49.0,
+    28.5
+   ],
+   "XXL": [
+    52.0,
+    29.0
+   ],
+   "XXXL": [
+    55.0,
+    29.5
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Kids Signature Classic Short Sleeve Polo [SP26]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "8": [
+    42.0,
+    22.5
+   ],
+   "10": [
+    45.0,
+    24.0
+   ],
+   "12": [
+    47.0,
+    26.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "KIDS 90\u2019S SHORT SLEEVE TEE [SP26] ",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "8": [
+    40.0,
+    22.5
+   ],
+   "10": [
+    43.0,
+    24.0
+   ],
+   "12": [
+    45.0,
+    26.0
+   ]
+  },
+  "products": 7
+ },
+ {
+  "name": "Barkley Hendricks 90s Tee [26]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    51.0,
+    31.0
+   ],
+   "S": [
+    53.0,
+    31.5
+   ],
+   "M": [
+    55.0,
+    32.0
+   ],
+   "L": [
+    58.0,
+    32.5
+   ],
+   "XL": [
+    61.0,
+    33.0
+   ],
+   "XXL": [
+    64.0,
+    33.5
+   ],
+   "XXXL": [
+    67.0,
+    34.0
+   ]
+  },
+  "products": 7
+ },
+ {
+  "name": "Essential Tee [SP26] MENS",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    42.5,
+    26.5
+   ],
+   "XS": [
+    44.5,
+    27.0
+   ],
+   "S": [
+    46.5,
+    27.5
+   ],
+   "M": [
+    48.5,
+    28.0
+   ],
+   "L": [
+    51.5,
+    28.5
+   ],
+   "XL": [
+    54.5,
+    29.5
+   ],
+   "XXL": [
+    57.5,
+    30.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Essential Tank [SP26] MENS ",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    18.0,
+    31.0
+   ],
+   "XS": [
+    19.0,
+    31.5
+   ],
+   "S": [
+    20.0,
+    32.0
+   ],
+   "M": [
+    21.0,
+    32.5
+   ],
+   "L": [
+    22.0,
+    33.0
+   ],
+   "XL": [
+    24.0,
+    33.5
+   ],
+   "XXL": [
+    25.0,
+    34.0
+   ]
+  },
+  "products": 13
+ },
+ {
+  "name": "Baseball Tee [SP26] MENS",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    49.0,
+    30.5
+   ],
+   "XS": [
+    51.0,
+    31.0
+   ],
+   "S": [
+    53.0,
+    31.5
+   ],
+   "M": [
+    55.0,
+    32.0
+   ],
+   "L": [
+    58.0,
+    32.5
+   ],
+   "XL": [
+    61.0,
+    33.0
+   ],
+   "XXL": [
+    64.0,
+    33.5
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "90s long Sleeve Tee [SP26] MENS",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    49.0,
+    30.5
+   ],
+   "XS": [
+    51.0,
+    31.0
+   ],
+   "S": [
+    53.0,
+    31.5
+   ],
+   "M": [
+    55.0,
+    32.0
+   ],
+   "L": [
+    58.0,
+    32.5
+   ],
+   "XL": [
+    61.0,
+    33.0
+   ],
+   "XXL": [
+    64.0,
+    33.5
+   ]
+  },
+  "products": 13
+ },
+ {
+  "name": "90s Short Sleeve Tee [SP26] MENS",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    49.0,
+    30.5
+   ],
+   "XS": [
+    51.0,
+    31.0
+   ],
+   "S": [
+    53.0,
+    31.5
+   ],
+   "M": [
+    55.0,
+    32.0
+   ],
+   "L": [
+    58.0,
+    32.5
+   ],
+   "XL": [
+    61.0,
+    33.0
+   ],
+   "XXL": [
+    64.0,
+    33.5
+   ]
+  },
+  "products": 5
+ },
+ {
+  "name": "INGLEWOOD X ALL STAR WEEKEND 26 90S TEE",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    51.0,
+    31.0
+   ],
+   "S": [
+    53.0,
+    31.5
+   ],
+   "M": [
+    55.0,
+    32.0
+   ],
+   "L": [
+    58.0,
+    32.5
+   ],
+   "XL": [
+    61.0,
+    33.0
+   ],
+   "XXL": [
+    64.0,
+    33.5
+   ],
+   "XXXL": [
+    67.0,
+    34.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "INGLEWOOD X ASW26 90'S HOODIE",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    37.0,
+    26.0
+   ],
+   "XS": [
+    39.0,
+    26.5
+   ],
+   "S": [
+    41.0,
+    27.0
+   ],
+   "M": [
+    43.0,
+    27.5
+   ],
+   "L": [
+    46.0,
+    28.0
+   ],
+   "XL": [
+    49.0,
+    28.5
+   ],
+   "XXL": [
+    52.0,
+    29.0
+   ],
+   "XXXL": [
+    55.0,
+    29.5
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "JID Long Sleeve Tee",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    23.5,
+    32.125
+   ],
+   "S": [
+    24.5,
+    32.625
+   ],
+   "M": [
+    25.5,
+    33.125
+   ],
+   "L": [
+    26.5,
+    33.625
+   ],
+   "XL": [
+    27.5,
+    34.125
+   ],
+   "XXL": [
+    28.5,
+    34.625
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "JID Heirophant Hoodie",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    25.0,
+    25.0
+   ],
+   "S": [
+    26.0,
+    26.0
+   ],
+   "M": [
+    27.0,
+    27.0
+   ],
+   "L": [
+    28.0,
+    28.0
+   ],
+   "XL": [
+    29.0,
+    29.0
+   ],
+   "XXL": [
+    30.0,
+    30.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "JID Cut Off Tee",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    25.0,
+    27.25
+   ],
+   "S": [
+    26.0,
+    27.75
+   ],
+   "M": [
+    27.0,
+    28.25
+   ],
+   "L": [
+    28.0,
+    28.75
+   ],
+   "XL": [
+    29.0,
+    29.25
+   ],
+   "XXL": [
+    30.0,
+    29.75
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Women's Signature Rib Knit Fitted Long Sleeve Zip Up Tee [2026]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    25.0,
+    22.5
+   ],
+   "S": [
+    27.0,
+    23.0
+   ],
+   "M": [
+    29.0,
+    23.5
+   ],
+   "L": [
+    32.0,
+    24.0
+   ],
+   "XL": [
+    35.0,
+    24.5
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "Sporty Nylon High Neck Jacket",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    52.0,
+    48.0
+   ],
+   "XS": [
+    54.0,
+    48.5
+   ],
+   "S": [
+    56.0,
+    49.0
+   ],
+   "M": [
+    58.0,
+    49.5
+   ],
+   "L": [
+    61.0,
+    50.0
+   ],
+   "XL": [
+    64.0,
+    50.5
+   ],
+   "XXL": [
+    67.0,
+    51.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "Sinners Hoodie",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    25.0,
+    25.0
+   ],
+   "S": [
+    26.0,
+    26.0
+   ],
+   "M": [
+    27.0,
+    27.0
+   ],
+   "L": [
+    28.0,
+    28.0
+   ],
+   "XL": [
+    29.0,
+    29.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Yankees Suede Fleece Modern Half Zip",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    53.0,
+    26.5
+   ],
+   "XS": [
+    55.0,
+    27.0
+   ],
+   "S": [
+    57.0,
+    27.5
+   ],
+   "M": [
+    59.0,
+    28.0
+   ],
+   "L": [
+    62.0,
+    28.5
+   ],
+   "XL": [
+    65.0,
+    29.0
+   ],
+   "XXL": [
+    68.0,
+    29.5
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Sport Crewneck",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    47.0,
+    26.5
+   ],
+   "XS": [
+    49.0,
+    27.0
+   ],
+   "S": [
+    51.0,
+    27.5
+   ],
+   "M": [
+    53.0,
+    28.0
+   ],
+   "L": [
+    56.0,
+    28.5
+   ],
+   "XL": [
+    59.0,
+    29.0
+   ],
+   "XXL": [
+    62.0,
+    30.0
+   ]
+  },
+  "products": 19
+ },
+ {
+  "name": "Half Zip Track Jacket",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    53.0,
+    26.5
+   ],
+   "XS": [
+    55.0,
+    27.0
+   ],
+   "S": [
+    57.0,
+    27.5
+   ],
+   "M": [
+    59.0,
+    28.0
+   ],
+   "L": [
+    62.0,
+    28.5
+   ],
+   "XL": [
+    65.0,
+    29.0
+   ],
+   "XXL": [
+    68.0,
+    29.5
+   ]
+  },
+  "products": 13
+ },
+ {
+  "name": "MENS ESSENTIALS 2025 D3 [Denim Full Zip Work Shirt]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    52.0,
+    30.5
+   ],
+   "XS": [
+    54.0,
+    31.0
+   ],
+   "S": [
+    56.0,
+    31.5
+   ],
+   "M": [
+    58.0,
+    32.0
+   ],
+   "L": [
+    61.0,
+    32.5
+   ],
+   "XL": [
+    64.0,
+    33.0
+   ],
+   "XXL": [
+    67.0,
+    33.5
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Mens Classic Crewneck Sweatshirt",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    22.5,
+    24.5
+   ],
+   "XS": [
+    23.5,
+    25.0
+   ],
+   "S": [
+    24.5,
+    25.5
+   ],
+   "M": [
+    25.5,
+    26.0
+   ],
+   "L": [
+    27.0,
+    26.5
+   ],
+   "XL": [
+    28.5,
+    27.0
+   ],
+   "XXL": [
+    30.0,
+    27.5
+   ]
+  },
+  "products": 10
+ },
+ {
+  "name": "MENS ESSENTIALS 2025 D3 [Denim Work Jacket]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    50.0,
+    25.5
+   ],
+   "XS": [
+    52.0,
+    26.0
+   ],
+   "S": [
+    54.0,
+    26.5
+   ],
+   "M": [
+    56.0,
+    27.0
+   ],
+   "L": [
+    59.0,
+    27.5
+   ],
+   "XL": [
+    62.0,
+    28.0
+   ],
+   "XXL": [
+    65.0,
+    28.5
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "KIDS ESSENTIALS 2025 D3 [Kids Embossed Classic Hoodie]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "8": [
+    42.0,
+    20.5
+   ],
+   "10": [
+    45.0,
+    22.0
+   ],
+   "12": [
+    47.0,
+    24.0
+   ],
+   "14": [
+    49.0,
+    26.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "WOMENS ESSENTIALS 2025 D3 [Womens Nylon Half Zip Track Jacket]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    44.0,
+    22.5
+   ],
+   "XS": [
+    46.0,
+    23.0
+   ],
+   "S": [
+    48.0,
+    23.5
+   ],
+   "M": [
+    50.0,
+    24.0
+   ],
+   "L": [
+    53.0,
+    24.5
+   ],
+   "XL": [
+    56.0,
+    25.0
+   ],
+   "XXL": [
+    59.0,
+    25.5
+   ]
+  },
+  "products": 7
+ },
+ {
+  "name": "MENS ESSENTIALS 2025 D3 [Nylon Half Zip Track Jacket]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    53.0,
+    26.5
+   ],
+   "XS": [
+    55.0,
+    27.0
+   ],
+   "S": [
+    57.0,
+    27.5
+   ],
+   "M": [
+    59.0,
+    28.0
+   ],
+   "L": [
+    62.0,
+    28.5
+   ],
+   "XL": [
+    65.0,
+    29.0
+   ],
+   "XXL": [
+    68.0,
+    29.5
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "CIVIL COLLECTION [Snap Front Denim Overshirt]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    52.0,
+    31.0
+   ],
+   "S": [
+    54.0,
+    32.0
+   ],
+   "M": [
+    56.0,
+    33.0
+   ],
+   "L": [
+    58.0,
+    34.0
+   ],
+   "XL": [
+    60.0,
+    35.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "MENS ESSENTIALS 2025 D3 [Sporty Nylon Half Zip]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    53.0,
+    26.5
+   ],
+   "XS": [
+    55.0,
+    27.0
+   ],
+   "S": [
+    57.0,
+    27.5
+   ],
+   "M": [
+    59.0,
+    28.0
+   ],
+   "L": [
+    62.0,
+    28.5
+   ],
+   "XL": [
+    65.0,
+    29.0
+   ],
+   "XXL": [
+    68.0,
+    29.5
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "NBA FALL 25' [NBA 1/2 ZIP TRACK JACKET]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    53.0,
+    26.5
+   ],
+   "XS": [
+    55.0,
+    27.0
+   ],
+   "S": [
+    57.0,
+    27.5
+   ],
+   "M": [
+    59.0,
+    28.0
+   ],
+   "L": [
+    62.0,
+    28.5
+   ],
+   "XL": [
+    65.0,
+    29.0
+   ],
+   "XXL": [
+    68.0,
+    29.5
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "NBA FALL 25' [NBA ZIP UP JACKET]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    50.0,
+    30.5
+   ],
+   "XS": [
+    52.0,
+    31.0
+   ],
+   "S": [
+    54.0,
+    31.5
+   ],
+   "M": [
+    56.0,
+    32.0
+   ],
+   "L": [
+    59.0,
+    32.5
+   ],
+   "XL": [
+    62.0,
+    33.0
+   ],
+   "XXL": [
+    65.0,
+    33.5
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "Sport Pullover Hoodie",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    47.0,
+    26.5
+   ],
+   "XS": [
+    49.0,
+    27.0
+   ],
+   "S": [
+    51.0,
+    27.5
+   ],
+   "M": [
+    53.0,
+    28.0
+   ],
+   "L": [
+    56.0,
+    28.5
+   ],
+   "XL": [
+    59.0,
+    29.0
+   ],
+   "XXL": [
+    62.0,
+    30.0
+   ]
+  },
+  "products": 82
+ },
+ {
+  "name": "Mlb 3/4 Sleeve Half Zip Jacket",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    48.0,
+    25.5
+   ],
+   "XS": [
+    50.0,
+    26.0
+   ],
+   "S": [
+    52.0,
+    26.5
+   ],
+   "M": [
+    54.0,
+    27.0
+   ],
+   "L": [
+    57.0,
+    27.5
+   ],
+   "XL": [
+    60.0,
+    28.0
+   ],
+   "XXL": [
+    63.0,
+    28.5
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "MENS ESSENTIALS 2025 D2 [90's Tee]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    49.0,
+    30.5
+   ],
+   "XS": [
+    51.0,
+    31.0
+   ],
+   "S": [
+    53.0,
+    31.5
+   ],
+   "M": [
+    55.0,
+    32.0
+   ],
+   "L": [
+    58.0,
+    32.5
+   ],
+   "XL": [
+    61.0,
+    33.0
+   ],
+   "XXL": [
+    64.0,
+    33.5
+   ]
+  },
+  "products": 36
+ },
+ {
+  "name": "MENS ESSENTIALS 2025 D2 [Embossed Classic Fleece Zip-Up Hoodie]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    22.5,
+    24.5
+   ],
+   "XS": [
+    23.5,
+    25.0
+   ],
+   "S": [
+    24.5,
+    25.5
+   ],
+   "M": [
+    25.5,
+    26.0
+   ],
+   "L": [
+    27.0,
+    26.5
+   ],
+   "XL": [
+    28.5,
+    27.0
+   ],
+   "XXL": [
+    30.0,
+    27.5
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "MENS ESSENTIALS 2025 D2 [Pique 90's Polo Sleeve Tee]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    49.0,
+    26.5
+   ],
+   "XS": [
+    51.0,
+    27.0
+   ],
+   "S": [
+    53.0,
+    27.5
+   ],
+   "M": [
+    55.0,
+    28.0
+   ],
+   "L": [
+    58.0,
+    28.5
+   ],
+   "XL": [
+    61.0,
+    29.0
+   ],
+   "XXL": [
+    64.0,
+    29.5
+   ]
+  },
+  "products": 8
+ },
+ {
+  "name": "CIVIL [Fear of God Denim Trucker Jacket]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    45.0,
+    23.0
+   ],
+   "S": [
+    47.0,
+    24.0
+   ],
+   "M": [
+    49.0,
+    25.0
+   ],
+   "L": [
+    51.0,
+    26.0
+   ],
+   "XL": [
+    53.0,
+    27.0
+   ]
+  },
+  "products": 10
+ },
+ {
+  "name": "[ATL] Essentials Falcons Crewneck",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    23.5,
+    28.5
+   ],
+   "XS": [
+    24.5,
+    29.0
+   ],
+   "S": [
+    25.5,
+    29.5
+   ],
+   "M": [
+    26.5,
+    30.0
+   ],
+   "L": [
+    28.0,
+    30.5
+   ],
+   "XL": [
+    29.5,
+    31.0
+   ],
+   "XXL": [
+    31.0,
+    32.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "CIVIL COLLECTION  [Textured Wool Zip Up Hoodie]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    25.0,
+    25.0
+   ],
+   "S": [
+    26.0,
+    26.0
+   ],
+   "M": [
+    27.0,
+    27.0
+   ],
+   "L": [
+    28.0,
+    28.0
+   ],
+   "XL": [
+    29.0,
+    29.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "CIVIL COLLECTION  [ZIP HOODIE]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    25.0,
+    25.0
+   ],
+   "S": [
+    26.0,
+    26.0
+   ],
+   "M": [
+    27.0,
+    27.0
+   ],
+   "L": [
+    28.0,
+    28.0
+   ],
+   "XL": [
+    29.0,
+    29.0
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "MENS ESSENTIALS 2025 D1 [Classic Tee]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    21.5,
+    28.0
+   ],
+   "XS": [
+    22.5,
+    28.5
+   ],
+   "S": [
+    23.5,
+    29.0
+   ],
+   "M": [
+    24.5,
+    29.5
+   ],
+   "L": [
+    26.0,
+    30.0
+   ],
+   "XL": [
+    27.5,
+    30.5
+   ],
+   "XXL": [
+    29.0,
+    31.0
+   ]
+  },
+  "products": 12
+ },
+ {
+  "name": "MENS ESSENTIALS 2025 D1 [Classic Long Sleeve Tee]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    21.5,
+    28.0
+   ],
+   "XS": [
+    22.5,
+    28.5
+   ],
+   "S": [
+    23.5,
+    29.0
+   ],
+   "M": [
+    24.5,
+    29.5
+   ],
+   "L": [
+    26.0,
+    30.0
+   ],
+   "XL": [
+    27.5,
+    30.5
+   ],
+   "XXL": [
+    29.0,
+    31.0
+   ]
+  },
+  "products": 16
+ },
+ {
+  "name": "Womens Classic Hoodie",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    20.0,
+    21.5
+   ],
+   "XS": [
+    21.0,
+    22.0
+   ],
+   "S": [
+    22.0,
+    22.5
+   ],
+   "M": [
+    23.0,
+    23.0
+   ],
+   "L": [
+    24.5,
+    23.5
+   ],
+   "XL": [
+    26.0,
+    24.0
+   ],
+   "XXL": [
+    27.5,
+    24.5
+   ]
+  },
+  "products": 16
+ },
+ {
+  "name": "Womens Classic Crewneck",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    20.0,
+    21.5
+   ],
+   "XS": [
+    21.0,
+    22.0
+   ],
+   "S": [
+    22.0,
+    22.5
+   ],
+   "M": [
+    23.0,
+    23.0
+   ],
+   "L": [
+    24.5,
+    23.5
+   ],
+   "XL": [
+    26.0,
+    24.0
+   ],
+   "XXL": [
+    31.0,
+    24.5
+   ]
+  },
+  "products": 7
+ },
+ {
+  "name": "WOMENS ESSENTIALS 2025 D1 [Womens Soft Rib 2-Way Zip Up Jacket]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    20.0,
+    21.5
+   ],
+   "XS": [
+    21.0,
+    22.0
+   ],
+   "S": [
+    22.0,
+    22.5
+   ],
+   "M": [
+    23.0,
+    23.0
+   ],
+   "L": [
+    24.5,
+    23.5
+   ],
+   "XL": [
+    26.0,
+    24.0
+   ],
+   "XXL": [
+    27.5,
+    24.5
+   ]
+  },
+  "products": 12
+ },
+ {
+  "name": "WOMENS MODERN HOODIE",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    20.0,
+    19.5
+   ],
+   "XS": [
+    21.0,
+    20.0
+   ],
+   "S": [
+    22.0,
+    20.5
+   ],
+   "M": [
+    23.0,
+    21.0
+   ],
+   "L": [
+    24.5,
+    21.5
+   ],
+   "XL": [
+    26.0,
+    22.0
+   ],
+   "XXL": [
+    27.5,
+    22.5
+   ]
+  },
+  "products": 5
+ },
+ {
+  "name": "MENS ESSENTIAL 2025 D1 [DENIM TRUCKER JACKET]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    25.0,
+    25.5
+   ],
+   "XS": [
+    26.0,
+    26.0
+   ],
+   "S": [
+    27.0,
+    26.5
+   ],
+   "M": [
+    28.0,
+    27.0
+   ],
+   "L": [
+    29.5,
+    27.5
+   ],
+   "XL": [
+    31.0,
+    28.0
+   ],
+   "XXL": [
+    32.5,
+    28.5
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "MENS ESSENTIALS 2025 D1 [MODERN TRACK JACKET]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    23.5,
+    25.5
+   ],
+   "XS": [
+    24.5,
+    26.0
+   ],
+   "S": [
+    25.5,
+    26.5
+   ],
+   "M": [
+    26.5,
+    27.0
+   ],
+   "L": [
+    28.0,
+    27.5
+   ],
+   "XL": [
+    29.5,
+    28.0
+   ],
+   "XXL": [
+    31.0,
+    28.5
+   ]
+  },
+  "products": 9
+ },
+ {
+  "name": "KIDS ESSENTIALS 2025 D1 [KIDS CLASSIC TEE]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "8": [
+    18.5,
+    21.5
+   ],
+   "10": [
+    20.0,
+    23.0
+   ],
+   "12": [
+    21.0,
+    25.0
+   ]
+  },
+  "products": 13
+ },
+ {
+  "name": "KIDS ESSENTIALS 2025 D1 [CLASSIC LONGS SLEEVE TEE]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "8": [
+    18.5,
+    21.5
+   ],
+   "10": [
+    20.0,
+    23.0
+   ],
+   "12": [
+    21.0,
+    25.0
+   ]
+  },
+  "products": 10
+ },
+ {
+  "name": "KIDS ESSENTIALS 2025 D1 [KIDS FLEECE ZIP-UP HOODIE]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "8": [
+    42.0,
+    19.5
+   ],
+   "10": [
+    45.0,
+    21.0
+   ],
+   "12": [
+    47.0,
+    23.0
+   ]
+  },
+  "products": 7
+ },
+ {
+  "name": "KIDS ESSENTIALS 2025 D1 [DENIM JACKET]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "8": [
+    42.0,
+    19.5
+   ],
+   "10": [
+    45.0,
+    21.0
+   ],
+   "12": [
+    47.0,
+    22.5
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "MENS SPRING D1 CLASSIC FULL ZIP HOODIE 2025",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    22.5,
+    24.5
+   ],
+   "XS": [
+    23.5,
+    25.0
+   ],
+   "S": [
+    24.5,
+    25.5
+   ],
+   "M": [
+    25.5,
+    26.0
+   ],
+   "L": [
+    27.0,
+    26.5
+   ],
+   "XL": [
+    28.5,
+    27.0
+   ],
+   "XXL": [
+    30.0,
+    27.5
+   ]
+  },
+  "products": 14
+ },
+ {
+  "name": "WOMENS CLASSIC ZIP-UP HOODIE ",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    20.0,
+    21.5
+   ],
+   "XS": [
+    21.0,
+    22.0
+   ],
+   "S": [
+    22.0,
+    22.5
+   ],
+   "M": [
+    23.0,
+    23.0
+   ],
+   "L": [
+    24.5,
+    23.5
+   ],
+   "XL": [
+    26.0,
+    24.0
+   ],
+   "XXL": [
+    27.5,
+    24.5
+   ]
+  },
+  "products": 7
+ },
+ {
+  "name": "ETERNAL V2  [Half Zip Hoodie]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    25.0,
+    24.0
+   ],
+   "S": [
+    26.0,
+    25.0
+   ],
+   "M": [
+    27.0,
+    26.0
+   ],
+   "L": [
+    28.0,
+    27.0
+   ],
+   "XL": [
+    29.0,
+    28.0
+   ]
+  },
+  "products": 3
+ },
+ {
+  "name": "ALWAYS ON [Classic Short Sleeve Tee]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    43.0,
+    28.0
+   ],
+   "XS": [
+    45.0,
+    28.5
+   ],
+   "S": [
+    47.0,
+    29.0
+   ],
+   "M": [
+    49.0,
+    29.5
+   ],
+   "L": [
+    52.0,
+    30.0
+   ],
+   "XL": [
+    55.0,
+    30.5
+   ],
+   "XXL": [
+    58.0,
+    31.0
+   ]
+  },
+  "products": 7
+ },
+ {
+  "name": "ALWAYS ON [Classic Long Sleeve Tee]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    43.0,
+    28.0
+   ],
+   "XS": [
+    45.0,
+    28.5
+   ],
+   "S": [
+    47.0,
+    29.0
+   ],
+   "M": [
+    49.0,
+    29.5
+   ],
+   "L": [
+    52.0,
+    30.0
+   ],
+   "XL": [
+    55.0,
+    30.5
+   ],
+   "XXL": [
+    58.0,
+    31.0
+   ]
+  },
+  "products": 7
+ },
+ {
+  "name": "ALWAYS ON [Classic Full Zip-Up Hoodie]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    22.5,
+    24.5
+   ],
+   "XS": [
+    23.5,
+    25.0
+   ],
+   "S": [
+    24.5,
+    25.5
+   ],
+   "M": [
+    25.5,
+    26.0
+   ],
+   "L": [
+    27.0,
+    26.5
+   ],
+   "XL": [
+    28.5,
+    27.0
+   ],
+   "XXL": [
+    30.0,
+    27.5
+   ]
+  },
+  "products": 5
+ },
+ {
+  "name": "ETERNAL V2  [Wool Parka]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    25.0,
+    38.0
+   ],
+   "S": [
+    26.0,
+    39.0
+   ],
+   "M": [
+    27.0,
+    40.0
+   ],
+   "L": [
+    28.0,
+    41.0
+   ],
+   "XL": [
+    29.0,
+    42.0
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "ETERNAL V2  [DENIM BUTTON UP SHIRT]",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    53.0,
+    30.5
+   ],
+   "S": [
+    55.0,
+    31.0
+   ],
+   "M": [
+    57.0,
+    32.5
+   ],
+   "L": [
+    59.0,
+    33.0
+   ],
+   "XL": [
+    61.0,
+    34.5
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "KIDS ESSENTIALS BT24 [DENIM TRUCKER JACKET] 785BT246770K",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "8": [
+    42.0,
+    19.5
+   ],
+   "10": [
+    45.0,
+    21.0
+   ],
+   "12": [
+    47.0,
+    22.5
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "MENS ESSENTIAL BT24 [DENIM TRUCKER JACKET] 202BT244270F",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    50.0,
+    25.5
+   ],
+   "XS": [
+    52.0,
+    26.0
+   ],
+   "S": [
+    54.0,
+    26.5
+   ],
+   "M": [
+    56.0,
+    27.0
+   ],
+   "L": [
+    59.0,
+    27.5
+   ],
+   "XL": [
+    62.0,
+    28.0
+   ],
+   "XXL": [
+    65.0,
+    28.5
+   ]
+  },
+  "products": 4
+ },
+ {
+  "name": "Collection 8 Denim Jacket",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    23.375,
+    22.25
+   ],
+   "S": [
+    23.375,
+    23.25
+   ],
+   "M": [
+    24.375,
+    24.25
+   ],
+   "L": [
+    25.375,
+    25.25
+   ],
+   "XL": [
+    26.375,
+    null
+   ],
+   "XXL": [
+    27.375,
+    27.25
+   ]
+  },
+  "products": 4
+ },
+ {
+  "name": "AMERICAN SYMPHONY [DENIM SHIRT]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    57.5,
+    33.375
+   ],
+   "S": [
+    59.5,
+    34.375
+   ],
+   "M": [
+    61.5,
+    35.375
+   ],
+   "L": [
+    63.5,
+    36.375
+   ],
+   "XL": [
+    65.375,
+    37.375
+   ],
+   "XXL": [
+    67.375,
+    38.375
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "AMERICAN SYMPHONY [DENIM CARGO PANTS]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    27.5,
+    null
+   ],
+   "S": [
+    29.5,
+    null
+   ],
+   "M": [
+    31.5,
+    null
+   ],
+   "L": [
+    33.5,
+    null
+   ],
+   "XL": [
+    35.375,
+    null
+   ],
+   "XXL": [
+    37.375,
+    null
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "AMERICAN SYMPHONY [DENIM DUSTER]",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    47.75,
+    49.0
+   ],
+   "S": [
+    49.75,
+    50.0
+   ],
+   "M": [
+    51.75,
+    51.0
+   ],
+   "L": [
+    53.75,
+    51.875
+   ],
+   "XL": [
+    55.75,
+    52.875
+   ],
+   "XXL": [
+    57.75,
+    53.875
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "COLLECTION 8 FULL ZIP DENIM SHIRT (8th D1)",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XS": [
+    51.0,
+    29.75
+   ],
+   "S": [
+    53.0,
+    30.75
+   ],
+   "M": [
+    55.0,
+    31.75
+   ],
+   "L": [
+    57.0,
+    32.75
+   ],
+   "XL": [
+    59.0,
+    33.75
+   ],
+   "XXL": [
+    61.0,
+    34.75
+   ]
+  },
+  "products": 2
+ },
+ {
+  "name": "DENIM JACKET (CORE 2024)",
+  "status": true,
+  "circ": true,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    50.0,
+    24.0
+   ],
+   "XS": [
+    52.0,
+    25.0
+   ],
+   "S": [
+    54.0,
+    26.0
+   ],
+   "M": [
+    56.0,
+    27.0
+   ],
+   "L": [
+    59.0,
+    28.0
+   ],
+   "XL": [
+    62.0,
+    29.0
+   ],
+   "XXL": [
+    65.0,
+    30.0
+   ]
+  },
+  "products": 7
+ },
+ {
+  "name": "KIDS DENIM JACKET (CORE 2024)",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "8": [
+    42.0,
+    19.5
+   ],
+   "10": [
+    45.0,
+    21.0
+   ],
+   "12": [
+    47.0,
+    22.5
+   ]
+  },
+  "products": 1
+ },
+ {
+  "name": "MENS BUTTON DOWN SHIRT (CORE 2023)",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "XXS": [
+    55.0,
+    32.0
+   ],
+   "XS": [
+    57.0,
+    33.0
+   ],
+   "S": [
+    59.0,
+    34.0
+   ],
+   "M": [
+    61.0,
+    35.0
+   ],
+   "L": [
+    64.0,
+    36.0
+   ],
+   "XL": [
+    67.0,
+    37.0
+   ],
+   "XXL": [
+    70.0,
+    38.0
+   ]
+  },
+  "products": 5
+ },
+ {
+  "name": "KIDS RAGLAN HOODIE (2022)",
+  "status": true,
+  "circ": false,
+  "inches": true,
+  "sizes": {
+   "8": [
+    39.0,
+    20.5
+   ],
+   "10": [
+    42.0,
+    22.5
+   ],
+   "12": [
+    44.0,
+    23.5
+   ],
+   "14": [
+    46.0,
+    24.5
+   ]
+  },
+  "products": 9
+ }
+]

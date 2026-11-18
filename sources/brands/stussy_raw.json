@@ -1,0 +1,6472 @@
+[
+ {
+  "brand": "Stussy",
+  "title": "BASIC ST\u00dcSSY TEE",
+  "type": "BASIC STUSSY",
+  "handle": "1905000-basic-stussy-tee-lemon",
+  "sizes": {
+   "XS": [
+    17.5,
+    25.0
+   ],
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "BASIC ST\u00dcSSY LS TEE",
+  "type": "Mens Long Sleeve T-Shirt",
+  "handle": "1995000-basic-stussy-ls-tee-curry",
+  "sizes": {
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "TRIPLE CROWN TEE",
+  "type": "Tops",
+  "handle": "1905210-triple-crown-tee-rock",
+  "sizes": {
+   "XS": [
+    17.5,
+    26.5
+   ],
+   "S": [
+    19.5,
+    27.5
+   ],
+   "M": [
+    21.5,
+    28.5
+   ],
+   "L": [
+    23.5,
+    29.5
+   ],
+   "XL": [
+    25.5,
+    30.5
+   ],
+   "XXL": [
+    27.5,
+    31.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "ALPACA ZIP SWEATER",
+  "type": "SWEATERS",
+  "handle": "117310-alpaca-zip-sweater-orange-ombre",
+  "sizes": {
+   "XS": [
+    21.0,
+    23.0
+   ],
+   "S": [
+    22.0,
+    24.0
+   ],
+   "M": [
+    23.0,
+    25.0
+   ],
+   "L": [
+    24.0,
+    26.0
+   ],
+   "XL": [
+    25.0,
+    27.0
+   ],
+   "XXL": [
+    26.0,
+    28.0
+   ]
+  },
+  "fit": "Classic fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "REVERSIBLE FUR VEST",
+  "type": "Outerwear",
+  "handle": "115991-fur-vest-natural",
+  "sizes": {
+   "S": [
+    22.0,
+    24.75
+   ],
+   "M": [
+    23.0,
+    25.25
+   ],
+   "L": [
+    24.0,
+    25.75
+   ],
+   "XL": [
+    25.0,
+    26.25
+   ],
+   "XXL": [
+    26.0,
+    26.75
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "FUR LINED FLIGHT BOMBER",
+  "type": "Outerwear",
+  "handle": "115989-fur-lined-flight-bomber-snow-camo",
+  "sizes": {
+   "XS": [
+    25.0,
+    24.5
+   ],
+   "S": [
+    26.0,
+    25.5
+   ],
+   "M": [
+    27.0,
+    26.5
+   ],
+   "L": [
+    28.0,
+    27.5
+   ],
+   "XL": [
+    29.0,
+    28.5
+   ],
+   "XXL": [
+    30.0,
+    29.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "DOUBLE BREASTED OVERCOAT",
+  "type": "Outerwear",
+  "handle": "115977-double-breasted-overcoat-black",
+  "sizes": {
+   "XS": [
+    24.0,
+    47.0
+   ],
+   "S": [
+    25.0,
+    47.5
+   ],
+   "M": [
+    26.0,
+    48.0
+   ],
+   "L": [
+    27.0,
+    48.5
+   ],
+   "XL": [
+    28.0,
+    49.0
+   ],
+   "XXL": [
+    29.0,
+    49.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "REVERSIBLE DOWN JACKET",
+  "type": "Outerwear",
+  "handle": "115962-reversible-down-jacket-sky-blue",
+  "sizes": {
+   "XS": [
+    26.0,
+    29.0
+   ],
+   "S": [
+    27.0,
+    29.5
+   ],
+   "M": [
+    28.0,
+    30.0
+   ],
+   "L": [
+    29.0,
+    30.5
+   ],
+   "XL": [
+    30.0,
+    31.0
+   ],
+   "XXL": [
+    31.0,
+    31.5
+   ]
+  },
+  "fit": null
+ },
+ {
+  "brand": "Stussy",
+  "title": "MIDWEIGHT HOODED PUFFER",
+  "type": "Outerwear",
+  "handle": "115856-midweight-hooded-puffer-lime",
+  "sizes": {
+   "XS": [
+    22.0,
+    24.5
+   ],
+   "S": [
+    23.0,
+    25.5
+   ],
+   "M": [
+    24.0,
+    26.5
+   ],
+   "L": [
+    25.0,
+    27.5
+   ],
+   "XL": [
+    26.0,
+    28.5
+   ],
+   "XXL": [
+    27.0,
+    29.5
+   ]
+  },
+  "fit": "Classic fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "S MESH JERSEY",
+  "type": "KNIT/JERSEY",
+  "handle": "1140401-s-mesh-jersey-grey",
+  "sizes": {
+   "XS": [
+    22.5,
+    25.75
+   ],
+   "S": [
+    23.5,
+    26.75
+   ],
+   "M": [
+    24.5,
+    27.75
+   ],
+   "L": [
+    25.5,
+    28.75
+   ],
+   "XL": [
+    26.5,
+    29.75
+   ],
+   "XXL": [
+    27.5,
+    30.75
+   ]
+  },
+  "fit": "Boxy fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "BRUSHED WOOL WESTERN SHIRT",
+  "type": "WOVENS",
+  "handle": "1110405-brushed-wool-western-shirt-black",
+  "sizes": {
+   "XS": [
+    22.0,
+    28.0
+   ],
+   "S": [
+    23.0,
+    28.5
+   ],
+   "M": [
+    24.0,
+    29.0
+   ],
+   "L": [
+    25.0,
+    29.5
+   ],
+   "XL": [
+    26.0,
+    30.0
+   ],
+   "XXL": [
+    27.0,
+    30.5
+   ]
+  },
+  "fit": "Boxy fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "MOLESKIN HOODED OVERSHIRT",
+  "type": "WOVENS",
+  "handle": "1110396-moleskin-hooded-overshirt-blue",
+  "sizes": {
+   "XS": [
+    23.0,
+    27.5
+   ],
+   "S": [
+    24.0,
+    28.0
+   ],
+   "M": [
+    25.0,
+    28.5
+   ],
+   "L": [
+    26.0,
+    29.0
+   ],
+   "XL": [
+    27.0,
+    29.5
+   ],
+   "XXL": [
+    28.0,
+    30.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "BULLDOG TEE",
+  "type": "Tops",
+  "handle": "1905208-bulldog-tee-white",
+  "sizes": {
+   "XS": [
+    17.5,
+    25.0
+   ],
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "BULLDOG ZIP HOODIE",
+  "type": "Tops",
+  "handle": "1975208-bulldog-zip-hoodie-ash-heather",
+  "sizes": {
+   "XS": [
+    21.5,
+    26.0
+   ],
+   "S": [
+    22.5,
+    27.0
+   ],
+   "M": [
+    23.5,
+    28.0
+   ],
+   "L": [
+    24.5,
+    29.0
+   ],
+   "XL": [
+    25.5,
+    30.0
+   ],
+   "XXL": [
+    26.5,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "STOCK LINK HOODIE",
+  "type": "TOPS",
+  "handle": "1925214-stock-link-hoodie-navy",
+  "sizes": {
+   "XS": [
+    21.5,
+    26.0
+   ],
+   "S": [
+    22.5,
+    27.0
+   ],
+   "M": [
+    23.5,
+    28.0
+   ],
+   "L": [
+    24.5,
+    29.0
+   ],
+   "XL": [
+    25.5,
+    30.0
+   ],
+   "XXL": [
+    26.5,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "DERBY ZIP HOODIE",
+  "type": "Tops",
+  "handle": "1975206-derby-zip-hoodie-navy",
+  "sizes": {
+   "XS": [
+    21.5,
+    26.0
+   ],
+   "S": [
+    22.5,
+    27.0
+   ],
+   "M": [
+    23.5,
+    28.0
+   ],
+   "L": [
+    24.5,
+    29.0
+   ],
+   "XL": [
+    25.5,
+    30.0
+   ],
+   "XXL": [
+    26.5,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "DERBY TEE",
+  "type": "Tops",
+  "handle": "1905206-derby-tee-white",
+  "sizes": {
+   "XS": [
+    17.5,
+    25.0
+   ],
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "DOWN PARKA MICRO RIPSTOP",
+  "type": "OUTERWEAR",
+  "handle": "115685-down-parka-micro-ripstop-sky-blue",
+  "sizes": {
+   "XS": [
+    24.5,
+    26.5
+   ],
+   "S": [
+    25.5,
+    27.5
+   ],
+   "M": [
+    26.5,
+    28.5
+   ],
+   "L": [
+    27.5,
+    29.5
+   ],
+   "XL": [
+    28.5,
+    30.5
+   ],
+   "XXL": [
+    29.5,
+    31.5
+   ]
+  },
+  "fit": "Classic fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "MICRO RIPSTOP DOWN JACKET",
+  "type": "OUTERWEAR",
+  "handle": "115877-micro-ripstop-down-jacket-red",
+  "sizes": {
+   "S": [
+    25.5,
+    27.5
+   ],
+   "M": [
+    26.5,
+    28.5
+   ],
+   "L": [
+    27.5,
+    29.5
+   ],
+   "XL": [
+    28.5,
+    30.5
+   ],
+   "XXL": [
+    29.5,
+    31.5
+   ]
+  },
+  "fit": "Classic fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "WORKGEAR JACKET",
+  "type": "OUTERWEAR",
+  "handle": "115785-workgear-jacket-black",
+  "sizes": {
+   "S": [
+    25.0,
+    25.75
+   ],
+   "M": [
+    26.0,
+    26.25
+   ],
+   "L": [
+    27.0,
+    26.75
+   ],
+   "XL": [
+    28.0,
+    27.25
+   ],
+   "XXL": [
+    29.0,
+    27.75
+   ]
+  },
+  "fit": "Boxy fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "QUILTED PLAID SHIRT JACKET",
+  "type": "WOVENS",
+  "handle": "1110403-quilted-plaid-shirt-jacket-olive",
+  "sizes": {
+   "XS": [
+    23.0,
+    28.5
+   ],
+   "S": [
+    24.0,
+    29.0
+   ],
+   "M": [
+    25.0,
+    29.5
+   ],
+   "L": [
+    26.0,
+    30.0
+   ],
+   "XL": [
+    27.0,
+    30.5
+   ],
+   "XXL": [
+    28.0,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "MIDWEIGHT PUFFER",
+  "type": "Outerwear",
+  "handle": "115855-midweight-puffer-red",
+  "sizes": {
+   "XS": [
+    23.0,
+    25.0
+   ],
+   "S": [
+    24.0,
+    26.0
+   ],
+   "M": [
+    25.0,
+    27.0
+   ],
+   "L": [
+    26.0,
+    28.0
+   ],
+   "XL": [
+    27.0,
+    29.0
+   ],
+   "XXL": [
+    28.0,
+    30.0
+   ]
+  },
+  "fit": "Classic fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "PILE LINED LEATHER VEST",
+  "type": "Outerwear",
+  "handle": "115965-pile-lined-leather-vest-bone",
+  "sizes": {
+   "XS": [
+    21.0,
+    24.5
+   ],
+   "S": [
+    22.0,
+    25.0
+   ],
+   "M": [
+    23.0,
+    25.5
+   ],
+   "L": [
+    24.0,
+    26.0
+   ],
+   "XL": [
+    25.0,
+    26.5
+   ],
+   "XXL": [
+    26.0,
+    27.0
+   ]
+  },
+  "fit": "Boxy fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "SHADOW STRIPE RAGLAN SWEATER",
+  "type": "SWEATERS",
+  "handle": "117315-shadow-stripe-raglan-sweater-blue",
+  "sizes": {
+   "XS": [
+    20.0,
+    23.75
+   ],
+   "S": [
+    21.0,
+    24.75
+   ],
+   "M": [
+    22.0,
+    25.75
+   ],
+   "L": [
+    23.0,
+    26.75
+   ],
+   "XL": [
+    24.0,
+    27.75
+   ],
+   "XXL": [
+    25.0,
+    28.75
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "SWING JACKET",
+  "type": "Outerwear",
+  "handle": "115953-swing-jacket-black",
+  "sizes": {
+   "XS": [
+    24.0,
+    25.0
+   ],
+   "S": [
+    25.0,
+    25.5
+   ],
+   "M": [
+    26.0,
+    26.0
+   ],
+   "L": [
+    27.0,
+    26.5
+   ],
+   "XL": [
+    28.0,
+    27.0
+   ],
+   "XXL": [
+    29.0,
+    27.5
+   ]
+  },
+  "fit": "boxy fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "LEATHER M-65 JACKET",
+  "type": "Outerwear",
+  "handle": "115986-leather-m-65-jacket-black",
+  "sizes": {
+   "XS": [
+    24.0,
+    29.5
+   ],
+   "S": [
+    25.0,
+    30.0
+   ],
+   "M": [
+    26.0,
+    30.5
+   ],
+   "L": [
+    27.0,
+    31.0
+   ],
+   "XL": [
+    28.0,
+    31.5
+   ],
+   "XXL": [
+    29.0,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "INSULATED WORK JACKET RAW DENIM",
+  "type": "OUTERWEAR",
+  "handle": "115835-insulated-work-jacket-raw-denim-indigo",
+  "sizes": {
+   "S": [
+    24.0,
+    25.0
+   ],
+   "M": [
+    25.0,
+    26.0
+   ],
+   "L": [
+    26.0,
+    27.0
+   ],
+   "XL": [
+    27.0,
+    28.0
+   ],
+   "XXL": [
+    28.0,
+    29.0
+   ]
+  },
+  "fit": "Boxy fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "HOODED UTILITY PULLOVER",
+  "type": "KNIT/JERSEY",
+  "handle": "1140406-hooded-utility-pullover-khaki",
+  "sizes": {
+   "XS": [
+    18.0,
+    26.0
+   ],
+   "S": [
+    19.0,
+    26.5
+   ],
+   "M": [
+    20.0,
+    27.0
+   ],
+   "L": [
+    21.0,
+    27.5
+   ],
+   "XL": [
+    22.0,
+    28.0
+   ],
+   "XXL": [
+    23.0,
+    28.5
+   ]
+  },
+  "fit": null
+ },
+ {
+  "brand": "Stussy",
+  "title": "GORE-TEX GUIDE SHELL",
+  "type": "Outerwear",
+  "handle": "115880-gore-tex-guide-shell-snow-camo",
+  "sizes": {
+   "S": [
+    24.5,
+    27.0
+   ],
+   "M": [
+    25.5,
+    28.0
+   ],
+   "L": [
+    26.5,
+    29.0
+   ],
+   "XL": [
+    27.5,
+    30.0
+   ],
+   "XXL": [
+    28.5,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "FUR LINED FLIGHT JACKET",
+  "type": "Outerwear",
+  "handle": "115975-fur-lined-flight-jacket-brown",
+  "sizes": {
+   "XS": [
+    24.0,
+    25.0
+   ],
+   "S": [
+    25.0,
+    25.5
+   ],
+   "M": [
+    26.0,
+    26.0
+   ],
+   "L": [
+    27.0,
+    26.5
+   ],
+   "XL": [
+    28.0,
+    27.0
+   ],
+   "XXL": [
+    29.0,
+    27.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "FUR HOOD LONG PARKA",
+  "type": "Outerwear",
+  "handle": "115956-fur-hood-long-parka-green",
+  "sizes": {
+   "S": [
+    25.5,
+    47.5
+   ],
+   "M": [
+    26.5,
+    48.0
+   ],
+   "L": [
+    27.5,
+    48.5
+   ],
+   "XL": [
+    28.5,
+    49.0
+   ],
+   "XXL": [
+    29.5,
+    50.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "FLEECE ZIP HOODIE",
+  "type": "FLEECE",
+  "handle": "118634-fleece-zip-hoodie-red",
+  "sizes": {
+   "XS": [
+    21.0,
+    25.0
+   ],
+   "S": [
+    22.0,
+    26.0
+   ],
+   "M": [
+    23.0,
+    27.0
+   ],
+   "L": [
+    24.0,
+    28.0
+   ],
+   "XL": [
+    25.0,
+    29.0
+   ],
+   "XXL": [
+    26.0,
+    30.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "CONVERTIBLE DECK JACKET",
+  "type": "Outerwear",
+  "handle": "115963-convertible-deck-jacket-woodland-camo",
+  "sizes": {
+   "XS": [
+    25.0,
+    26.5
+   ],
+   "S": [
+    26.0,
+    27.0
+   ],
+   "M": [
+    27.0,
+    27.5
+   ],
+   "L": [
+    28.0,
+    28.0
+   ],
+   "XL": [
+    29.0,
+    28.5
+   ],
+   "XXL": [
+    30.0,
+    29.0
+   ]
+  },
+  "fit": "Boxy fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "CASHMERE ZIP SWEATER",
+  "type": "SWEATERS",
+  "handle": "117308-cashmere-zip-sweater-brown",
+  "sizes": {
+   "XS": [
+    22.0,
+    23.0
+   ],
+   "S": [
+    23.0,
+    24.0
+   ],
+   "M": [
+    24.0,
+    25.0
+   ],
+   "L": [
+    25.0,
+    26.0
+   ],
+   "XL": [
+    26.0,
+    27.0
+   ],
+   "XXL": [
+    27.0,
+    28.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "DESIGNS TEE",
+  "type": "Tops",
+  "handle": "1905207-designs-tee-black",
+  "sizes": {
+   "XS": [
+    17.5,
+    25.0
+   ],
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "STOCK LINK TEE",
+  "type": "Tops",
+  "handle": "1905214-stock-link-tee-black",
+  "sizes": {
+   "XS": [
+    17.5,
+    25.0
+   ],
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "CAMO JACQUARD SWEATER",
+  "type": "SWEATERS",
+  "handle": "117300-camo-jacquard-sweater-camo",
+  "sizes": {
+   "XS": [
+    21.25,
+    23.5
+   ],
+   "S": [
+    22.25,
+    24.5
+   ],
+   "M": [
+    23.25,
+    25.5
+   ],
+   "L": [
+    24.25,
+    26.5
+   ],
+   "XL": [
+    25.25,
+    27.5
+   ],
+   "XXL": [
+    26.25,
+    28.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "STAND FIRM TEE",
+  "type": "Tops",
+  "handle": "1905215-stand-firm-tee-faded-black",
+  "sizes": {
+   "XS": [
+    17.5,
+    26.5
+   ],
+   "S": [
+    19.5,
+    27.5
+   ],
+   "M": [
+    21.5,
+    28.5
+   ],
+   "L": [
+    23.5,
+    29.5
+   ],
+   "XL": [
+    25.5,
+    30.5
+   ],
+   "XXL": [
+    27.5,
+    31.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "BRUSHED CASHMERE QUARTER ZIP",
+  "type": "SWEATERS",
+  "handle": "117319-brushed-cashmere-quarter-zip-burgundy",
+  "sizes": {
+   "XS": [
+    20.0,
+    23.5
+   ],
+   "S": [
+    21.0,
+    24.5
+   ],
+   "M": [
+    22.0,
+    25.5
+   ],
+   "L": [
+    23.0,
+    26.5
+   ],
+   "XL": [
+    24.0,
+    27.5
+   ],
+   "XXL": [
+    25.0,
+    28.5
+   ]
+  },
+  "fit": "Classic fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "BONDED JERSEY ZIP HOODIE",
+  "type": "FLEECE",
+  "handle": "118631-bonded-jersey-zip-hoodie-navy",
+  "sizes": {
+   "XS": [
+    21.0,
+    24.5
+   ],
+   "S": [
+    22.0,
+    25.5
+   ],
+   "M": [
+    23.0,
+    26.5
+   ],
+   "L": [
+    24.0,
+    27.5
+   ],
+   "XL": [
+    25.0,
+    28.5
+   ],
+   "XXL": [
+    26.0,
+    29.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "STOCK LINK CREW",
+  "type": "Tops",
+  "handle": "1915214-stock-link-crew-ash-heather",
+  "sizes": {
+   "S": [
+    22.5,
+    27.0
+   ],
+   "M": [
+    23.5,
+    28.0
+   ],
+   "L": [
+    24.5,
+    29.0
+   ],
+   "XL": [
+    25.5,
+    30.0
+   ],
+   "XXL": [
+    26.5,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "DRAGON LS TEE",
+  "type": "Tops",
+  "handle": "1995213-dragon-ls-tee-faded-black",
+  "sizes": {
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "ANIMAL PRINT FLANNEL SHIRT",
+  "type": "WOVENS",
+  "handle": "1110401-animal-print-flannel-shirt-zebra",
+  "sizes": {
+   "XS": [
+    22.0,
+    27.25
+   ],
+   "S": [
+    23.0,
+    28.25
+   ],
+   "M": [
+    24.0,
+    29.25
+   ],
+   "L": [
+    25.0,
+    30.25
+   ],
+   "XL": [
+    26.0,
+    31.25
+   ],
+   "XXL": [
+    27.0,
+    32.25
+   ]
+  },
+  "fit": "Classic fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "CAMO BLOCK SPORT TEE",
+  "type": "Tops",
+  "handle": "1905221-camo-block-sport-tee-brown-camo",
+  "sizes": {
+   "XS": [
+    17.5,
+    25.0
+   ],
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "CAMO BLOCK SPORT ZIP HOODIE",
+  "type": "Tops",
+  "handle": "1975221-camo-block-sport-zip-hoodie-brown-camo",
+  "sizes": {
+   "XS": [
+    21.5,
+    26.0
+   ],
+   "S": [
+    22.5,
+    27.0
+   ],
+   "M": [
+    23.5,
+    28.0
+   ],
+   "L": [
+    24.5,
+    29.0
+   ],
+   "XL": [
+    25.5,
+    30.0
+   ],
+   "XXL": [
+    26.5,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "DENIM TEARS SEQUIN ZIP HOODIE",
+  "type": "Tops",
+  "handle": "26tzh1584-denim-tears-sequin-zip-hoodie-multi",
+  "sizes": {
+   "XS": [
+    23.0,
+    25.0
+   ],
+   "S": [
+    24.0,
+    26.0
+   ],
+   "M": [
+    25.0,
+    28.0
+   ],
+   "L": [
+    27.0,
+    28.0
+   ],
+   "XL": [
+    28.0,
+    29.0
+   ],
+   "XXL": [
+    29.0,
+    30.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "DENIM TEARS POLO",
+  "type": "Tops",
+  "handle": "26tkp1589-denim-tears-polo-white",
+  "sizes": {
+   "XS": [
+    21.0,
+    27.0
+   ],
+   "S": [
+    22.0,
+    27.0
+   ],
+   "M": [
+    23.0,
+    28.0
+   ],
+   "L": [
+    26.0,
+    29.0
+   ],
+   "XL": [
+    26.0,
+    30.0
+   ],
+   "XXL": [
+    27.0,
+    30.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "DENIM TEARS KNIT SWEATER",
+  "type": "Tops",
+  "handle": "26tsa1865-denim-tears-knit-sweater-green",
+  "sizes": {
+   "XS": [
+    21.0,
+    25.0
+   ],
+   "S": [
+    23.0,
+    26.0
+   ],
+   "M": [
+    24.0,
+    27.0
+   ],
+   "L": [
+    25.0,
+    28.0
+   ],
+   "XL": [
+    26.0,
+    28.0
+   ],
+   "XXL": [
+    28.0,
+    29.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "DENIM TEARS PULLOVER HOODIE",
+  "type": "Tops",
+  "handle": "26thd1585-denim-tears-pullover-hoodie-black",
+  "sizes": {
+   "XS": [
+    25.0,
+    24.0
+   ],
+   "S": [
+    26.0,
+    25.0
+   ],
+   "M": [
+    27.0,
+    25.0
+   ],
+   "L": [
+    28.0,
+    26.0
+   ],
+   "XL": [
+    29.0,
+    27.0
+   ],
+   "XXL": [
+    30.0,
+    28.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "DENIM TEARS FISHING VEST",
+  "type": "Outerwear",
+  "handle": "3904047-denim-tears-fishing-vest-green",
+  "sizes": {
+   "XS": [
+    22.0,
+    23.0
+   ],
+   "S": [
+    23.0,
+    24.0
+   ],
+   "M": [
+    24.0,
+    24.0
+   ],
+   "L": [
+    25.0,
+    25.0
+   ],
+   "XL": [
+    27.0,
+    26.0
+   ],
+   "XXL": [
+    28.0,
+    27.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "DENIM TEARS FISHING BUTTON UP",
+  "type": "Tops",
+  "handle": "26twl1864-denim-tears-fishing-button-up-white",
+  "sizes": {
+   "XS": [
+    23.0,
+    29.0
+   ],
+   "S": [
+    25.0,
+    29.0
+   ],
+   "M": [
+    26.0,
+    30.0
+   ],
+   "L": [
+    27.0,
+    31.0
+   ],
+   "XL": [
+    28.0,
+    32.0
+   ],
+   "XXL": [
+    30.0,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "DENIM TEARS VARSITY JACKET",
+  "type": "Outerwear",
+  "handle": "26ocb1576-denim-tears-varsity-jacket-green",
+  "sizes": {
+   "XS": [
+    25.0,
+    25.0
+   ],
+   "S": [
+    26.0,
+    26.0
+   ],
+   "M": [
+    27.0,
+    26.0
+   ],
+   "L": [
+    28.0,
+    27.0
+   ],
+   "XL": [
+    29.0,
+    28.0
+   ],
+   "XXL": [
+    30.0,
+    29.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "DENIM TEARS COLUMBIA JACKET",
+  "type": "Outerwear",
+  "handle": "26olj1582-denim-tears-columbia-jacket-orange",
+  "sizes": {
+   "XS": [
+    23.0,
+    28.0
+   ],
+   "S": [
+    24.0,
+    29.0
+   ],
+   "M": [
+    25.0,
+    30.0
+   ],
+   "L": [
+    26.0,
+    30.0
+   ],
+   "XL": [
+    27.0,
+    32.0
+   ],
+   "XXL": [
+    28.0,
+    33.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "DENIM TEARS BEACH TOUR TEE",
+  "type": "Tops",
+  "handle": "3904043-denim-tears-beach-tour-tee-white",
+  "sizes": {
+   "XS": [
+    17.5,
+    25.0
+   ],
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "DENIM TEARS BASS TEE",
+  "type": "Tops",
+  "handle": "3904047-denim-tears-bass-tee-white",
+  "sizes": {
+   "XS": [
+    17.5,
+    25.0
+   ],
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "OUR LEGACY LEATHER FIREMAN JACKET",
+  "type": "OUTERWEAR",
+  "handle": "wsm4269fb-our-legacy-leather-fireman-jacket-black",
+  "sizes": {
+   "XXS": [
+    46.0,
+    29.0
+   ],
+   "XS": [
+    47.0,
+    30.0
+   ],
+   "S": [
+    48.0,
+    31.0
+   ],
+   "M": [
+    50.0,
+    31.0
+   ],
+   "L": [
+    51.0,
+    32.0
+   ],
+   "XL": [
+    53.0,
+    32.0
+   ],
+   "XXL": [
+    54.0,
+    33.0
+   ],
+   "3XL": [
+    55.0,
+    33.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "STUSSY SPORT TEE",
+  "type": "TEES",
+  "handle": "1905188-stussy-sport-tee-white",
+  "sizes": {
+   "XS": [
+    17.5,
+    25.0
+   ],
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "HOODED COACHES JACKET",
+  "type": "OUTERWEAR",
+  "handle": "115909-hooded-coaches-jacket-yellow",
+  "sizes": {
+   "XS": [
+    24.0,
+    27.0
+   ],
+   "S": [
+    25.0,
+    27.5
+   ],
+   "M": [
+    26.0,
+    28.0
+   ],
+   "L": [
+    27.0,
+    28.5
+   ],
+   "XL": [
+    28.0,
+    29.0
+   ],
+   "XXL": [
+    29.0,
+    29.5
+   ]
+  },
+  "fit": "Boxy fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "STUSSY STAR LS TEE",
+  "type": "Tops",
+  "handle": "1995212-stussy-star-ls-tee-white",
+  "sizes": {
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "PRINTED PATTERN ZIP HOODIE",
+  "type": "Tops",
+  "handle": "1975220-printed-pattern-zip-hoodie-pink-palaka",
+  "sizes": {
+   "S": [
+    22.5,
+    27.0
+   ],
+   "M": [
+    23.5,
+    28.0
+   ],
+   "L": [
+    24.5,
+    29.0
+   ],
+   "XL": [
+    25.5,
+    30.0
+   ],
+   "XXL": [
+    26.5,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "PEACE INCREASED ZIP HOODIE",
+  "type": "Tops",
+  "handle": "1975203-peace-increased-zip-hoodie-navy",
+  "sizes": {
+   "XS": [
+    21.5,
+    26.0
+   ],
+   "S": [
+    22.5,
+    27.0
+   ],
+   "M": [
+    23.5,
+    28.0
+   ],
+   "L": [
+    24.5,
+    29.0
+   ],
+   "XL": [
+    25.5,
+    30.0
+   ],
+   "XXL": [
+    26.5,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "STANDARD CRINKLE SHIRT",
+  "type": "WOVENS",
+  "handle": "1110408-standard-crinkle-shirt-navy-check",
+  "sizes": {
+   "XS": [
+    23.5,
+    29.25
+   ],
+   "S": [
+    24.5,
+    29.75
+   ],
+   "M": [
+    25.5,
+    30.25
+   ],
+   "L": [
+    26.5,
+    30.75
+   ],
+   "XL": [
+    27.5,
+    31.25
+   ],
+   "XXL": [
+    28.5,
+    31.75
+   ]
+  },
+  "fit": "Boxy fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "PEACE INCREASED TEE",
+  "type": "Tops",
+  "handle": "1905203-peace-increased-tee-white",
+  "sizes": {
+   "XS": [
+    17.5,
+    25.0
+   ],
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "OXFORD SHIRT",
+  "type": "WOVENS",
+  "handle": "1110364-oxford-shirt-grey-stripe",
+  "sizes": {
+   "S": [
+    23.5,
+    28.0
+   ],
+   "L": [
+    25.5,
+    29.0
+   ],
+   "XL": [
+    26.5,
+    29.5
+   ],
+   "XXL": [
+    27.5,
+    30.0
+   ]
+  },
+  "fit": "Boxy fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "LIGHTWEIGHT THERMAL HOODIE",
+  "type": "KNIT/JERSEY",
+  "handle": "1140410-lightweight-thermal-hoodie-lime",
+  "sizes": {
+   "S": [
+    24.0,
+    24.5
+   ],
+   "M": [
+    25.0,
+    25.5
+   ],
+   "L": [
+    26.0,
+    26.5
+   ],
+   "XL": [
+    27.0,
+    27.5
+   ],
+   "XXL": [
+    28.0,
+    28.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "WAFFLE CASHMERE ZIP HOOD SWEATER",
+  "type": "SWEATERS",
+  "handle": "117274-waffle-cashmere-zip-hood-sweater-charcoal",
+  "sizes": {
+   "S": [
+    22.0,
+    23.0
+   ],
+   "M": [
+    23.0,
+    24.0
+   ],
+   "L": [
+    24.0,
+    25.0
+   ],
+   "XL": [
+    25.0,
+    26.0
+   ],
+   "XXL": [
+    26.0,
+    27.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "WAFFLE CASHMERE SWEATER",
+  "type": "SWEATERS",
+  "handle": "117257-waffle-cashmere-sweater-charcoal",
+  "sizes": {
+   "S": [
+    21.5,
+    23.0
+   ],
+   "L": [
+    23.5,
+    25.0
+   ],
+   "XL": [
+    24.5,
+    26.0
+   ],
+   "XXL": [
+    25.5,
+    27.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "PERFORMANCE WETSUIT TOP",
+  "type": "KNIT/JERSEY",
+  "handle": "1140392-performance-wetsuit-top-black",
+  "sizes": {
+   "XS": [
+    14.0,
+    25.5
+   ],
+   "S": [
+    15.0,
+    26.0
+   ],
+   "M": [
+    16.0,
+    26.5
+   ],
+   "L": [
+    17.0,
+    27.0
+   ],
+   "XL": [
+    18.0,
+    27.5
+   ],
+   "XXL": [
+    19.0,
+    28.0
+   ]
+  },
+  "fit": null
+ },
+ {
+  "brand": "Stussy",
+  "title": "COASTLINE HOODED JACKET",
+  "type": "Outerwear",
+  "handle": "115964-coastline-hooded-jacket-forest",
+  "sizes": {
+   "XS": [
+    23.0,
+    25.0
+   ],
+   "S": [
+    24.0,
+    25.5
+   ],
+   "M": [
+    25.0,
+    26.0
+   ],
+   "L": [
+    26.0,
+    26.5
+   ],
+   "XL": [
+    27.0,
+    27.0
+   ],
+   "XXL": [
+    28.0,
+    27.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "SNAKESKIN TEE",
+  "type": "Tops",
+  "handle": "1905199-snakeskin-tee-black",
+  "sizes": {
+   "XS": [
+    17.5,
+    25.0
+   ],
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "HIGH ROLLERS TEE",
+  "type": "Tops",
+  "handle": "1905200-high-rollers-tee-faded-black",
+  "sizes": {
+   "XS": [
+    17.5,
+    26.5
+   ],
+   "S": [
+    19.5,
+    27.5
+   ],
+   "M": [
+    21.5,
+    28.5
+   ],
+   "L": [
+    23.5,
+    29.5
+   ],
+   "XL": [
+    25.5,
+    30.5
+   ],
+   "XXL": [
+    27.5,
+    31.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "SMOOTH SK8 TEE",
+  "type": "Tops",
+  "handle": "1905201-smooth-sk8-tee-black",
+  "sizes": {
+   "XS": [
+    17.5,
+    25.0
+   ],
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "DICE CLOCK TEE",
+  "type": "Tops",
+  "handle": "1905202-dice-clock-tee-ash-heather",
+  "sizes": {
+   "XS": [
+    17.5,
+    25.0
+   ],
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "BLOCK SPORT TEE",
+  "type": "Tops",
+  "handle": "1905217-block-sport-tee-ash-heather",
+  "sizes": {
+   "XS": [
+    17.5,
+    25.0
+   ],
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "SNAKESKIN ZIP HOODIE",
+  "type": "Tops",
+  "handle": "1975199-snakeskin-zip-hoodie-black",
+  "sizes": {
+   "XS": [
+    21.5,
+    26.0
+   ],
+   "S": [
+    22.5,
+    27.0
+   ],
+   "M": [
+    23.5,
+    28.0
+   ],
+   "L": [
+    24.5,
+    29.0
+   ],
+   "XL": [
+    25.5,
+    30.0
+   ],
+   "XXL": [
+    26.5,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "8 BALL TEE",
+  "type": "Tops",
+  "handle": "1905022-8-ball-tee-midnight",
+  "sizes": {
+   "XS": [
+    17.5,
+    25.0
+   ],
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": null
+ },
+ {
+  "brand": "Stussy",
+  "title": "8 BALL ZIP HOODIE",
+  "type": "Tops",
+  "handle": "1975103-8-ball-zip-hoodie-black",
+  "sizes": {
+   "XS": [
+    21.5,
+    26.0
+   ],
+   "S": [
+    22.5,
+    27.0
+   ],
+   "M": [
+    23.5,
+    28.0
+   ],
+   "L": [
+    24.5,
+    29.0
+   ],
+   "XL": [
+    25.5,
+    30.0
+   ],
+   "XXL": [
+    26.5,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "BUILT REVERSIBLE BOMBER JACKET",
+  "type": "OUTERWEAR",
+  "handle": "115743-built-reversible-bomber-jacket-olive",
+  "sizes": {
+   "S": [
+    25.5,
+    25.5
+   ],
+   "M": [
+    26.5,
+    26.5
+   ],
+   "L": [
+    27.5,
+    27.5
+   ],
+   "XL": [
+    28.5,
+    28.5
+   ],
+   "XXL": [
+    29.5,
+    29.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "BIG LOVE TEE",
+  "type": "Tees",
+  "handle": "1905218-big-love-tee-ash-heather",
+  "sizes": {
+   "XS": [
+    17.5,
+    25.0
+   ],
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "STRIPED RUGBY SHIRT",
+  "type": "WOVENS",
+  "handle": "1140372-striped-rugby-shirt-blue",
+  "sizes": {
+   "S": [
+    22.0,
+    27.0
+   ],
+   "M": [
+    23.0,
+    28.0
+   ],
+   "L": [
+    24.0,
+    29.0
+   ],
+   "XL": [
+    25.0,
+    30.0
+   ],
+   "XXL": [
+    26.0,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "GARMENT DYED SS TEE",
+  "type": "TEES",
+  "handle": "1140364-garment-dyed-ss-tee-brown",
+  "sizes": {
+   "S": [
+    22.0,
+    26.0
+   ],
+   "M": [
+    23.0,
+    27.0
+   ],
+   "L": [
+    24.0,
+    28.0
+   ],
+   "XL": [
+    25.0,
+    29.0
+   ],
+   "XXL": [
+    26.0,
+    30.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "LAZY TEE",
+  "type": "TEES",
+  "handle": "1140283-lazy-tee-washed-red",
+  "sizes": {
+   "XS": [
+    21.0,
+    26.0
+   ],
+   "S": [
+    22.0,
+    27.0
+   ],
+   "M": [
+    23.0,
+    28.0
+   ],
+   "L": [
+    24.0,
+    29.0
+   ],
+   "XL": [
+    25.0,
+    30.0
+   ],
+   "XXL": [
+    26.0,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "ST\u00dcSSY & ALWAYS STACK ZIP HOODIE",
+  "type": "Tops",
+  "handle": "3974049-stussy-always-stack-zip-hoodie-black",
+  "sizes": {
+   "XS": [
+    21.5,
+    26.0
+   ],
+   "S": [
+    22.5,
+    27.0
+   ],
+   "M": [
+    23.5,
+    28.0
+   ],
+   "L": [
+    24.5,
+    29.0
+   ],
+   "XL": [
+    25.5,
+    30.0
+   ],
+   "XXL": [
+    26.5,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "ST\u00dcSSY & ALWAYS STACK TEE",
+  "type": "Tops",
+  "handle": "3904049-stussy-always-stack-tee-yellow",
+  "sizes": {
+   "XS": [
+    17.5,
+    25.0
+   ],
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "MATTHEW PRINTED SHIRT",
+  "type": "WOVENS",
+  "handle": "1110328-matthew-printed-shirt-blue",
+  "sizes": {
+   "S": [
+    23.5,
+    28.5
+   ],
+   "M": [
+    24.5,
+    29.0
+   ],
+   "L": [
+    25.5,
+    29.5
+   ],
+   "XL": [
+    26.5,
+    30.0
+   ],
+   "XXL": [
+    27.5,
+    30.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "SUN FADED OVERSIZED CREW",
+  "type": "Mens Long Sleeve Sweatshirt",
+  "handle": "118525-sun-faded-oversized-crew-black",
+  "sizes": {
+   "S": [
+    25.0,
+    25.0
+   ],
+   "M": [
+    26.0,
+    26.0
+   ],
+   "L": [
+    27.0,
+    27.0
+   ],
+   "XL": [
+    28.0,
+    28.0
+   ],
+   "XXL": [
+    29.0,
+    29.0
+   ]
+  },
+  "fit": "boxy fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "ST\u00dcSSY SPORT ZIP HOODIE",
+  "type": "FLEECE",
+  "handle": "118540-stussy-sport-zip-hoodie-tan",
+  "sizes": {
+   "S": [
+    22.5,
+    26.5
+   ],
+   "M": [
+    23.5,
+    27.5
+   ],
+   "L": [
+    24.5,
+    28.5
+   ],
+   "XL": [
+    25.5,
+    29.5
+   ],
+   "XXL": [
+    26.5,
+    30.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "LAZY FLORAL TEE",
+  "type": "TEES",
+  "handle": "1140407-lazy-floral-tee-vintage-black",
+  "sizes": {
+   "XS": [
+    21.0,
+    26.0
+   ],
+   "S": [
+    22.0,
+    27.0
+   ],
+   "M": [
+    23.0,
+    28.0
+   ],
+   "L": [
+    24.0,
+    29.0
+   ],
+   "XL": [
+    25.0,
+    30.0
+   ],
+   "XXL": [
+    26.0,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "GARAGE JACKET SUEDE",
+  "type": "OUTERWEAR",
+  "handle": "115948-garage-jacket-suede-suede",
+  "sizes": {
+   "S": [
+    24.25,
+    24.5
+   ],
+   "M": [
+    25.25,
+    25.5
+   ],
+   "L": [
+    26.25,
+    26.5
+   ],
+   "XL": [
+    27.25,
+    27.5
+   ],
+   "XXL": [
+    28.25,
+    28.5
+   ]
+  },
+  "fit": "Boxy fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "WAXED COTTON BEACH SHELL",
+  "type": "OUTERWEAR",
+  "handle": "115951-waxed-cotton-beach-shell-black",
+  "sizes": {
+   "XS": [
+    24.0,
+    25.0
+   ],
+   "S": [
+    25.0,
+    26.0
+   ],
+   "M": [
+    26.0,
+    27.0
+   ],
+   "L": [
+    27.0,
+    28.0
+   ],
+   "XL": [
+    28.0,
+    29.0
+   ],
+   "XXL": [
+    29.0,
+    30.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "DENIM TRUCKER JACKET",
+  "type": "OUTERWEAR",
+  "handle": "115980-denim-trucker-jacket-raw-black-contrast-stitch",
+  "sizes": {
+   "XS": [
+    21.5,
+    23.0
+   ],
+   "S": [
+    22.5,
+    24.0
+   ],
+   "M": [
+    23.5,
+    25.0
+   ],
+   "L": [
+    24.5,
+    26.0
+   ],
+   "XL": [
+    25.5,
+    27.0
+   ],
+   "XXL": [
+    26.5,
+    28.0
+   ]
+  },
+  "fit": "boxy fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "LIGHTWEIGHT STRIPE SWEATER",
+  "type": "SWEATERS",
+  "handle": "117316-lightweight-stripe-sweater-black",
+  "sizes": {
+   "XS": [
+    21.0,
+    23.5
+   ],
+   "S": [
+    22.0,
+    24.5
+   ],
+   "M": [
+    23.0,
+    25.5
+   ],
+   "L": [
+    24.0,
+    26.5
+   ],
+   "XL": [
+    25.0,
+    27.5
+   ],
+   "XXL": [
+    26.0,
+    28.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "BASIC ST\u00dcSSY ZIP HOODIE",
+  "type": "BASIC STUSSY",
+  "handle": "1975000-basic-stussy-zip-hoodie-navy",
+  "sizes": {
+   "XS": [
+    21.5,
+    26.0
+   ],
+   "S": [
+    22.5,
+    27.0
+   ],
+   "M": [
+    23.5,
+    28.0
+   ],
+   "L": [
+    24.5,
+    29.0
+   ],
+   "XL": [
+    25.5,
+    30.0
+   ],
+   "XXL": [
+    26.5,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "BASIC ST\u00dcSSY HOODIE",
+  "type": "BASIC STUSSY",
+  "handle": "1925000-basic-stussy-hoodie-navy",
+  "sizes": {
+   "XS": [
+    21.5,
+    26.0
+   ],
+   "S": [
+    22.5,
+    27.0
+   ],
+   "M": [
+    23.5,
+    28.0
+   ],
+   "L": [
+    24.5,
+    29.0
+   ],
+   "XL": [
+    25.5,
+    30.0
+   ],
+   "XXL": [
+    26.5,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "BASIC ST\u00dcSSY CREW",
+  "type": "BASIC STUSSY",
+  "handle": "1915000-basic-stussy-crew-navy",
+  "sizes": {
+   "S": [
+    22.5,
+    27.0
+   ],
+   "M": [
+    23.5,
+    28.0
+   ],
+   "L": [
+    24.5,
+    29.0
+   ],
+   "XL": [
+    25.5,
+    30.0
+   ],
+   "XXL": [
+    26.5,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "BASIC DIAMOND ZIP HOODIE",
+  "type": "FLEECE",
+  "handle": "118603-basic-diamond-zip-hoodie-teal",
+  "sizes": {
+   "XS": [
+    21.5,
+    24.0
+   ],
+   "S": [
+    22.5,
+    25.0
+   ],
+   "M": [
+    23.5,
+    26.0
+   ],
+   "L": [
+    24.5,
+    27.0
+   ],
+   "XL": [
+    25.5,
+    28.0
+   ],
+   "XXL": [
+    26.5,
+    29.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "LAZY LS TEE",
+  "type": "TEES",
+  "handle": "1140333-lazy-ls-tee-vintage-navy",
+  "sizes": {
+   "XS": [
+    21.0,
+    26.0
+   ],
+   "S": [
+    22.0,
+    27.0
+   ],
+   "M": [
+    23.0,
+    28.0
+   ],
+   "L": [
+    24.0,
+    29.0
+   ],
+   "XL": [
+    25.0,
+    30.0
+   ],
+   "XXL": [
+    26.0,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "BASIC ST\u00dcSSY THERMAL",
+  "type": "KNIT/JERSEY",
+  "handle": "1140356-basic-stussy-thermal-orange",
+  "sizes": {
+   "XS": [
+    19.0,
+    25.25
+   ],
+   "S": [
+    20.0,
+    26.25
+   ],
+   "M": [
+    21.0,
+    27.25
+   ],
+   "L": [
+    22.0,
+    28.25
+   ],
+   "XL": [
+    23.0,
+    29.25
+   ],
+   "XXL": [
+    24.0,
+    30.25
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "VARSITY ZIP HOODIE",
+  "type": "FLEECE",
+  "handle": "118589-varsity-zip-hoodie-washed-black",
+  "sizes": {
+   "XS": [
+    25.0,
+    24.0
+   ],
+   "S": [
+    26.0,
+    25.0
+   ],
+   "M": [
+    27.0,
+    26.0
+   ],
+   "L": [
+    28.0,
+    27.0
+   ],
+   "XL": [
+    29.0,
+    28.0
+   ],
+   "XXL": [
+    30.0,
+    29.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "SWEATER TEE",
+  "type": "TEES",
+  "handle": "1905193-sweater-tee-ash-heather",
+  "sizes": {
+   "XS": [
+    17.5,
+    25.0
+   ],
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "FLY GEAR TEE",
+  "type": "TEES",
+  "handle": "1905192-fly-gear-tee-white",
+  "sizes": {
+   "XS": [
+    17.5,
+    25.0
+   ],
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "FADED GRAPHIC ZIP HOODIE",
+  "type": "FLEECE",
+  "handle": "118553-faded-graphic-zip-hoodie-washed-navy",
+  "sizes": {
+   "XS": [
+    21.5,
+    24.0
+   ],
+   "S": [
+    22.5,
+    25.0
+   ],
+   "M": [
+    23.5,
+    26.0
+   ],
+   "L": [
+    24.5,
+    27.0
+   ],
+   "XL": [
+    25.5,
+    28.0
+   ],
+   "XXL": [
+    26.5,
+    29.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "SS RASH GUARD",
+  "type": "KNIT/JERSEY",
+  "handle": "1140393-ss-rash-guard-black",
+  "sizes": {
+   "XS": [
+    18.0,
+    27.0
+   ],
+   "S": [
+    19.0,
+    28.0
+   ],
+   "M": [
+    20.0,
+    28.0
+   ],
+   "L": [
+    21.0,
+    29.0
+   ],
+   "XL": [
+    22.0,
+    29.0
+   ],
+   "XXL": [
+    23.0,
+    30.0
+   ]
+  },
+  "fit": null
+ },
+ {
+  "brand": "Stussy",
+  "title": "SPLASH SWEATER",
+  "type": "SWEATERS",
+  "handle": "117318-splash-sweater-off-white",
+  "sizes": {
+   "XS": [
+    18.5,
+    25.75
+   ],
+   "S": [
+    20.5,
+    26.25
+   ],
+   "M": [
+    22.5,
+    26.75
+   ],
+   "L": [
+    24.5,
+    27.25
+   ],
+   "XL": [
+    26.5,
+    27.75
+   ],
+   "XXL": [
+    28.5,
+    28.25
+   ]
+  },
+  "fit": "Classic fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "LINK SPORT ZIP HOODIE GARMENT DYED",
+  "type": "FLEECE",
+  "handle": "1975191-link-sport-zip-hoodie-garment-dyed-faded-black",
+  "sizes": {
+   "XS": [
+    21.5,
+    26.0
+   ],
+   "S": [
+    22.5,
+    27.0
+   ],
+   "M": [
+    23.5,
+    28.0
+   ],
+   "L": [
+    24.5,
+    29.0
+   ],
+   "XL": [
+    25.5,
+    30.0
+   ],
+   "XXL": [
+    26.5,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "LINK SPORT TEE",
+  "type": "TEES",
+  "handle": "1905191-link-sport-tee-faded-black",
+  "sizes": {
+   "XS": [
+    17.5,
+    26.5
+   ],
+   "S": [
+    19.5,
+    27.5
+   ],
+   "M": [
+    21.5,
+    28.5
+   ],
+   "L": [
+    23.5,
+    29.5
+   ],
+   "XL": [
+    25.5,
+    30.5
+   ],
+   "XXL": [
+    27.5,
+    31.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "HOODED RASH GUARD",
+  "type": "KNIT/JERSEY",
+  "handle": "1140394-hooded-rash-guard-black",
+  "sizes": {
+   "XS": [
+    18.0,
+    27.0
+   ],
+   "S": [
+    19.0,
+    27.5
+   ],
+   "M": [
+    20.0,
+    28.0
+   ],
+   "L": [
+    21.0,
+    28.5
+   ],
+   "XL": [
+    22.0,
+    29.0
+   ],
+   "XXL": [
+    23.0,
+    29.5
+   ]
+  },
+  "fit": null
+ },
+ {
+  "brand": "Stussy",
+  "title": "BASIC ST\u00dcSSY CREW GARMENT DYED",
+  "type": "Sweatshirt",
+  "handle": "1915000gd-basic-stussy-crew-garment-dyed-sky-blue",
+  "sizes": {
+   "S": [
+    22.5,
+    27.0
+   ],
+   "M": [
+    23.5,
+    28.0
+   ],
+   "L": [
+    24.5,
+    29.0
+   ],
+   "XL": [
+    25.5,
+    30.0
+   ],
+   "XXL": [
+    26.5,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "TERRAIN JERSEY",
+  "type": "KNIT/JERSEY",
+  "handle": "1140387-terrain-jersey-lime",
+  "sizes": {
+   "XS": [
+    22.0,
+    25.0
+   ],
+   "S": [
+    23.0,
+    26.0
+   ],
+   "M": [
+    24.0,
+    27.0
+   ],
+   "L": [
+    25.0,
+    28.0
+   ],
+   "XL": [
+    26.0,
+    29.0
+   ],
+   "XXL": [
+    27.0,
+    30.0
+   ]
+  },
+  "fit": "Boxy fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "OFFSHORE JACKET",
+  "type": "Outerwear",
+  "handle": "115990-offshore-jacket-royal",
+  "sizes": {
+   "XS": [
+    23.0,
+    25.0
+   ],
+   "S": [
+    24.0,
+    26.0
+   ],
+   "M": [
+    25.0,
+    27.0
+   ],
+   "L": [
+    26.0,
+    28.0
+   ],
+   "XL": [
+    27.0,
+    29.0
+   ],
+   "XXL": [
+    28.0,
+    30.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "WAVE KNIT SWEATER",
+  "type": "SWEATERS",
+  "handle": "117312-wave-knit-sweater-lavender",
+  "sizes": {
+   "XS": [
+    20.5,
+    24.0
+   ],
+   "S": [
+    21.5,
+    25.0
+   ],
+   "M": [
+    22.5,
+    26.0
+   ],
+   "L": [
+    23.5,
+    27.0
+   ],
+   "XL": [
+    24.5,
+    28.0
+   ],
+   "XXL": [
+    25.5,
+    29.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "TWO TONE RAGLAN SWEATER",
+  "type": "SWEATERS",
+  "handle": "117299-two-tone-raglan-sweater-natural",
+  "sizes": {
+   "XS": [
+    20.0,
+    24.0
+   ],
+   "S": [
+    21.0,
+    25.0
+   ],
+   "M": [
+    22.0,
+    26.0
+   ],
+   "L": [
+    23.0,
+    27.0
+   ],
+   "XL": [
+    24.0,
+    28.0
+   ],
+   "XXL": [
+    25.0,
+    29.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "KIDS TEE",
+  "type": "Tops",
+  "handle": "1905205-kids-tee-white",
+  "sizes": {
+   "XS": [
+    17.5,
+    25.0
+   ],
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "GARMENT CO. TEE",
+  "type": "Tops",
+  "handle": "1905204-garment-co-tee-palm",
+  "sizes": {
+   "XS": [
+    17.5,
+    26.5
+   ],
+   "S": [
+    19.5,
+    27.5
+   ],
+   "M": [
+    21.5,
+    28.5
+   ],
+   "L": [
+    23.5,
+    29.5
+   ],
+   "XL": [
+    25.5,
+    30.5
+   ],
+   "XXL": [
+    27.5,
+    31.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "FRESH FOILS TEE",
+  "type": "Tops",
+  "handle": "1905216-fresh-foils-tee-rock",
+  "sizes": {
+   "XS": [
+    17.5,
+    26.5
+   ],
+   "S": [
+    19.5,
+    27.5
+   ],
+   "M": [
+    21.5,
+    28.5
+   ],
+   "L": [
+    23.5,
+    29.5
+   ],
+   "XL": [
+    25.5,
+    30.5
+   ],
+   "XXL": [
+    27.5,
+    31.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "ULTRA LIGHTWEIGHT NYLON TRENCH",
+  "type": "OUTERWEAR",
+  "handle": "115983-ultra-lightweight-nylon-trench-brown",
+  "sizes": {
+   "XS": [
+    26.5,
+    47.0
+   ],
+   "S": [
+    27.5,
+    47.5
+   ],
+   "M": [
+    28.5,
+    48.0
+   ],
+   "L": [
+    29.5,
+    48.5
+   ],
+   "XL": [
+    30.5,
+    49.0
+   ],
+   "XXL": [
+    31.5,
+    49.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "FRESH FOILS HOODIE GARMENT DYED",
+  "type": "Tops",
+  "handle": "1925216-fresh-foils-hoodie-garment-dyed-red",
+  "sizes": {
+   "XS": [
+    21.5,
+    26.0
+   ],
+   "S": [
+    22.5,
+    27.0
+   ],
+   "M": [
+    23.5,
+    28.0
+   ],
+   "L": [
+    24.5,
+    29.0
+   ],
+   "XL": [
+    25.5,
+    30.0
+   ],
+   "XXL": [
+    26.5,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "RALLY INSULATED JACKET",
+  "type": "OUTERWEAR",
+  "handle": "115961-rally-insulated-jacket-bone",
+  "sizes": {
+   "XS": [
+    22.5,
+    26.0
+   ],
+   "S": [
+    23.5,
+    26.5
+   ],
+   "M": [
+    24.5,
+    27.0
+   ],
+   "L": [
+    25.5,
+    27.5
+   ],
+   "XL": [
+    26.5,
+    28.0
+   ],
+   "XXL": [
+    27.5,
+    28.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "FLIGHT PARKA",
+  "type": "OUTERWEAR",
+  "handle": "115967-flight-parka-bone",
+  "sizes": {
+   "XS": [
+    26.0,
+    29.5
+   ],
+   "S": [
+    27.0,
+    30.0
+   ],
+   "M": [
+    28.0,
+    30.5
+   ],
+   "L": [
+    29.0,
+    31.0
+   ],
+   "XL": [
+    30.0,
+    31.5
+   ],
+   "XXL": [
+    31.0,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "MA-1 BOMBER JACKET",
+  "type": "OUTERWEAR",
+  "handle": "115955-ma-1-bomber-jacket-woodland-camo",
+  "sizes": {
+   "XS": [
+    23.5,
+    24.0
+   ],
+   "S": [
+    24.5,
+    25.0
+   ],
+   "M": [
+    25.5,
+    26.0
+   ],
+   "L": [
+    26.5,
+    27.0
+   ],
+   "XL": [
+    27.5,
+    28.0
+   ],
+   "XXL": [
+    28.5,
+    29.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "NYCO COLLARED WORK JACKET",
+  "type": "OUTERWEAR",
+  "handle": "115947-nyco-collared-work-jacket-sand",
+  "sizes": {
+   "XS": [
+    23.0,
+    24.0
+   ],
+   "S": [
+    24.0,
+    25.0
+   ],
+   "M": [
+    25.0,
+    26.0
+   ],
+   "L": [
+    26.0,
+    27.0
+   ],
+   "XL": [
+    27.0,
+    28.0
+   ],
+   "XXL": [
+    28.0,
+    29.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "FLEECE HOODIE",
+  "type": "FLEECE",
+  "handle": "118633-fleece-hoodie-grey-heather",
+  "sizes": {
+   "XS": [
+    21.0,
+    25.0
+   ],
+   "S": [
+    22.0,
+    26.0
+   ],
+   "M": [
+    23.0,
+    27.0
+   ],
+   "L": [
+    24.0,
+    28.0
+   ],
+   "XL": [
+    25.0,
+    29.0
+   ],
+   "XXL": [
+    26.0,
+    30.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "FLEECE CREW",
+  "type": "FLEECE",
+  "handle": "118632-fleece-crew-grey-heather",
+  "sizes": {
+   "XS": [
+    21.0,
+    24.5
+   ],
+   "S": [
+    22.0,
+    25.5
+   ],
+   "M": [
+    23.0,
+    26.5
+   ],
+   "L": [
+    24.0,
+    27.5
+   ],
+   "XL": [
+    25.0,
+    28.5
+   ],
+   "XXL": [
+    26.0,
+    29.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "HALF ZIP THERMAL MOCK NECK",
+  "type": "KNIT/JERSEY",
+  "handle": "1140403-half-zip-thermal-mock-neck-sand",
+  "sizes": {
+   "XS": [
+    22.0,
+    25.0
+   ],
+   "S": [
+    23.0,
+    26.0
+   ],
+   "M": [
+    24.0,
+    27.0
+   ],
+   "L": [
+    25.0,
+    28.0
+   ],
+   "XL": [
+    26.0,
+    29.0
+   ],
+   "XXL": [
+    27.0,
+    30.0
+   ]
+  },
+  "fit": "Classic fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "DAX PRINTED SHIRT",
+  "type": "WOVENS",
+  "handle": "1110402-dax-printed-shirt-red",
+  "sizes": {
+   "XS": [
+    22.0,
+    27.0
+   ],
+   "S": [
+    23.0,
+    28.0
+   ],
+   "M": [
+    24.0,
+    29.0
+   ],
+   "L": [
+    25.0,
+    30.0
+   ],
+   "XL": [
+    26.0,
+    31.0
+   ],
+   "XXL": [
+    27.0,
+    32.0
+   ]
+  },
+  "fit": "Classic fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "CANVAS WORK OVERSHIRT",
+  "type": "WOVENS",
+  "handle": "1110395-canvas-work-overshirt-bone",
+  "sizes": {
+   "XS": [
+    24.625,
+    27.5
+   ],
+   "S": [
+    25.625,
+    28.0
+   ],
+   "M": [
+    26.625,
+    28.5
+   ],
+   "L": [
+    27.625,
+    29.0
+   ],
+   "XL": [
+    28.625,
+    29.5
+   ],
+   "XXL": [
+    29.625,
+    30.0
+   ]
+  },
+  "fit": "Boxy fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "SHERPA REVERSIBLE JACKET",
+  "type": "OUTERWEAR",
+  "handle": "118529-sherpa-reversible-jacket-bluestone",
+  "sizes": {
+   "XS": [
+    22.5,
+    24.5
+   ],
+   "S": [
+    23.0,
+    25.5
+   ],
+   "M": [
+    24.0,
+    26.5
+   ],
+   "L": [
+    25.0,
+    27.5
+   ],
+   "XL": [
+    26.0,
+    28.5
+   ],
+   "XXL": [
+    27.0,
+    29.5
+   ]
+  },
+  "fit": "Classic fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "BLOCK SPORT HOODIE GARMENT DYED",
+  "type": "Tops",
+  "handle": "1925217-block-sport-hoodie-garment-dyed-midnight",
+  "sizes": {
+   "XS": [
+    21.5,
+    26.0
+   ],
+   "S": [
+    22.5,
+    27.0
+   ],
+   "M": [
+    23.5,
+    28.0
+   ],
+   "L": [
+    24.5,
+    29.0
+   ],
+   "XL": [
+    25.5,
+    30.0
+   ],
+   "XXL": [
+    26.5,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "GARAGE JACKET LEATHER",
+  "type": "OUTERWEAR",
+  "handle": "115911-garage-jacket-leather-dark-brown",
+  "sizes": {
+   "S": [
+    24.25,
+    24.5
+   ],
+   "M": [
+    25.25,
+    25.5
+   ],
+   "L": [
+    26.25,
+    26.5
+   ],
+   "XL": [
+    27.25,
+    27.5
+   ],
+   "XXL": [
+    28.25,
+    28.5
+   ]
+  },
+  "fit": "Boxy fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "JUNYA TACTICAL JACKET",
+  "type": "OUTERWEAR",
+  "handle": "wrj908100-junya-tactical-jacket-black",
+  "sizes": {
+   "XS": [
+    22.85,
+    13.4
+   ],
+   "S": [
+    23.6,
+    13.8
+   ],
+   "M": [
+    24.4,
+    14.15
+   ],
+   "L": [
+    25.2,
+    14.55
+   ],
+   "XL": [
+    26.0,
+    14.65
+   ]
+  },
+  "fit": null
+ },
+ {
+  "brand": "Stussy",
+  "title": "JUNYA SPORT COAT",
+  "type": "OUTERWEAR",
+  "handle": "wrj928100-junya-sport-coat-black",
+  "sizes": {
+   "XS": [
+    21.05,
+    13.9
+   ],
+   "S": [
+    21.85,
+    14.25
+   ],
+   "M": [
+    22.65,
+    14.65
+   ],
+   "L": [
+    23.45,
+    15.05
+   ],
+   "XL": [
+    24.2,
+    15.15
+   ]
+  },
+  "fit": null
+ },
+ {
+  "brand": "Stussy",
+  "title": "JUNYA LEATHER JACKET",
+  "type": "OUTERWEAR",
+  "handle": "wrj903100-junya-leather-jacket-black",
+  "sizes": {
+   "XS": [
+    22.05,
+    12.8
+   ],
+   "S": [
+    22.85,
+    13.2
+   ],
+   "M": [
+    23.6,
+    13.6
+   ],
+   "L": [
+    24.4,
+    14.0
+   ],
+   "XL": [
+    25.2,
+    14.05
+   ]
+  },
+  "fit": null
+ },
+ {
+  "brand": "Stussy",
+  "title": "JUNYA VARSITY JACKET",
+  "type": "OUTERWEAR",
+  "handle": "wrj901100-junya-varsity-jacket-black",
+  "sizes": {
+   "XS": [
+    24.2,
+    12.6
+   ],
+   "S": [
+    25.0,
+    13.0
+   ],
+   "M": [
+    25.8,
+    13.4
+   ],
+   "L": [
+    26.55,
+    13.8
+   ],
+   "XL": [
+    27.35,
+    13.9
+   ]
+  },
+  "fit": null
+ },
+ {
+  "brand": "Stussy",
+  "title": "JUNYA BUTTON DOWN SHIRT",
+  "type": "TOPS",
+  "handle": "wrb901100-junya-button-down-shirt-white",
+  "sizes": {
+   "XS": [
+    22.85,
+    14.75
+   ],
+   "S": [
+    23.6,
+    15.15
+   ],
+   "M": [
+    24.4,
+    15.55
+   ],
+   "L": [
+    25.2,
+    15.95
+   ],
+   "XL": [
+    26.0,
+    16.15
+   ]
+  },
+  "fit": null
+ },
+ {
+  "brand": "Stussy",
+  "title": "JUNYA VENUS TEE",
+  "type": "Tops",
+  "handle": "wrt903100-junya-venus-tee-black",
+  "sizes": {
+   "XS": [
+    17.5,
+    25.0
+   ],
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": null
+ },
+ {
+  "brand": "Stussy",
+  "title": "JUNYA SURFMAN TEE",
+  "type": "Tops",
+  "handle": "wrt901100-junya-surfman-tee-black",
+  "sizes": {
+   "XS": [
+    17.5,
+    25.0
+   ],
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": null
+ },
+ {
+  "brand": "Stussy",
+  "title": "POLAR FLEECE LINED JACKET",
+  "type": "OUTERWEAR",
+  "handle": "115906-polar-fleece-lined-jacket-black",
+  "sizes": {
+   "S": [
+    24.0,
+    25.5
+   ],
+   "M": [
+    25.0,
+    26.0
+   ],
+   "L": [
+    26.0,
+    26.5
+   ],
+   "XL": [
+    27.0,
+    27.0
+   ],
+   "XXL": [
+    28.0,
+    27.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "SOFT SHELL JACKET",
+  "type": "OUTERWEAR",
+  "handle": "115908-soft-shell-jacket-moss-grey",
+  "sizes": {
+   "XS": [
+    22.0,
+    24.5
+   ],
+   "S": [
+    23.0,
+    25.5
+   ],
+   "M": [
+    24.0,
+    26.5
+   ],
+   "L": [
+    25.0,
+    27.5
+   ],
+   "XL": [
+    26.0,
+    28.5
+   ],
+   "XXL": [
+    27.0,
+    29.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "DENIM WESTERN SHIRT",
+  "type": "WOVENS",
+  "handle": "1110394-denim-western-shirt-dark-denim",
+  "sizes": {
+   "S": [
+    21.0,
+    27.5
+   ],
+   "M": [
+    22.0,
+    28.5
+   ],
+   "L": [
+    23.0,
+    29.5
+   ],
+   "XL": [
+    24.0,
+    30.5
+   ],
+   "XXL": [
+    25.0,
+    31.5
+   ]
+  },
+  "fit": "Classic fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "HAWAIIAN FLORAL SHIRT",
+  "type": "WOVENS",
+  "handle": "1110419-hawaiian-floral-shirt-red",
+  "sizes": {
+   "XS": [
+    21.5,
+    26.75
+   ],
+   "S": [
+    22.5,
+    27.25
+   ],
+   "M": [
+    23.5,
+    27.75
+   ],
+   "L": [
+    24.5,
+    28.25
+   ],
+   "XL": [
+    25.5,
+    28.75
+   ],
+   "XXL": [
+    26.5,
+    29.25
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "LS RINGER TEE",
+  "type": "TEES",
+  "handle": "1140400-ls-ringer-tee-white",
+  "sizes": {
+   "XS": [
+    22.0,
+    25.5
+   ],
+   "S": [
+    23.0,
+    26.5
+   ],
+   "M": [
+    24.0,
+    27.5
+   ],
+   "L": [
+    25.0,
+    28.5
+   ],
+   "XL": [
+    26.0,
+    29.5
+   ],
+   "XXL": [
+    27.0,
+    30.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "CLASSIC PIQUE LS POLO",
+  "type": "WOVENS",
+  "handle": "1140411-classic-pique-ls-polo-brown",
+  "sizes": {
+   "XS": [
+    22.0,
+    25.5
+   ],
+   "S": [
+    23.0,
+    26.5
+   ],
+   "M": [
+    24.0,
+    27.5
+   ],
+   "L": [
+    25.0,
+    28.5
+   ],
+   "XL": [
+    26.0,
+    29.5
+   ],
+   "XXL": [
+    27.0,
+    30.5
+   ]
+  },
+  "fit": "Classic fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "LIGHTWEIGHT MOCK JACKET",
+  "type": "OUTERWEAR",
+  "handle": "115902-lightweight-mock-jacket-khaki",
+  "sizes": {
+   "XS": [
+    23.0,
+    25.0
+   ],
+   "S": [
+    24.0,
+    26.0
+   ],
+   "M": [
+    25.0,
+    27.0
+   ],
+   "L": [
+    26.0,
+    28.0
+   ],
+   "XL": [
+    27.0,
+    29.0
+   ],
+   "XXL": [
+    28.0,
+    30.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "RIPSTOP WORK JACKET",
+  "type": "OUTERWEAR",
+  "handle": "115945-ripstop-work-jacket-burgundy",
+  "sizes": {
+   "XS": [
+    23.0,
+    24.0
+   ],
+   "S": [
+    24.0,
+    25.0
+   ],
+   "M": [
+    25.0,
+    26.0
+   ],
+   "L": [
+    26.0,
+    27.0
+   ],
+   "XL": [
+    27.0,
+    28.0
+   ],
+   "XXL": [
+    28.0,
+    29.0
+   ]
+  },
+  "fit": "Classic fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "TOURING JACKET",
+  "type": "OUTERWEAR",
+  "handle": "115958-touring-jacket-snow-camo",
+  "sizes": {
+   "XS": [
+    23.0,
+    24.0
+   ],
+   "S": [
+    24.0,
+    24.5
+   ],
+   "M": [
+    25.0,
+    25.0
+   ],
+   "L": [
+    26.0,
+    25.5
+   ],
+   "XL": [
+    27.0,
+    26.0
+   ],
+   "XXL": [
+    28.0,
+    26.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "FIREMAN JACKET",
+  "type": "OUTERWEAR",
+  "handle": "115966-fireman-jacket-black",
+  "sizes": {
+   "XS": [
+    26.0,
+    32.0
+   ],
+   "S": [
+    27.0,
+    32.5
+   ],
+   "M": [
+    28.0,
+    33.0
+   ],
+   "L": [
+    29.0,
+    33.5
+   ],
+   "XL": [
+    30.0,
+    34.0
+   ],
+   "XXL": [
+    31.0,
+    34.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "WOOL VARSITY JACKET",
+  "type": "OUTERWEAR",
+  "handle": "115968-wool-varsity-jacket-navy",
+  "sizes": {
+   "XS": [
+    22.0,
+    24.5
+   ],
+   "S": [
+    23.0,
+    25.0
+   ],
+   "M": [
+    24.0,
+    25.5
+   ],
+   "L": [
+    25.0,
+    26.0
+   ],
+   "XL": [
+    26.0,
+    26.5
+   ],
+   "XXL": [
+    27.0,
+    27.0
+   ]
+  },
+  "fit": "Boxy fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "LEATHER DUSTER",
+  "type": "OUTERWEAR",
+  "handle": "115970-leather-duster-sand",
+  "sizes": {
+   "XS": [
+    24.5,
+    44.0
+   ],
+   "S": [
+    25.5,
+    44.5
+   ],
+   "M": [
+    26.5,
+    45.0
+   ],
+   "L": [
+    27.5,
+    45.5
+   ],
+   "XL": [
+    28.5,
+    46.0
+   ],
+   "XXL": [
+    29.5,
+    46.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "BEACH HOODED SWEATER",
+  "type": "SWEATERS",
+  "handle": "117298-beach-hooded-sweater-oatmeal",
+  "sizes": {
+   "XS": [
+    21.0,
+    24.0
+   ],
+   "S": [
+    22.0,
+    25.0
+   ],
+   "M": [
+    23.0,
+    26.0
+   ],
+   "L": [
+    24.0,
+    27.0
+   ],
+   "XL": [
+    25.0,
+    28.0
+   ],
+   "XXL": [
+    26.0,
+    29.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "TEXTURED CARDIGAN",
+  "type": "SWEATERS",
+  "handle": "117291-textured-cardigan-navy-brown",
+  "sizes": {
+   "XS": [
+    21.5,
+    23.5
+   ],
+   "S": [
+    22.5,
+    24.5
+   ],
+   "M": [
+    23.5,
+    25.5
+   ],
+   "L": [
+    24.5,
+    26.5
+   ],
+   "XL": [
+    25.5,
+    27.5
+   ],
+   "XXL": [
+    26.5,
+    28.5
+   ]
+  },
+  "fit": "Classic fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "MESH PRINT SWEATER",
+  "type": "SWEATERS",
+  "handle": "117313-mesh-print-sweater-mesh-net",
+  "sizes": {
+   "S": [
+    22.5,
+    23.5
+   ],
+   "M": [
+    23.5,
+    24.5
+   ],
+   "L": [
+    24.5,
+    25.5
+   ],
+   "XL": [
+    25.5,
+    26.5
+   ],
+   "XXL": [
+    26.5,
+    27.5
+   ]
+  },
+  "fit": "Classic fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "STRIPED HIBISCUS SWEATER",
+  "type": "SWEATERS",
+  "handle": "117305-striped-hibiscus-sweater-grey",
+  "sizes": {
+   "S": [
+    22.5,
+    23.5
+   ],
+   "M": [
+    23.5,
+    24.5
+   ],
+   "L": [
+    24.5,
+    25.5
+   ],
+   "XL": [
+    25.5,
+    26.5
+   ],
+   "XXL": [
+    26.5,
+    27.5
+   ]
+  },
+  "fit": "Classic fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "MERINO ROLL NECK SWEATER",
+  "type": "SWEATERS",
+  "handle": "117314-merino-roll-neck-sweater-brown",
+  "sizes": {
+   "XS": [
+    20.5,
+    23.5
+   ],
+   "S": [
+    21.5,
+    24.5
+   ],
+   "M": [
+    22.5,
+    25.5
+   ],
+   "L": [
+    23.5,
+    26.5
+   ],
+   "XL": [
+    24.5,
+    27.5
+   ],
+   "XXL": [
+    25.5,
+    28.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "PIQUE KNIT STRIPE RUGBY",
+  "type": "SWEATERS",
+  "handle": "117317-pique-knit-stripe-rugby-olive",
+  "sizes": {
+   "XS": [
+    20.5,
+    25.5
+   ],
+   "S": [
+    21.5,
+    26.0
+   ],
+   "M": [
+    22.5,
+    26.5
+   ],
+   "L": [
+    23.5,
+    27.0
+   ],
+   "XL": [
+    24.5,
+    27.5
+   ],
+   "XXL": [
+    25.5,
+    28.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "PLAID LINED ZIP HOODIE",
+  "type": "FLEECE",
+  "handle": "118619-plaid-lined-zip-hoodie-grey-heather",
+  "sizes": {
+   "XS": [
+    21.5,
+    24.5
+   ],
+   "S": [
+    22.5,
+    25.5
+   ],
+   "M": [
+    23.5,
+    26.5
+   ],
+   "L": [
+    24.5,
+    27.5
+   ],
+   "XL": [
+    25.5,
+    28.5
+   ],
+   "XXL": [
+    26.5,
+    29.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "ZIP FLEECE MOCK NECK",
+  "type": "FLEECE",
+  "handle": "118622-zip-fleece-mock-neck-cream",
+  "sizes": {
+   "XS": [
+    23.0,
+    24.5
+   ],
+   "S": [
+    24.0,
+    25.5
+   ],
+   "M": [
+    25.0,
+    26.5
+   ],
+   "L": [
+    26.0,
+    27.5
+   ],
+   "XL": [
+    27.0,
+    28.5
+   ],
+   "XXL": [
+    28.0,
+    29.5
+   ]
+  },
+  "fit": "boxy fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "PANELED STRIPE CREW",
+  "type": "FLEECE",
+  "handle": "118621-paneled-stripe-crew-navy",
+  "sizes": {
+   "XS": [
+    21.0,
+    25.0
+   ],
+   "S": [
+    22.0,
+    26.0
+   ],
+   "M": [
+    23.0,
+    27.0
+   ],
+   "L": [
+    24.0,
+    28.0
+   ],
+   "XL": [
+    25.0,
+    29.0
+   ],
+   "XXL": [
+    26.0,
+    30.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "DOUBLE FACED ZIP HOODIE",
+  "type": "FLEECE",
+  "handle": "118624-double-faced-zip-hoodie-black",
+  "sizes": {
+   "XS": [
+    22.0,
+    24.5
+   ],
+   "S": [
+    23.0,
+    25.5
+   ],
+   "M": [
+    24.0,
+    26.5
+   ],
+   "L": [
+    25.0,
+    27.5
+   ],
+   "XL": [
+    26.0,
+    28.5
+   ],
+   "XXL": [
+    27.0,
+    29.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "STANDARD SS SHIRT",
+  "type": "WOVENS",
+  "handle": "1110415-standard-ss-shirt-blue-stripe",
+  "sizes": {
+   "S": [
+    24.0,
+    29.5
+   ],
+   "M": [
+    25.0,
+    30.0
+   ],
+   "L": [
+    26.0,
+    30.5
+   ],
+   "XL": [
+    27.0,
+    31.0
+   ],
+   "XXL": [
+    28.0,
+    31.5
+   ]
+  },
+  "fit": "Boxy fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "LIGHTWEIGHT TERRY ZIP HOODIE",
+  "type": "FLEECE",
+  "handle": "118613-lightweight-terry-zip-hoodie-blue",
+  "sizes": {
+   "XS": [
+    21.0,
+    24.0
+   ],
+   "S": [
+    22.0,
+    25.0
+   ],
+   "M": [
+    23.0,
+    26.0
+   ],
+   "L": [
+    24.0,
+    27.0
+   ],
+   "XL": [
+    25.0,
+    28.0
+   ],
+   "XXL": [
+    26.0,
+    29.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "LIGHTWEIGHT TERRY HOODIE",
+  "type": "FLEECE",
+  "handle": "118612-lightweight-terry-hoodie-yellow",
+  "sizes": {
+   "XS": [
+    21.0,
+    24.5
+   ],
+   "S": [
+    22.0,
+    25.5
+   ],
+   "M": [
+    23.0,
+    26.5
+   ],
+   "L": [
+    24.0,
+    27.5
+   ],
+   "XL": [
+    25.0,
+    28.5
+   ],
+   "XXL": [
+    26.0,
+    29.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "LIGHTWEIGHT STRIPED SWEATER",
+  "type": "SWEATERS",
+  "handle": "117297-lightweight-striped-sweater-brown",
+  "sizes": {
+   "XS": [
+    20.5,
+    24.0
+   ],
+   "S": [
+    21.5,
+    25.0
+   ],
+   "M": [
+    22.5,
+    26.0
+   ],
+   "L": [
+    23.5,
+    27.0
+   ],
+   "XL": [
+    24.5,
+    28.0
+   ],
+   "XXL": [
+    25.5,
+    29.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "LAYERED MESH REVERSIBLE JACKET",
+  "type": "OUTERWEAR",
+  "handle": "115933-layered-mesh-reversible-jacket-black",
+  "sizes": {
+   "XS": [
+    23.5,
+    26.0
+   ],
+   "S": [
+    24.5,
+    26.5
+   ],
+   "M": [
+    25.5,
+    27.0
+   ],
+   "L": [
+    26.5,
+    27.5
+   ],
+   "XL": [
+    27.5,
+    28.0
+   ],
+   "XXL": [
+    28.5,
+    28.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "LAGUNA 80 JERSEY",
+  "type": "KNIT/JERSEY",
+  "handle": "1140389-laguna-80-jersey-blue",
+  "sizes": {
+   "XS": [
+    21.0,
+    26.0
+   ],
+   "S": [
+    22.0,
+    27.0
+   ],
+   "M": [
+    23.0,
+    28.0
+   ],
+   "L": [
+    24.0,
+    29.0
+   ],
+   "XL": [
+    25.0,
+    30.0
+   ],
+   "XXL": [
+    26.0,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "CLASSIC PIQUE POLO",
+  "type": "WOVENS",
+  "handle": "1140367-classic-pique-polo-plum",
+  "sizes": {
+   "S": [
+    23.0,
+    26.5
+   ],
+   "M": [
+    24.0,
+    27.5
+   ],
+   "L": [
+    25.0,
+    28.5
+   ],
+   "XL": [
+    26.0,
+    29.5
+   ],
+   "XXL": [
+    27.0,
+    30.5
+   ]
+  },
+  "fit": "Classic fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "DOT SURF PUFF PRINT ZIP HOODIE",
+  "type": "FLEECE",
+  "handle": "1975195-dot-surf-puff-print-zip-hoodie-off-white",
+  "sizes": {
+   "XS": [
+    21.5,
+    26.0
+   ],
+   "S": [
+    22.5,
+    27.0
+   ],
+   "M": [
+    23.5,
+    28.0
+   ],
+   "L": [
+    24.5,
+    29.0
+   ],
+   "XL": [
+    25.5,
+    30.0
+   ],
+   "XXL": [
+    26.5,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "DOT SURF PUFF PRINT TEE",
+  "type": "TEES",
+  "handle": "1905195-dot-surf-puff-print-tee-white",
+  "sizes": {
+   "XS": [
+    17.5,
+    25.0
+   ],
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "BEACH ROOTS ZIP HOODIE GARMENT DYED",
+  "type": "FLEECE",
+  "handle": "1975198-beach-roots-zip-hoodie-garment-dyed-indigo",
+  "sizes": {
+   "XS": [
+    21.5,
+    26.0
+   ],
+   "S": [
+    22.5,
+    27.0
+   ],
+   "M": [
+    23.5,
+    28.0
+   ],
+   "L": [
+    24.5,
+    29.0
+   ],
+   "XL": [
+    25.5,
+    30.0
+   ],
+   "XXL": [
+    26.5,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "BEACH ROOTS TEE",
+  "type": "TEES",
+  "handle": "1905198-beach-roots-tee-natural",
+  "sizes": {
+   "XS": [
+    17.5,
+    26.5
+   ],
+   "S": [
+    19.5,
+    27.5
+   ],
+   "M": [
+    21.5,
+    28.5
+   ],
+   "L": [
+    23.5,
+    29.5
+   ],
+   "XL": [
+    25.5,
+    30.5
+   ],
+   "XXL": [
+    27.5,
+    31.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "DRAGON HOODIE",
+  "type": "FLEECE",
+  "handle": "1925166-dragon-hoodie-ash-heather",
+  "sizes": {
+   "XS": [
+    21.5,
+    26.0
+   ],
+   "S": [
+    22.5,
+    27.0
+   ],
+   "M": [
+    23.5,
+    28.0
+   ],
+   "L": [
+    24.5,
+    29.0
+   ],
+   "XL": [
+    25.5,
+    30.0
+   ],
+   "XXL": [
+    26.5,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "ST\u00dcSSY WEAR CREW",
+  "type": "FLEECE",
+  "handle": "1915119-stussy-wear-crew-black",
+  "sizes": {
+   "S": [
+    22.5,
+    27.0
+   ],
+   "M": [
+    23.5,
+    28.0
+   ],
+   "L": [
+    24.5,
+    29.0
+   ],
+   "XL": [
+    25.5,
+    30.0
+   ],
+   "XXL": [
+    26.5,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "STOCK LINK ZIP HOODIE",
+  "type": "FLEECE",
+  "handle": "1975118-stock-link-zip-hoodie-pine",
+  "sizes": {
+   "XS": [
+    21.5,
+    26.0
+   ],
+   "S": [
+    22.5,
+    27.0
+   ],
+   "M": [
+    23.5,
+    28.0
+   ],
+   "L": [
+    24.5,
+    29.0
+   ],
+   "XL": [
+    25.5,
+    30.0
+   ],
+   "XXL": [
+    26.5,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "BOX CROWN TEE",
+  "type": "TEES",
+  "handle": "1905186-box-crown-tee-white",
+  "sizes": {
+   "XS": [
+    17.5,
+    25.0
+   ],
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "CALI GROWN TEE",
+  "type": "TEES",
+  "handle": "1905162-cali-grown-tee-navy",
+  "sizes": {
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "SUMMER CLASSICS HOODIE GARMENT DYED",
+  "type": "FLEECE",
+  "handle": "1925197-summer-classics-hoodie-garment-dyed-faded-black",
+  "sizes": {
+   "XS": [
+    21.5,
+    26.0
+   ],
+   "S": [
+    22.5,
+    27.0
+   ],
+   "M": [
+    23.5,
+    28.0
+   ],
+   "L": [
+    24.5,
+    29.0
+   ],
+   "XL": [
+    25.5,
+    30.0
+   ],
+   "XXL": [
+    26.5,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "STANDARD SHIRT",
+  "type": "WOVENS",
+  "handle": "1110388-standard-shirt-white",
+  "sizes": {
+   "XS": [
+    23.0,
+    29.0
+   ],
+   "S": [
+    24.0,
+    29.5
+   ],
+   "M": [
+    25.0,
+    30.0
+   ],
+   "L": [
+    26.0,
+    30.5
+   ],
+   "XL": [
+    27.0,
+    31.0
+   ],
+   "XXL": [
+    28.0,
+    31.5
+   ]
+  },
+  "fit": "Boxy fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "MECHANIC JACKET",
+  "type": "OUTERWEAR",
+  "handle": "115936-mechanic-jacket-black",
+  "sizes": {
+   "XS": [
+    24.0,
+    25.25
+   ],
+   "S": [
+    25.0,
+    25.75
+   ],
+   "M": [
+    26.0,
+    null
+   ],
+   "L": [
+    27.0,
+    26.75
+   ],
+   "XL": [
+    28.0,
+    27.25
+   ],
+   "XXL": [
+    29.0,
+    27.75
+   ]
+  },
+  "fit": "Boxy fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "LEATHER WORK JACKET",
+  "type": "OUTERWEAR",
+  "handle": "115938-leather-work-jacket-black",
+  "sizes": {
+   "XS": [
+    22.75,
+    24.0
+   ],
+   "S": [
+    23.75,
+    25.0
+   ],
+   "M": [
+    24.75,
+    26.0
+   ],
+   "L": [
+    25.75,
+    27.0
+   ],
+   "XL": [
+    26.75,
+    28.0
+   ],
+   "XXL": [
+    27.75,
+    29.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "DOUBLE VENUS TEE",
+  "type": "TEES",
+  "handle": "1905194-double-venus-tee-white",
+  "sizes": {
+   "XS": [
+    17.5,
+    25.0
+   ],
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "CURSIVE APPLIQUE ZIP HOODIE",
+  "type": "FLEECE",
+  "handle": "118617-cursive-applique-zip-hoodie-natural",
+  "sizes": {
+   "XS": [
+    21.5,
+    24.75
+   ],
+   "S": [
+    22.5,
+    25.75
+   ],
+   "M": [
+    23.5,
+    26.75
+   ],
+   "L": [
+    24.5,
+    27.75
+   ],
+   "XL": [
+    25.5,
+    28.75
+   ],
+   "XXL": [
+    26.5,
+    29.75
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "BODY SCAN TEE",
+  "type": "TEES",
+  "handle": "1905163-body-scan-tee-black",
+  "sizes": {
+   "S": [
+    19.5,
+    28.0
+   ],
+   "M": [
+    21.5,
+    29.0
+   ],
+   "L": [
+    23.5,
+    30.0
+   ],
+   "XL": [
+    25.5,
+    31.0
+   ],
+   "XXL": [
+    27.5,
+    32.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "LIGHTWEIGHT PULLOVER JACKET",
+  "type": "OUTERWEAR",
+  "handle": "115905-lightweight-pullover-jacket-white",
+  "sizes": {
+   "XS": [
+    23.0,
+    26.0
+   ],
+   "S": [
+    24.0,
+    26.5
+   ],
+   "M": [
+    25.0,
+    27.0
+   ],
+   "L": [
+    26.0,
+    27.5
+   ],
+   "XL": [
+    27.0,
+    28.0
+   ],
+   "XXL": [
+    28.0,
+    28.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "LIGHTWEIGHT HOODED JACKET",
+  "type": "OUTERWEAR",
+  "handle": "115900-lightweight-hooded-jacket-olive",
+  "sizes": {
+   "XS": [
+    24.5,
+    25.5
+   ],
+   "S": [
+    25.5,
+    26.5
+   ],
+   "M": [
+    26.5,
+    27.5
+   ],
+   "L": [
+    27.5,
+    28.5
+   ],
+   "XL": [
+    28.5,
+    29.5
+   ],
+   "XXL": [
+    29.5,
+    30.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "WAVE OVAL HOODIE",
+  "type": "FLEECE",
+  "handle": "1925181-wave-oval-hoodie-black",
+  "sizes": {
+   "XS": [
+    21.5,
+    26.0
+   ],
+   "S": [
+    22.5,
+    27.0
+   ],
+   "M": [
+    23.5,
+    28.0
+   ],
+   "L": [
+    24.5,
+    29.0
+   ],
+   "XL": [
+    25.5,
+    30.0
+   ],
+   "XXL": [
+    26.5,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "TALL DICE ZIP HOODIE",
+  "type": "FLEECE",
+  "handle": "1975187-tall-dice-zip-hoodie-navy",
+  "sizes": {
+   "XS": [
+    21.5,
+    26.0
+   ],
+   "S": [
+    22.5,
+    27.0
+   ],
+   "M": [
+    23.5,
+    28.0
+   ],
+   "L": [
+    24.5,
+    29.0
+   ],
+   "XL": [
+    25.5,
+    30.0
+   ],
+   "XXL": [
+    26.5,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "PIGMENT DYED SS THERMAL",
+  "type": "KNIT/JERSEY",
+  "handle": "1140368-pigment-dyed-ss-thermal-white",
+  "sizes": {
+   "XS": [
+    19.0,
+    25.0
+   ],
+   "S": [
+    20.0,
+    26.0
+   ],
+   "M": [
+    21.0,
+    27.0
+   ],
+   "L": [
+    22.0,
+    28.0
+   ],
+   "XL": [
+    23.0,
+    29.0
+   ],
+   "XXL": [
+    24.0,
+    30.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "TALL DICE TEE",
+  "type": "TEES",
+  "handle": "1905187-tall-dice-tee-white",
+  "sizes": {
+   "XS": [
+    17.5,
+    26.5
+   ],
+   "S": [
+    19.5,
+    27.5
+   ],
+   "M": [
+    21.5,
+    28.5
+   ],
+   "L": [
+    23.5,
+    29.5
+   ],
+   "XL": [
+    25.5,
+    30.5
+   ],
+   "XXL": [
+    27.5,
+    31.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "MATTHEW PLAID SHIRT",
+  "type": "WOVENS",
+  "handle": "1110369-matthew-plaid-shirt-charcoal",
+  "sizes": {
+   "S": [
+    23.5,
+    28.5
+   ],
+   "M": [
+    24.5,
+    29.0
+   ],
+   "L": [
+    25.5,
+    29.5
+   ],
+   "XL": [
+    26.5,
+    30.0
+   ],
+   "XXL": [
+    27.5,
+    30.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "ZIP HOODED PLAID SHIRT",
+  "type": "OUTERWEAR",
+  "handle": "1110381-zip-hooded-plaid-shirt-charcoal",
+  "sizes": {
+   "S": [
+    24.0,
+    26.5
+   ],
+   "M": [
+    25.0,
+    27.0
+   ],
+   "L": [
+    26.0,
+    27.5
+   ],
+   "XL": [
+    27.0,
+    28.0
+   ],
+   "XXL": [
+    28.0,
+    28.5
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "MOTIF PRINT HOODIE",
+  "type": "FLEECE",
+  "handle": "118605-motif-print-hoodie-black",
+  "sizes": {
+   "S": [
+    22.5,
+    25.0
+   ],
+   "M": [
+    23.5,
+    26.0
+   ],
+   "L": [
+    24.5,
+    27.0
+   ],
+   "XL": [
+    25.5,
+    28.0
+   ],
+   "XXL": [
+    26.5,
+    29.0
+   ]
+  },
+  "fit": "Boxy fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "MOCK NECK FLIGHT BOMBER",
+  "type": "OUTERWEAR",
+  "handle": "115903-mock-neck-flight-bomber-white",
+  "sizes": {
+   "S": [
+    27.0,
+    25.0
+   ],
+   "M": [
+    28.0,
+    26.0
+   ],
+   "L": [
+    29.0,
+    27.0
+   ],
+   "XL": [
+    30.0,
+    28.0
+   ],
+   "XXL": [
+    31.0,
+    29.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "DUSTER COAT",
+  "type": "OUTERWEAR",
+  "handle": "115831-duster-coat-khaki",
+  "sizes": {
+   "S": [
+    26.0,
+    45.0
+   ],
+   "M": [
+    27.0,
+    45.5
+   ],
+   "L": [
+    28.0,
+    46.0
+   ],
+   "XL": [
+    29.0,
+    46.5
+   ],
+   "XXL": [
+    30.0,
+    47.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "DOUBLE COTTON HOODED JACKET",
+  "type": "OUTERWEAR",
+  "handle": "115930-double-cotton-hooded-jacket-black",
+  "sizes": {
+   "XS": [
+    25.0,
+    25.0
+   ],
+   "S": [
+    26.0,
+    26.0
+   ],
+   "M": [
+    27.0,
+    27.0
+   ],
+   "L": [
+    28.0,
+    28.0
+   ],
+   "XL": [
+    29.0,
+    29.0
+   ],
+   "XXL": [
+    30.0,
+    30.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "WARM UP PULLOVER",
+  "type": "OUTERWEAR",
+  "handle": "115878-warm-up-pullover-black",
+  "sizes": {
+   "S": [
+    25.0,
+    26.5
+   ],
+   "M": [
+    26.0,
+    27.0
+   ],
+   "L": [
+    27.0,
+    27.5
+   ],
+   "XL": [
+    28.0,
+    28.0
+   ],
+   "XXL": [
+    29.0,
+    28.5
+   ]
+  },
+  "fit": null
+ },
+ {
+  "brand": "Stussy",
+  "title": "WOOL LS THERMAL",
+  "type": "KNIT/JERSEY",
+  "handle": "1140374-wool-ls-thermal-ecru",
+  "sizes": {
+   "S": [
+    18.25,
+    25.25
+   ],
+   "M": [
+    19.25,
+    26.25
+   ],
+   "L": [
+    20.25,
+    27.25
+   ],
+   "XL": [
+    21.25,
+    28.25
+   ],
+   "XXL": [
+    22.25,
+    29.25
+   ]
+  },
+  "fit": "Classic fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "STANDARD LOGO SHIRT",
+  "type": "WOVENS",
+  "handle": "1110387-standard-logo-shirt-blue-stripe",
+  "sizes": {
+   "S": [
+    24.0,
+    29.0
+   ],
+   "M": [
+    25.0,
+    29.5
+   ],
+   "L": [
+    26.0,
+    30.0
+   ],
+   "XL": [
+    27.0,
+    30.5
+   ],
+   "XXL": [
+    28.0,
+    31.0
+   ]
+  },
+  "fit": "Boxy fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "PIGMENT DYED LS THERMAL",
+  "type": "KNIT/JERSEY",
+  "handle": "1140396-pigment-dyed-ls-thermal-lime",
+  "sizes": {
+   "XS": [
+    19.0,
+    25.0
+   ],
+   "S": [
+    20.0,
+    26.0
+   ],
+   "M": [
+    21.0,
+    27.0
+   ],
+   "L": [
+    22.0,
+    28.0
+   ],
+   "XL": [
+    23.0,
+    29.0
+   ],
+   "XXL": [
+    24.0,
+    30.0
+   ]
+  },
+  "fit": "Classic fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "LEOPARD SWEATER",
+  "type": "SWEATERS",
+  "handle": "117287-leopard-sweater-leopard",
+  "sizes": {
+   "S": [
+    22.5,
+    24.0
+   ],
+   "M": [
+    23.5,
+    25.0
+   ],
+   "L": [
+    24.5,
+    26.0
+   ],
+   "XL": [
+    25.5,
+    27.0
+   ],
+   "XXL": [
+    26.5,
+    28.0
+   ]
+  },
+  "fit": "Classic fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "LONG HAUL ZIP HOODIE",
+  "type": "FLEECE",
+  "handle": "1975185-long-haul-zip-hoodie-black",
+  "sizes": {
+   "XS": [
+    21.5,
+    26.0
+   ],
+   "S": [
+    22.5,
+    27.0
+   ],
+   "M": [
+    23.5,
+    28.0
+   ],
+   "L": [
+    24.5,
+    29.0
+   ],
+   "XL": [
+    25.5,
+    30.0
+   ],
+   "XXL": [
+    26.5,
+    31.0
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "WORK JACKET CANVAS",
+  "type": "OUTERWEAR",
+  "handle": "115913-work-jacket-canvas-olive",
+  "sizes": {
+   "XS": [
+    22.0,
+    24.0
+   ],
+   "S": [
+    23.0,
+    25.0
+   ],
+   "M": [
+    24.0,
+    26.0
+   ],
+   "L": [
+    25.0,
+    27.0
+   ],
+   "XL": [
+    26.0,
+    28.0
+   ],
+   "XXL": [
+    27.0,
+    29.0
+   ]
+  },
+  "fit": "Boxy fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "EXTRA TOUGH RAGLAN THERMAL",
+  "type": "KNIT/JERSEY",
+  "handle": "1140382-extra-tough-raglan-thermal-navy",
+  "sizes": {
+   "S": [
+    20.0,
+    26.25
+   ],
+   "M": [
+    21.0,
+    27.25
+   ],
+   "L": [
+    22.0,
+    28.25
+   ],
+   "XL": [
+    23.0,
+    29.25
+   ],
+   "XXL": [
+    24.0,
+    30.25
+   ]
+  },
+  "fit": "Relaxed fit"
+ },
+ {
+  "brand": "Stussy",
+  "title": "TEXTURED ZIP HOODED SWEATER",
+  "type": "SWEATERS",
+  "handle": "117282-textured-zip-hooded-sweater-bone",
+  "sizes": {
+   "XS": [
+    22.0,
+    24.0
+   ],
+   "S": [
+    23.0,
+    25.0
+   ],
+   "M": [
+    24.0,
+    26.0
+   ],
+   "L": [
+    25.0,
+    27.0
+   ],
+   "XL": [
+    26.0,
+    28.0
+   ],
+   "XXL": [
+    27.0,
+    29.0
+   ]
+  },
+  "fit": null
+ }
+]

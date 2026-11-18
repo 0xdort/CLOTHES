@@ -15,3 +15,6 @@ Approach: compare garment **measurements** (flat chest, length, shoulder, sleeve
 ## Try it
 
     python3 tools/fits_like.py data/items/king-saladeen-rugby.json
+- `data/brands/` – 520+ items from Stussy, Aime Leon Dore and Fear of God/Essentials (scraped size guides,
+  normalized to flat inches). `data/brands/README.md` compares how big a size M is per brand and garment type.
+- `tools/scrape/` – the scrapers and the normalizer (`normalize_brands.py`) that turns raw tables into `data/brands/`

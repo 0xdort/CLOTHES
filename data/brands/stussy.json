@@ -1,0 +1,5629 @@
+{
+ "brand": "Stussy",
+ "units": "in",
+ "measurement_basis": {
+  "chest_flat": "laid flat (circumference charts halved)",
+  "length": "body length as published"
+ },
+ "items": [
+  {
+   "name": "BASIC ST\u00dcSSY TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1905000-basic-stussy-tee-lemon",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "BASIC ST\u00dcSSY LS TEE",
+   "category": "long-sleeve",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1995000-basic-stussy-ls-tee-curry",
+   "sizes": {
+    "S": {
+     "chest_flat": 19.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "TRIPLE CROWN TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1905210-triple-crown-tee-rock",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 28.5
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 29.5
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.5
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 31.5
+    }
+   }
+  },
+  {
+   "name": "ALPACA ZIP SWEATER",
+   "category": "sweater",
+   "fit_note": "Classic fit",
+   "url": "https://www.stussy.com/products/117310-alpaca-zip-sweater-orange-ombre",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.0,
+     "length": 23.0
+    },
+    "S": {
+     "chest_flat": 22.0,
+     "length": 24.0
+    },
+    "M": {
+     "chest_flat": 23.0,
+     "length": 25.0
+    },
+    "L": {
+     "chest_flat": 24.0,
+     "length": 26.0
+    },
+    "XL": {
+     "chest_flat": 25.0,
+     "length": 27.0
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 28.0
+    }
+   }
+  },
+  {
+   "name": "REVERSIBLE FUR VEST",
+   "category": "jacket",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/115991-fur-vest-natural",
+   "sizes": {
+    "S": {
+     "chest_flat": 22.0,
+     "length": 24.75
+    },
+    "M": {
+     "chest_flat": 23.0,
+     "length": 25.25
+    },
+    "L": {
+     "chest_flat": 24.0,
+     "length": 25.75
+    },
+    "XL": {
+     "chest_flat": 25.0,
+     "length": 26.25
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 26.75
+    }
+   }
+  },
+  {
+   "name": "FUR LINED FLIGHT BOMBER",
+   "category": "jacket",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/115989-fur-lined-flight-bomber-snow-camo",
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.0,
+     "length": 24.5
+    },
+    "S": {
+     "chest_flat": 26.0,
+     "length": 25.5
+    },
+    "M": {
+     "chest_flat": 27.0,
+     "length": 26.5
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 27.5
+    },
+    "XL": {
+     "chest_flat": 29.0,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 30.0,
+     "length": 29.5
+    }
+   }
+  },
+  {
+   "name": "REVERSIBLE DOWN JACKET",
+   "category": "jacket",
+   "fit_note": null,
+   "url": "https://www.stussy.com/products/115962-reversible-down-jacket-sky-blue",
+   "sizes": {
+    "XS": {
+     "chest_flat": 26.0,
+     "length": 29.0
+    },
+    "S": {
+     "chest_flat": 27.0,
+     "length": 29.5
+    },
+    "M": {
+     "chest_flat": 28.0,
+     "length": 30.0
+    },
+    "L": {
+     "chest_flat": 29.0,
+     "length": 30.5
+    },
+    "XL": {
+     "chest_flat": 30.0,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "MIDWEIGHT HOODED PUFFER",
+   "category": "hoodie",
+   "fit_note": "Classic fit",
+   "url": "https://www.stussy.com/products/115856-midweight-hooded-puffer-lime",
+   "sizes": {
+    "XS": {
+     "chest_flat": 22.0,
+     "length": 24.5
+    },
+    "S": {
+     "chest_flat": 23.0,
+     "length": 25.5
+    },
+    "M": {
+     "chest_flat": 24.0,
+     "length": 26.5
+    },
+    "L": {
+     "chest_flat": 25.0,
+     "length": 27.5
+    },
+    "XL": {
+     "chest_flat": 26.0,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 27.0,
+     "length": 29.5
+    }
+   }
+  },
+  {
+   "name": "S MESH JERSEY",
+   "category": "sweater",
+   "fit_note": "Boxy fit",
+   "url": "https://www.stussy.com/products/1140401-s-mesh-jersey-grey",
+   "sizes": {
+    "XS": {
+     "chest_flat": 22.5,
+     "length": 25.75
+    },
+    "S": {
+     "chest_flat": 23.5,
+     "length": 26.75
+    },
+    "M": {
+     "chest_flat": 24.5,
+     "length": 27.75
+    },
+    "L": {
+     "chest_flat": 25.5,
+     "length": 28.75
+    },
+    "XL": {
+     "chest_flat": 26.5,
+     "length": 29.75
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 30.75
+    }
+   }
+  },
+  {
+   "name": "BRUSHED WOOL WESTERN SHIRT",
+   "category": "shirt",
+   "fit_note": "Boxy fit",
+   "url": "https://www.stussy.com/products/1110405-brushed-wool-western-shirt-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 22.0,
+     "length": 28.0
+    },
+    "S": {
+     "chest_flat": 23.0,
+     "length": 28.5
+    },
+    "M": {
+     "chest_flat": 24.0,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 25.0,
+     "length": 29.5
+    },
+    "XL": {
+     "chest_flat": 26.0,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 27.0,
+     "length": 30.5
+    }
+   }
+  },
+  {
+   "name": "MOLESKIN HOODED OVERSHIRT",
+   "category": "hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1110396-moleskin-hooded-overshirt-blue",
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.0,
+     "length": 27.5
+    },
+    "S": {
+     "chest_flat": 24.0,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 25.0,
+     "length": 28.5
+    },
+    "L": {
+     "chest_flat": 26.0,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 27.0,
+     "length": 29.5
+    },
+    "2XL": {
+     "chest_flat": 28.0,
+     "length": 30.0
+    }
+   }
+  },
+  {
+   "name": "BULLDOG TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1905208-bulldog-tee-white",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "BULLDOG ZIP HOODIE",
+   "category": "zip-hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1975208-bulldog-zip-hoodie-ash-heather",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 22.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "STOCK LINK HOODIE",
+   "category": "hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1925214-stock-link-hoodie-navy",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 22.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "DERBY ZIP HOODIE",
+   "category": "zip-hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1975206-derby-zip-hoodie-navy",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 22.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "DERBY TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1905206-derby-tee-white",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "DOWN PARKA MICRO RIPSTOP",
+   "category": "jacket",
+   "fit_note": "Classic fit",
+   "url": "https://www.stussy.com/products/115685-down-parka-micro-ripstop-sky-blue",
+   "sizes": {
+    "XS": {
+     "chest_flat": 24.5,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 25.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 26.5,
+     "length": 28.5
+    },
+    "L": {
+     "chest_flat": 27.5,
+     "length": 29.5
+    },
+    "XL": {
+     "chest_flat": 28.5,
+     "length": 30.5
+    },
+    "2XL": {
+     "chest_flat": 29.5,
+     "length": 31.5
+    }
+   }
+  },
+  {
+   "name": "MICRO RIPSTOP DOWN JACKET",
+   "category": "jacket",
+   "fit_note": "Classic fit",
+   "url": "https://www.stussy.com/products/115877-micro-ripstop-down-jacket-red",
+   "sizes": {
+    "S": {
+     "chest_flat": 25.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 26.5,
+     "length": 28.5
+    },
+    "L": {
+     "chest_flat": 27.5,
+     "length": 29.5
+    },
+    "XL": {
+     "chest_flat": 28.5,
+     "length": 30.5
+    },
+    "2XL": {
+     "chest_flat": 29.5,
+     "length": 31.5
+    }
+   }
+  },
+  {
+   "name": "WORKGEAR JACKET",
+   "category": "jacket",
+   "fit_note": "Boxy fit",
+   "url": "https://www.stussy.com/products/115785-workgear-jacket-black",
+   "sizes": {
+    "S": {
+     "chest_flat": 25.0,
+     "length": 25.75
+    },
+    "M": {
+     "chest_flat": 26.0,
+     "length": 26.25
+    },
+    "L": {
+     "chest_flat": 27.0,
+     "length": 26.75
+    },
+    "XL": {
+     "chest_flat": 28.0,
+     "length": 27.25
+    },
+    "2XL": {
+     "chest_flat": 29.0,
+     "length": 27.75
+    }
+   }
+  },
+  {
+   "name": "QUILTED PLAID SHIRT JACKET",
+   "category": "shirt",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1110403-quilted-plaid-shirt-jacket-olive",
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.0,
+     "length": 28.5
+    },
+    "S": {
+     "chest_flat": 24.0,
+     "length": 29.0
+    },
+    "M": {
+     "chest_flat": 25.0,
+     "length": 29.5
+    },
+    "L": {
+     "chest_flat": 26.0,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 27.0,
+     "length": 30.5
+    },
+    "2XL": {
+     "chest_flat": 28.0,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "PILE LINED LEATHER VEST",
+   "category": "jacket",
+   "fit_note": "Boxy fit",
+   "url": "https://www.stussy.com/products/115965-pile-lined-leather-vest-bone",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.0,
+     "length": 24.5
+    },
+    "S": {
+     "chest_flat": 22.0,
+     "length": 25.0
+    },
+    "M": {
+     "chest_flat": 23.0,
+     "length": 25.5
+    },
+    "L": {
+     "chest_flat": 24.0,
+     "length": 26.0
+    },
+    "XL": {
+     "chest_flat": 25.0,
+     "length": 26.5
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 27.0
+    }
+   }
+  },
+  {
+   "name": "SHADOW STRIPE RAGLAN SWEATER",
+   "category": "sweater",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/117315-shadow-stripe-raglan-sweater-blue",
+   "sizes": {
+    "XS": {
+     "chest_flat": 20.0,
+     "length": 23.75
+    },
+    "S": {
+     "chest_flat": 21.0,
+     "length": 24.75
+    },
+    "M": {
+     "chest_flat": 22.0,
+     "length": 25.75
+    },
+    "L": {
+     "chest_flat": 23.0,
+     "length": 26.75
+    },
+    "XL": {
+     "chest_flat": 24.0,
+     "length": 27.75
+    },
+    "2XL": {
+     "chest_flat": 25.0,
+     "length": 28.75
+    }
+   }
+  },
+  {
+   "name": "SWING JACKET",
+   "category": "jacket",
+   "fit_note": "boxy fit",
+   "url": "https://www.stussy.com/products/115953-swing-jacket-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 24.0,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 25.0,
+     "length": 25.5
+    },
+    "M": {
+     "chest_flat": 26.0,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 27.0,
+     "length": 26.5
+    },
+    "XL": {
+     "chest_flat": 28.0,
+     "length": 27.0
+    },
+    "2XL": {
+     "chest_flat": 29.0,
+     "length": 27.5
+    }
+   }
+  },
+  {
+   "name": "LEATHER M-65 JACKET",
+   "category": "jacket",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/115986-leather-m-65-jacket-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 24.0,
+     "length": 29.5
+    },
+    "S": {
+     "chest_flat": 25.0,
+     "length": 30.0
+    },
+    "M": {
+     "chest_flat": 26.0,
+     "length": 30.5
+    },
+    "L": {
+     "chest_flat": 27.0,
+     "length": 31.0
+    },
+    "XL": {
+     "chest_flat": 28.0,
+     "length": 31.5
+    },
+    "2XL": {
+     "chest_flat": 29.0,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "INSULATED WORK JACKET RAW DENIM",
+   "category": "jacket",
+   "fit_note": "Boxy fit",
+   "url": "https://www.stussy.com/products/115835-insulated-work-jacket-raw-denim-indigo",
+   "sizes": {
+    "S": {
+     "chest_flat": 24.0,
+     "length": 25.0
+    },
+    "M": {
+     "chest_flat": 25.0,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 26.0,
+     "length": 27.0
+    },
+    "XL": {
+     "chest_flat": 27.0,
+     "length": 28.0
+    },
+    "2XL": {
+     "chest_flat": 28.0,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "HOODED UTILITY PULLOVER",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": "https://www.stussy.com/products/1140406-hooded-utility-pullover-khaki",
+   "sizes": {
+    "XS": {
+     "chest_flat": 18.0,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 19.0,
+     "length": 26.5
+    },
+    "M": {
+     "chest_flat": 20.0,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 21.0,
+     "length": 27.5
+    },
+    "XL": {
+     "chest_flat": 22.0,
+     "length": 28.0
+    },
+    "2XL": {
+     "chest_flat": 23.0,
+     "length": 28.5
+    }
+   }
+  },
+  {
+   "name": "FUR LINED FLIGHT JACKET",
+   "category": "jacket",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/115975-fur-lined-flight-jacket-brown",
+   "sizes": {
+    "XS": {
+     "chest_flat": 24.0,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 25.0,
+     "length": 25.5
+    },
+    "M": {
+     "chest_flat": 26.0,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 27.0,
+     "length": 26.5
+    },
+    "XL": {
+     "chest_flat": 28.0,
+     "length": 27.0
+    },
+    "2XL": {
+     "chest_flat": 29.0,
+     "length": 27.5
+    }
+   }
+  },
+  {
+   "name": "FLEECE ZIP HOODIE",
+   "category": "zip-hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/118634-fleece-zip-hoodie-red",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.0,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 22.0,
+     "length": 26.0
+    },
+    "M": {
+     "chest_flat": 23.0,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 24.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 25.0,
+     "length": 29.0
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 30.0
+    }
+   }
+  },
+  {
+   "name": "CONVERTIBLE DECK JACKET",
+   "category": "jacket",
+   "fit_note": "Boxy fit",
+   "url": "https://www.stussy.com/products/115963-convertible-deck-jacket-woodland-camo",
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.0,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 26.0,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 27.0,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 29.0,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 30.0,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "CASHMERE ZIP SWEATER",
+   "category": "sweater",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/117308-cashmere-zip-sweater-brown",
+   "sizes": {
+    "XS": {
+     "chest_flat": 22.0,
+     "length": 23.0
+    },
+    "S": {
+     "chest_flat": 23.0,
+     "length": 24.0
+    },
+    "M": {
+     "chest_flat": 24.0,
+     "length": 25.0
+    },
+    "L": {
+     "chest_flat": 25.0,
+     "length": 26.0
+    },
+    "XL": {
+     "chest_flat": 26.0,
+     "length": 27.0
+    },
+    "2XL": {
+     "chest_flat": 27.0,
+     "length": 28.0
+    }
+   }
+  },
+  {
+   "name": "DESIGNS TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1905207-designs-tee-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "STOCK LINK TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1905214-stock-link-tee-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "CAMO JACQUARD SWEATER",
+   "category": "sweater",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/117300-camo-jacquard-sweater-camo",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.25,
+     "length": 23.5
+    },
+    "S": {
+     "chest_flat": 22.25,
+     "length": 24.5
+    },
+    "M": {
+     "chest_flat": 23.25,
+     "length": 25.5
+    },
+    "L": {
+     "chest_flat": 24.25,
+     "length": 26.5
+    },
+    "XL": {
+     "chest_flat": 25.25,
+     "length": 27.5
+    },
+    "2XL": {
+     "chest_flat": 26.25,
+     "length": 28.5
+    }
+   }
+  },
+  {
+   "name": "STAND FIRM TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1905215-stand-firm-tee-faded-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 28.5
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 29.5
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.5
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 31.5
+    }
+   }
+  },
+  {
+   "name": "BRUSHED CASHMERE QUARTER ZIP",
+   "category": "half-zip",
+   "fit_note": "Classic fit",
+   "url": "https://www.stussy.com/products/117319-brushed-cashmere-quarter-zip-burgundy",
+   "sizes": {
+    "XS": {
+     "chest_flat": 20.0,
+     "length": 23.5
+    },
+    "S": {
+     "chest_flat": 21.0,
+     "length": 24.5
+    },
+    "M": {
+     "chest_flat": 22.0,
+     "length": 25.5
+    },
+    "L": {
+     "chest_flat": 23.0,
+     "length": 26.5
+    },
+    "XL": {
+     "chest_flat": 24.0,
+     "length": 27.5
+    },
+    "2XL": {
+     "chest_flat": 25.0,
+     "length": 28.5
+    }
+   }
+  },
+  {
+   "name": "BONDED JERSEY ZIP HOODIE",
+   "category": "zip-hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/118631-bonded-jersey-zip-hoodie-navy",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.0,
+     "length": 24.5
+    },
+    "S": {
+     "chest_flat": 22.0,
+     "length": 25.5
+    },
+    "M": {
+     "chest_flat": 23.0,
+     "length": 26.5
+    },
+    "L": {
+     "chest_flat": 24.0,
+     "length": 27.5
+    },
+    "XL": {
+     "chest_flat": 25.0,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 29.5
+    }
+   }
+  },
+  {
+   "name": "DRAGON LS TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1995213-dragon-ls-tee-faded-black",
+   "sizes": {
+    "S": {
+     "chest_flat": 19.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "ANIMAL PRINT FLANNEL SHIRT",
+   "category": "shirt",
+   "fit_note": "Classic fit",
+   "url": "https://www.stussy.com/products/1110401-animal-print-flannel-shirt-zebra",
+   "sizes": {
+    "XS": {
+     "chest_flat": 22.0,
+     "length": 27.25
+    },
+    "S": {
+     "chest_flat": 23.0,
+     "length": 28.25
+    },
+    "M": {
+     "chest_flat": 24.0,
+     "length": 29.25
+    },
+    "L": {
+     "chest_flat": 25.0,
+     "length": 30.25
+    },
+    "XL": {
+     "chest_flat": 26.0,
+     "length": 31.25
+    },
+    "2XL": {
+     "chest_flat": 27.0,
+     "length": 32.25
+    }
+   }
+  },
+  {
+   "name": "CAMO BLOCK SPORT TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1905221-camo-block-sport-tee-brown-camo",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "CAMO BLOCK SPORT ZIP HOODIE",
+   "category": "zip-hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1975221-camo-block-sport-zip-hoodie-brown-camo",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 22.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "DENIM TEARS SEQUIN ZIP HOODIE",
+   "category": "zip-hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/26tzh1584-denim-tears-sequin-zip-hoodie-multi",
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.0,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 24.0,
+     "length": 26.0
+    },
+    "M": {
+     "chest_flat": 25.0,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 27.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 28.0,
+     "length": 29.0
+    },
+    "2XL": {
+     "chest_flat": 29.0,
+     "length": 30.0
+    }
+   }
+  },
+  {
+   "name": "DENIM TEARS POLO",
+   "category": "polo",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/26tkp1589-denim-tears-polo-white",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.0,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 22.0,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 23.0,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 26.0,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 26.0,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 27.0,
+     "length": 30.0
+    }
+   }
+  },
+  {
+   "name": "DENIM TEARS KNIT SWEATER",
+   "category": "sweater",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/26tsa1865-denim-tears-knit-sweater-green",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.0,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 23.0,
+     "length": 26.0
+    },
+    "M": {
+     "chest_flat": 24.0,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 25.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 26.0,
+     "length": 28.0
+    },
+    "2XL": {
+     "chest_flat": 28.0,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "DENIM TEARS PULLOVER HOODIE",
+   "category": "hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/26thd1585-denim-tears-pullover-hoodie-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.0,
+     "length": 24.0
+    },
+    "S": {
+     "chest_flat": 26.0,
+     "length": 25.0
+    },
+    "M": {
+     "chest_flat": 27.0,
+     "length": 25.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 26.0
+    },
+    "XL": {
+     "chest_flat": 29.0,
+     "length": 27.0
+    },
+    "2XL": {
+     "chest_flat": 30.0,
+     "length": 28.0
+    }
+   }
+  },
+  {
+   "name": "DENIM TEARS FISHING VEST",
+   "category": "jacket",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/3904047-denim-tears-fishing-vest-green",
+   "sizes": {
+    "XS": {
+     "chest_flat": 22.0,
+     "length": 23.0
+    },
+    "S": {
+     "chest_flat": 23.0,
+     "length": 24.0
+    },
+    "M": {
+     "chest_flat": 24.0,
+     "length": 24.0
+    },
+    "L": {
+     "chest_flat": 25.0,
+     "length": 25.0
+    },
+    "XL": {
+     "chest_flat": 27.0,
+     "length": 26.0
+    },
+    "2XL": {
+     "chest_flat": 28.0,
+     "length": 27.0
+    }
+   }
+  },
+  {
+   "name": "DENIM TEARS FISHING BUTTON UP",
+   "category": "shirt",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/26twl1864-denim-tears-fishing-button-up-white",
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.0,
+     "length": 29.0
+    },
+    "S": {
+     "chest_flat": 25.0,
+     "length": 29.0
+    },
+    "M": {
+     "chest_flat": 26.0,
+     "length": 30.0
+    },
+    "L": {
+     "chest_flat": 27.0,
+     "length": 31.0
+    },
+    "XL": {
+     "chest_flat": 28.0,
+     "length": 32.0
+    },
+    "2XL": {
+     "chest_flat": 30.0,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "DENIM TEARS VARSITY JACKET",
+   "category": "jacket",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/26ocb1576-denim-tears-varsity-jacket-green",
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.0,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 26.0,
+     "length": 26.0
+    },
+    "M": {
+     "chest_flat": 27.0,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 27.0
+    },
+    "XL": {
+     "chest_flat": 29.0,
+     "length": 28.0
+    },
+    "2XL": {
+     "chest_flat": 30.0,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "DENIM TEARS COLUMBIA JACKET",
+   "category": "jacket",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/26olj1582-denim-tears-columbia-jacket-orange",
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.0,
+     "length": 28.0
+    },
+    "S": {
+     "chest_flat": 24.0,
+     "length": 29.0
+    },
+    "M": {
+     "chest_flat": 25.0,
+     "length": 30.0
+    },
+    "L": {
+     "chest_flat": 26.0,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 27.0,
+     "length": 32.0
+    },
+    "2XL": {
+     "chest_flat": 28.0,
+     "length": 33.0
+    }
+   }
+  },
+  {
+   "name": "DENIM TEARS BEACH TOUR TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/3904043-denim-tears-beach-tour-tee-white",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "DENIM TEARS BASS TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/3904047-denim-tears-bass-tee-white",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "OUR LEGACY LEATHER FIREMAN JACKET",
+   "category": "jacket",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/wsm4269fb-our-legacy-leather-fireman-jacket-black",
+   "sizes": {
+    "XXS": {
+     "chest_flat": 23.0,
+     "length": 29.0
+    },
+    "XS": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "S": {
+     "chest_flat": 24.0,
+     "length": 31.0
+    },
+    "M": {
+     "chest_flat": 25.0,
+     "length": 31.0
+    },
+    "L": {
+     "chest_flat": 25.5,
+     "length": 32.0
+    },
+    "XL": {
+     "chest_flat": 26.5,
+     "length": 32.0
+    },
+    "2XL": {
+     "chest_flat": 27.0,
+     "length": 33.0
+    },
+    "3XL": {
+     "chest_flat": 27.5,
+     "length": 33.0
+    }
+   }
+  },
+  {
+   "name": "STUSSY SPORT TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1905188-stussy-sport-tee-white",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "HOODED COACHES JACKET",
+   "category": "hoodie",
+   "fit_note": "Boxy fit",
+   "url": "https://www.stussy.com/products/115909-hooded-coaches-jacket-yellow",
+   "sizes": {
+    "XS": {
+     "chest_flat": 24.0,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 25.0,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 26.0,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 27.0,
+     "length": 28.5
+    },
+    "XL": {
+     "chest_flat": 28.0,
+     "length": 29.0
+    },
+    "2XL": {
+     "chest_flat": 29.0,
+     "length": 29.5
+    }
+   }
+  },
+  {
+   "name": "STUSSY STAR LS TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1995212-stussy-star-ls-tee-white",
+   "sizes": {
+    "S": {
+     "chest_flat": 19.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "PRINTED PATTERN ZIP HOODIE",
+   "category": "zip-hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1975220-printed-pattern-zip-hoodie-pink-palaka",
+   "sizes": {
+    "S": {
+     "chest_flat": 22.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "PEACE INCREASED ZIP HOODIE",
+   "category": "zip-hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1975203-peace-increased-zip-hoodie-navy",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 22.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "STANDARD CRINKLE SHIRT",
+   "category": "shirt",
+   "fit_note": "Boxy fit",
+   "url": "https://www.stussy.com/products/1110408-standard-crinkle-shirt-navy-check",
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.5,
+     "length": 29.25
+    },
+    "S": {
+     "chest_flat": 24.5,
+     "length": 29.75
+    },
+    "M": {
+     "chest_flat": 25.5,
+     "length": 30.25
+    },
+    "L": {
+     "chest_flat": 26.5,
+     "length": 30.75
+    },
+    "XL": {
+     "chest_flat": 27.5,
+     "length": 31.25
+    },
+    "2XL": {
+     "chest_flat": 28.5,
+     "length": 31.75
+    }
+   }
+  },
+  {
+   "name": "PEACE INCREASED TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1905203-peace-increased-tee-white",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "OXFORD SHIRT",
+   "category": "shirt",
+   "fit_note": "Boxy fit",
+   "url": "https://www.stussy.com/products/1110364-oxford-shirt-grey-stripe",
+   "sizes": {
+    "S": {
+     "chest_flat": 23.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 25.5,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 26.5,
+     "length": 29.5
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 30.0
+    }
+   }
+  },
+  {
+   "name": "LIGHTWEIGHT THERMAL HOODIE",
+   "category": "hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1140410-lightweight-thermal-hoodie-lime",
+   "sizes": {
+    "S": {
+     "chest_flat": 24.0,
+     "length": 24.5
+    },
+    "M": {
+     "chest_flat": 25.0,
+     "length": 25.5
+    },
+    "L": {
+     "chest_flat": 26.0,
+     "length": 26.5
+    },
+    "XL": {
+     "chest_flat": 27.0,
+     "length": 27.5
+    },
+    "2XL": {
+     "chest_flat": 28.0,
+     "length": 28.5
+    }
+   }
+  },
+  {
+   "name": "WAFFLE CASHMERE ZIP HOOD SWEATER",
+   "category": "zip-hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/117274-waffle-cashmere-zip-hood-sweater-charcoal",
+   "sizes": {
+    "S": {
+     "chest_flat": 22.0,
+     "length": 23.0
+    },
+    "M": {
+     "chest_flat": 23.0,
+     "length": 24.0
+    },
+    "L": {
+     "chest_flat": 24.0,
+     "length": 25.0
+    },
+    "XL": {
+     "chest_flat": 25.0,
+     "length": 26.0
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 27.0
+    }
+   }
+  },
+  {
+   "name": "WAFFLE CASHMERE SWEATER",
+   "category": "sweater",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/117257-waffle-cashmere-sweater-charcoal",
+   "sizes": {
+    "S": {
+     "chest_flat": 21.5,
+     "length": 23.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 25.0
+    },
+    "XL": {
+     "chest_flat": 24.5,
+     "length": 26.0
+    },
+    "2XL": {
+     "chest_flat": 25.5,
+     "length": 27.0
+    }
+   }
+  },
+  {
+   "name": "PERFORMANCE WETSUIT TOP",
+   "category": "sweater",
+   "fit_note": null,
+   "url": "https://www.stussy.com/products/1140392-performance-wetsuit-top-black",
+   "sizes": {
+    "M": {
+     "chest_flat": 16.0,
+     "length": 26.5
+    },
+    "L": {
+     "chest_flat": 17.0,
+     "length": 27.0
+    },
+    "XL": {
+     "chest_flat": 18.0,
+     "length": 27.5
+    },
+    "2XL": {
+     "chest_flat": 19.0,
+     "length": 28.0
+    }
+   }
+  },
+  {
+   "name": "COASTLINE HOODED JACKET",
+   "category": "hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/115964-coastline-hooded-jacket-forest",
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.0,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 24.0,
+     "length": 25.5
+    },
+    "M": {
+     "chest_flat": 25.0,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 26.0,
+     "length": 26.5
+    },
+    "XL": {
+     "chest_flat": 27.0,
+     "length": 27.0
+    },
+    "2XL": {
+     "chest_flat": 28.0,
+     "length": 27.5
+    }
+   }
+  },
+  {
+   "name": "SNAKESKIN TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1905199-snakeskin-tee-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "HIGH ROLLERS TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1905200-high-rollers-tee-faded-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 28.5
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 29.5
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.5
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 31.5
+    }
+   }
+  },
+  {
+   "name": "SMOOTH SK8 TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1905201-smooth-sk8-tee-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "DICE CLOCK TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1905202-dice-clock-tee-ash-heather",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "BLOCK SPORT TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1905217-block-sport-tee-ash-heather",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "SNAKESKIN ZIP HOODIE",
+   "category": "zip-hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1975199-snakeskin-zip-hoodie-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 22.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "8 BALL TEE",
+   "category": "tee",
+   "fit_note": null,
+   "url": "https://www.stussy.com/products/1905022-8-ball-tee-midnight",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "8 BALL ZIP HOODIE",
+   "category": "zip-hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1975103-8-ball-zip-hoodie-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 22.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "BUILT REVERSIBLE BOMBER JACKET",
+   "category": "jacket",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/115743-built-reversible-bomber-jacket-olive",
+   "sizes": {
+    "S": {
+     "chest_flat": 25.5,
+     "length": 25.5
+    },
+    "M": {
+     "chest_flat": 26.5,
+     "length": 26.5
+    },
+    "L": {
+     "chest_flat": 27.5,
+     "length": 27.5
+    },
+    "XL": {
+     "chest_flat": 28.5,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 29.5,
+     "length": 29.5
+    }
+   }
+  },
+  {
+   "name": "BIG LOVE TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1905218-big-love-tee-ash-heather",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "STRIPED RUGBY SHIRT",
+   "category": "rugby",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1140372-striped-rugby-shirt-blue",
+   "sizes": {
+    "S": {
+     "chest_flat": 22.0,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 23.0,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 24.0,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 25.0,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "GARMENT DYED SS TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1140364-garment-dyed-ss-tee-brown",
+   "sizes": {
+    "S": {
+     "chest_flat": 22.0,
+     "length": 26.0
+    },
+    "M": {
+     "chest_flat": 23.0,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 24.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 25.0,
+     "length": 29.0
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 30.0
+    }
+   }
+  },
+  {
+   "name": "LAZY TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1140283-lazy-tee-washed-red",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.0,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 22.0,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 23.0,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 24.0,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 25.0,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "ST\u00dcSSY & ALWAYS STACK ZIP HOODIE",
+   "category": "zip-hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/3974049-stussy-always-stack-zip-hoodie-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 22.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "ST\u00dcSSY & ALWAYS STACK TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/3904049-stussy-always-stack-tee-yellow",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "MATTHEW PRINTED SHIRT",
+   "category": "shirt",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1110328-matthew-printed-shirt-blue",
+   "sizes": {
+    "S": {
+     "chest_flat": 23.5,
+     "length": 28.5
+    },
+    "M": {
+     "chest_flat": 24.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 25.5,
+     "length": 29.5
+    },
+    "XL": {
+     "chest_flat": 26.5,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 30.5
+    }
+   }
+  },
+  {
+   "name": "SUN FADED OVERSIZED CREW",
+   "category": "crewneck",
+   "fit_note": "boxy fit",
+   "url": "https://www.stussy.com/products/118525-sun-faded-oversized-crew-black",
+   "sizes": {
+    "S": {
+     "chest_flat": 25.0,
+     "length": 25.0
+    },
+    "M": {
+     "chest_flat": 26.0,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 27.0,
+     "length": 27.0
+    },
+    "XL": {
+     "chest_flat": 28.0,
+     "length": 28.0
+    },
+    "2XL": {
+     "chest_flat": 29.0,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "ST\u00dcSSY SPORT ZIP HOODIE",
+   "category": "zip-hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/118540-stussy-sport-zip-hoodie-tan",
+   "sizes": {
+    "S": {
+     "chest_flat": 22.5,
+     "length": 26.5
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 28.5
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 29.5
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 30.5
+    }
+   }
+  },
+  {
+   "name": "LAZY FLORAL TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1140407-lazy-floral-tee-vintage-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.0,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 22.0,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 23.0,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 24.0,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 25.0,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "GARAGE JACKET SUEDE",
+   "category": "jacket",
+   "fit_note": "Boxy fit",
+   "url": "https://www.stussy.com/products/115948-garage-jacket-suede-suede",
+   "sizes": {
+    "S": {
+     "chest_flat": 24.25,
+     "length": 24.5
+    },
+    "M": {
+     "chest_flat": 25.25,
+     "length": 25.5
+    },
+    "L": {
+     "chest_flat": 26.25,
+     "length": 26.5
+    },
+    "XL": {
+     "chest_flat": 27.25,
+     "length": 27.5
+    },
+    "2XL": {
+     "chest_flat": 28.25,
+     "length": 28.5
+    }
+   }
+  },
+  {
+   "name": "DENIM TRUCKER JACKET",
+   "category": "jacket",
+   "fit_note": "boxy fit",
+   "url": "https://www.stussy.com/products/115980-denim-trucker-jacket-raw-black-contrast-stitch",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.5,
+     "length": 23.0
+    },
+    "S": {
+     "chest_flat": 22.5,
+     "length": 24.0
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 25.0
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 26.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 27.0
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 28.0
+    }
+   }
+  },
+  {
+   "name": "LIGHTWEIGHT STRIPE SWEATER",
+   "category": "sweater",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/117316-lightweight-stripe-sweater-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.0,
+     "length": 23.5
+    },
+    "S": {
+     "chest_flat": 22.0,
+     "length": 24.5
+    },
+    "M": {
+     "chest_flat": 23.0,
+     "length": 25.5
+    },
+    "L": {
+     "chest_flat": 24.0,
+     "length": 26.5
+    },
+    "XL": {
+     "chest_flat": 25.0,
+     "length": 27.5
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 28.5
+    }
+   }
+  },
+  {
+   "name": "BASIC ST\u00dcSSY ZIP HOODIE",
+   "category": "zip-hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1975000-basic-stussy-zip-hoodie-navy",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 22.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "BASIC ST\u00dcSSY HOODIE",
+   "category": "hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1925000-basic-stussy-hoodie-navy",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 22.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "BASIC DIAMOND ZIP HOODIE",
+   "category": "zip-hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/118603-basic-diamond-zip-hoodie-teal",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.5,
+     "length": 24.0
+    },
+    "S": {
+     "chest_flat": 22.5,
+     "length": 25.0
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 27.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 28.0
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "LAZY LS TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1140333-lazy-ls-tee-vintage-navy",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.0,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 22.0,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 23.0,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 24.0,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 25.0,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "BASIC ST\u00dcSSY THERMAL",
+   "category": "sweater",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1140356-basic-stussy-thermal-orange",
+   "sizes": {
+    "XS": {
+     "chest_flat": 19.0,
+     "length": 25.25
+    },
+    "S": {
+     "chest_flat": 20.0,
+     "length": 26.25
+    },
+    "M": {
+     "chest_flat": 21.0,
+     "length": 27.25
+    },
+    "L": {
+     "chest_flat": 22.0,
+     "length": 28.25
+    },
+    "XL": {
+     "chest_flat": 23.0,
+     "length": 29.25
+    },
+    "2XL": {
+     "chest_flat": 24.0,
+     "length": 30.25
+    }
+   }
+  },
+  {
+   "name": "VARSITY ZIP HOODIE",
+   "category": "zip-hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/118589-varsity-zip-hoodie-washed-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.0,
+     "length": 24.0
+    },
+    "S": {
+     "chest_flat": 26.0,
+     "length": 25.0
+    },
+    "M": {
+     "chest_flat": 27.0,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 27.0
+    },
+    "XL": {
+     "chest_flat": 29.0,
+     "length": 28.0
+    },
+    "2XL": {
+     "chest_flat": 30.0,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "SWEATER TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1905193-sweater-tee-ash-heather",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "FLY GEAR TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1905192-fly-gear-tee-white",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "FADED GRAPHIC ZIP HOODIE",
+   "category": "zip-hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/118553-faded-graphic-zip-hoodie-washed-navy",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.5,
+     "length": 24.0
+    },
+    "S": {
+     "chest_flat": 22.5,
+     "length": 25.0
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 27.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 28.0
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "SS RASH GUARD",
+   "category": "sweater",
+   "fit_note": null,
+   "url": "https://www.stussy.com/products/1140393-ss-rash-guard-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 18.0,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 19.0,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 20.0,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 21.0,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 22.0,
+     "length": 29.0
+    },
+    "2XL": {
+     "chest_flat": 23.0,
+     "length": 30.0
+    }
+   }
+  },
+  {
+   "name": "SPLASH SWEATER",
+   "category": "sweater",
+   "fit_note": "Classic fit",
+   "url": "https://www.stussy.com/products/117318-splash-sweater-off-white",
+   "sizes": {
+    "XS": {
+     "chest_flat": 18.5,
+     "length": 25.75
+    },
+    "S": {
+     "chest_flat": 20.5,
+     "length": 26.25
+    },
+    "M": {
+     "chest_flat": 22.5,
+     "length": 26.75
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 27.25
+    },
+    "XL": {
+     "chest_flat": 26.5,
+     "length": 27.75
+    },
+    "2XL": {
+     "chest_flat": 28.5,
+     "length": 28.25
+    }
+   }
+  },
+  {
+   "name": "LINK SPORT ZIP HOODIE GARMENT DYED",
+   "category": "zip-hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1975191-link-sport-zip-hoodie-garment-dyed-faded-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 22.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "LINK SPORT TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1905191-link-sport-tee-faded-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 28.5
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 29.5
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.5
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 31.5
+    }
+   }
+  },
+  {
+   "name": "HOODED RASH GUARD",
+   "category": "hoodie",
+   "fit_note": null,
+   "url": "https://www.stussy.com/products/1140394-hooded-rash-guard-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 18.0,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 19.0,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 20.0,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 21.0,
+     "length": 28.5
+    },
+    "XL": {
+     "chest_flat": 22.0,
+     "length": 29.0
+    },
+    "2XL": {
+     "chest_flat": 23.0,
+     "length": 29.5
+    }
+   }
+  },
+  {
+   "name": "BASIC ST\u00dcSSY CREW GARMENT DYED",
+   "category": "crewneck",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1915000gd-basic-stussy-crew-garment-dyed-sky-blue",
+   "sizes": {
+    "S": {
+     "chest_flat": 22.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "TERRAIN JERSEY",
+   "category": "sweater",
+   "fit_note": "Boxy fit",
+   "url": "https://www.stussy.com/products/1140387-terrain-jersey-lime",
+   "sizes": {
+    "XS": {
+     "chest_flat": 22.0,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 23.0,
+     "length": 26.0
+    },
+    "M": {
+     "chest_flat": 24.0,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 25.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 26.0,
+     "length": 29.0
+    },
+    "2XL": {
+     "chest_flat": 27.0,
+     "length": 30.0
+    }
+   }
+  },
+  {
+   "name": "OFFSHORE JACKET",
+   "category": "jacket",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/115990-offshore-jacket-royal",
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.0,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 24.0,
+     "length": 26.0
+    },
+    "M": {
+     "chest_flat": 25.0,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 26.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 27.0,
+     "length": 29.0
+    },
+    "2XL": {
+     "chest_flat": 28.0,
+     "length": 30.0
+    }
+   }
+  },
+  {
+   "name": "WAVE KNIT SWEATER",
+   "category": "sweater",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/117312-wave-knit-sweater-lavender",
+   "sizes": {
+    "XS": {
+     "chest_flat": 20.5,
+     "length": 24.0
+    },
+    "S": {
+     "chest_flat": 21.5,
+     "length": 25.0
+    },
+    "M": {
+     "chest_flat": 22.5,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 27.0
+    },
+    "XL": {
+     "chest_flat": 24.5,
+     "length": 28.0
+    },
+    "2XL": {
+     "chest_flat": 25.5,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "TWO TONE RAGLAN SWEATER",
+   "category": "sweater",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/117299-two-tone-raglan-sweater-natural",
+   "sizes": {
+    "XS": {
+     "chest_flat": 20.0,
+     "length": 24.0
+    },
+    "S": {
+     "chest_flat": 21.0,
+     "length": 25.0
+    },
+    "M": {
+     "chest_flat": 22.0,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 23.0,
+     "length": 27.0
+    },
+    "XL": {
+     "chest_flat": 24.0,
+     "length": 28.0
+    },
+    "2XL": {
+     "chest_flat": 25.0,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "GARMENT CO. TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1905204-garment-co-tee-palm",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 28.5
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 29.5
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.5
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 31.5
+    }
+   }
+  },
+  {
+   "name": "FRESH FOILS TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1905216-fresh-foils-tee-rock",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 28.5
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 29.5
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.5
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 31.5
+    }
+   }
+  },
+  {
+   "name": "FRESH FOILS HOODIE GARMENT DYED",
+   "category": "hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1925216-fresh-foils-hoodie-garment-dyed-red",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 22.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "RALLY INSULATED JACKET",
+   "category": "jacket",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/115961-rally-insulated-jacket-bone",
+   "sizes": {
+    "XS": {
+     "chest_flat": 22.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 23.5,
+     "length": 26.5
+    },
+    "M": {
+     "chest_flat": 24.5,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 25.5,
+     "length": 27.5
+    },
+    "XL": {
+     "chest_flat": 26.5,
+     "length": 28.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 28.5
+    }
+   }
+  },
+  {
+   "name": "FLIGHT PARKA",
+   "category": "jacket",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/115967-flight-parka-bone",
+   "sizes": {
+    "XS": {
+     "chest_flat": 26.0,
+     "length": 29.5
+    },
+    "S": {
+     "chest_flat": 27.0,
+     "length": 30.0
+    },
+    "M": {
+     "chest_flat": 28.0,
+     "length": 30.5
+    },
+    "L": {
+     "chest_flat": 29.0,
+     "length": 31.0
+    },
+    "XL": {
+     "chest_flat": 30.0,
+     "length": 31.5
+    }
+   }
+  },
+  {
+   "name": "MA-1 BOMBER JACKET",
+   "category": "jacket",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/115955-ma-1-bomber-jacket-woodland-camo",
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.5,
+     "length": 24.0
+    },
+    "S": {
+     "chest_flat": 24.5,
+     "length": 25.0
+    },
+    "M": {
+     "chest_flat": 25.5,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 26.5,
+     "length": 27.0
+    },
+    "XL": {
+     "chest_flat": 27.5,
+     "length": 28.0
+    },
+    "2XL": {
+     "chest_flat": 28.5,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "NYCO COLLARED WORK JACKET",
+   "category": "jacket",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/115947-nyco-collared-work-jacket-sand",
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.0,
+     "length": 24.0
+    },
+    "S": {
+     "chest_flat": 24.0,
+     "length": 25.0
+    },
+    "M": {
+     "chest_flat": 25.0,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 26.0,
+     "length": 27.0
+    },
+    "XL": {
+     "chest_flat": 27.0,
+     "length": 28.0
+    },
+    "2XL": {
+     "chest_flat": 28.0,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "FLEECE HOODIE",
+   "category": "hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/118633-fleece-hoodie-grey-heather",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.0,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 22.0,
+     "length": 26.0
+    },
+    "M": {
+     "chest_flat": 23.0,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 24.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 25.0,
+     "length": 29.0
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 30.0
+    }
+   }
+  },
+  {
+   "name": "HALF ZIP THERMAL MOCK NECK",
+   "category": "half-zip",
+   "fit_note": "Classic fit",
+   "url": "https://www.stussy.com/products/1140403-half-zip-thermal-mock-neck-sand",
+   "sizes": {
+    "XS": {
+     "chest_flat": 22.0,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 23.0,
+     "length": 26.0
+    },
+    "M": {
+     "chest_flat": 24.0,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 25.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 26.0,
+     "length": 29.0
+    },
+    "2XL": {
+     "chest_flat": 27.0,
+     "length": 30.0
+    }
+   }
+  },
+  {
+   "name": "DAX PRINTED SHIRT",
+   "category": "shirt",
+   "fit_note": "Classic fit",
+   "url": "https://www.stussy.com/products/1110402-dax-printed-shirt-red",
+   "sizes": {
+    "XS": {
+     "chest_flat": 22.0,
+     "length": 27.0
+    },
+    "S": {
+     "chest_flat": 23.0,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 24.0,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 25.0,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 26.0,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.0,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "CANVAS WORK OVERSHIRT",
+   "category": "shirt",
+   "fit_note": "Boxy fit",
+   "url": "https://www.stussy.com/products/1110395-canvas-work-overshirt-bone",
+   "sizes": {
+    "XS": {
+     "chest_flat": 24.62,
+     "length": 27.5
+    },
+    "S": {
+     "chest_flat": 25.62,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 26.62,
+     "length": 28.5
+    },
+    "L": {
+     "chest_flat": 27.62,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 28.62,
+     "length": 29.5
+    },
+    "2XL": {
+     "chest_flat": 29.62,
+     "length": 30.0
+    }
+   }
+  },
+  {
+   "name": "SHERPA REVERSIBLE JACKET",
+   "category": "jacket",
+   "fit_note": "Classic fit",
+   "url": "https://www.stussy.com/products/118529-sherpa-reversible-jacket-bluestone",
+   "sizes": {
+    "XS": {
+     "chest_flat": 22.5,
+     "length": 24.5
+    },
+    "S": {
+     "chest_flat": 23.0,
+     "length": 25.5
+    },
+    "M": {
+     "chest_flat": 24.0,
+     "length": 26.5
+    },
+    "L": {
+     "chest_flat": 25.0,
+     "length": 27.5
+    },
+    "XL": {
+     "chest_flat": 26.0,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 27.0,
+     "length": 29.5
+    }
+   }
+  },
+  {
+   "name": "BLOCK SPORT HOODIE GARMENT DYED",
+   "category": "hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1925217-block-sport-hoodie-garment-dyed-midnight",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 22.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "GARAGE JACKET LEATHER",
+   "category": "jacket",
+   "fit_note": "Boxy fit",
+   "url": "https://www.stussy.com/products/115911-garage-jacket-leather-dark-brown",
+   "sizes": {
+    "S": {
+     "chest_flat": 24.25,
+     "length": 24.5
+    },
+    "M": {
+     "chest_flat": 25.25,
+     "length": 25.5
+    },
+    "L": {
+     "chest_flat": 26.25,
+     "length": 26.5
+    },
+    "XL": {
+     "chest_flat": 27.25,
+     "length": 27.5
+    },
+    "2XL": {
+     "chest_flat": 28.25,
+     "length": 28.5
+    }
+   }
+  },
+  {
+   "name": "JUNYA VENUS TEE",
+   "category": "tee",
+   "fit_note": null,
+   "url": "https://www.stussy.com/products/wrt903100-junya-venus-tee-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "JUNYA SURFMAN TEE",
+   "category": "tee",
+   "fit_note": null,
+   "url": "https://www.stussy.com/products/wrt901100-junya-surfman-tee-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "POLAR FLEECE LINED JACKET",
+   "category": "jacket",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/115906-polar-fleece-lined-jacket-black",
+   "sizes": {
+    "S": {
+     "chest_flat": 24.0,
+     "length": 25.5
+    },
+    "M": {
+     "chest_flat": 25.0,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 26.0,
+     "length": 26.5
+    },
+    "XL": {
+     "chest_flat": 27.0,
+     "length": 27.0
+    },
+    "2XL": {
+     "chest_flat": 28.0,
+     "length": 27.5
+    }
+   }
+  },
+  {
+   "name": "SOFT SHELL JACKET",
+   "category": "jacket",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/115908-soft-shell-jacket-moss-grey",
+   "sizes": {
+    "XS": {
+     "chest_flat": 22.0,
+     "length": 24.5
+    },
+    "S": {
+     "chest_flat": 23.0,
+     "length": 25.5
+    },
+    "M": {
+     "chest_flat": 24.0,
+     "length": 26.5
+    },
+    "L": {
+     "chest_flat": 25.0,
+     "length": 27.5
+    },
+    "XL": {
+     "chest_flat": 26.0,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 27.0,
+     "length": 29.5
+    }
+   }
+  },
+  {
+   "name": "DENIM WESTERN SHIRT",
+   "category": "shirt",
+   "fit_note": "Classic fit",
+   "url": "https://www.stussy.com/products/1110394-denim-western-shirt-dark-denim",
+   "sizes": {
+    "S": {
+     "chest_flat": 21.0,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 22.0,
+     "length": 28.5
+    },
+    "L": {
+     "chest_flat": 23.0,
+     "length": 29.5
+    },
+    "XL": {
+     "chest_flat": 24.0,
+     "length": 30.5
+    },
+    "2XL": {
+     "chest_flat": 25.0,
+     "length": 31.5
+    }
+   }
+  },
+  {
+   "name": "HAWAIIAN FLORAL SHIRT",
+   "category": "shirt",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1110419-hawaiian-floral-shirt-red",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.5,
+     "length": 26.75
+    },
+    "S": {
+     "chest_flat": 22.5,
+     "length": 27.25
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 27.75
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 28.25
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 28.75
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 29.25
+    }
+   }
+  },
+  {
+   "name": "LS RINGER TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1140400-ls-ringer-tee-white",
+   "sizes": {
+    "XS": {
+     "chest_flat": 22.0,
+     "length": 25.5
+    },
+    "S": {
+     "chest_flat": 23.0,
+     "length": 26.5
+    },
+    "M": {
+     "chest_flat": 24.0,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 25.0,
+     "length": 28.5
+    },
+    "XL": {
+     "chest_flat": 26.0,
+     "length": 29.5
+    },
+    "2XL": {
+     "chest_flat": 27.0,
+     "length": 30.5
+    }
+   }
+  },
+  {
+   "name": "CLASSIC PIQUE LS POLO",
+   "category": "polo",
+   "fit_note": "Classic fit",
+   "url": "https://www.stussy.com/products/1140411-classic-pique-ls-polo-brown",
+   "sizes": {
+    "XS": {
+     "chest_flat": 22.0,
+     "length": 25.5
+    },
+    "S": {
+     "chest_flat": 23.0,
+     "length": 26.5
+    },
+    "M": {
+     "chest_flat": 24.0,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 25.0,
+     "length": 28.5
+    },
+    "XL": {
+     "chest_flat": 26.0,
+     "length": 29.5
+    },
+    "2XL": {
+     "chest_flat": 27.0,
+     "length": 30.5
+    }
+   }
+  },
+  {
+   "name": "LIGHTWEIGHT MOCK JACKET",
+   "category": "jacket",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/115902-lightweight-mock-jacket-khaki",
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.0,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 24.0,
+     "length": 26.0
+    },
+    "M": {
+     "chest_flat": 25.0,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 26.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 27.0,
+     "length": 29.0
+    },
+    "2XL": {
+     "chest_flat": 28.0,
+     "length": 30.0
+    }
+   }
+  },
+  {
+   "name": "RIPSTOP WORK JACKET",
+   "category": "jacket",
+   "fit_note": "Classic fit",
+   "url": "https://www.stussy.com/products/115945-ripstop-work-jacket-burgundy",
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.0,
+     "length": 24.0
+    },
+    "S": {
+     "chest_flat": 24.0,
+     "length": 25.0
+    },
+    "M": {
+     "chest_flat": 25.0,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 26.0,
+     "length": 27.0
+    },
+    "XL": {
+     "chest_flat": 27.0,
+     "length": 28.0
+    },
+    "2XL": {
+     "chest_flat": 28.0,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "TOURING JACKET",
+   "category": "jacket",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/115958-touring-jacket-snow-camo",
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.0,
+     "length": 24.0
+    },
+    "S": {
+     "chest_flat": 24.0,
+     "length": 24.5
+    },
+    "M": {
+     "chest_flat": 25.0,
+     "length": 25.0
+    },
+    "L": {
+     "chest_flat": 26.0,
+     "length": 25.5
+    },
+    "XL": {
+     "chest_flat": 27.0,
+     "length": 26.0
+    },
+    "2XL": {
+     "chest_flat": 28.0,
+     "length": 26.5
+    }
+   }
+  },
+  {
+   "name": "FIREMAN JACKET",
+   "category": "jacket",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/115966-fireman-jacket-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 26.0,
+     "length": 32.0
+    },
+    "S": {
+     "chest_flat": 27.0,
+     "length": 32.5
+    },
+    "M": {
+     "chest_flat": 28.0,
+     "length": 33.0
+    },
+    "L": {
+     "chest_flat": 29.0,
+     "length": 33.5
+    },
+    "XL": {
+     "chest_flat": 30.0,
+     "length": 34.0
+    }
+   }
+  },
+  {
+   "name": "WOOL VARSITY JACKET",
+   "category": "jacket",
+   "fit_note": "Boxy fit",
+   "url": "https://www.stussy.com/products/115968-wool-varsity-jacket-navy",
+   "sizes": {
+    "XS": {
+     "chest_flat": 22.0,
+     "length": 24.5
+    },
+    "S": {
+     "chest_flat": 23.0,
+     "length": 25.0
+    },
+    "M": {
+     "chest_flat": 24.0,
+     "length": 25.5
+    },
+    "L": {
+     "chest_flat": 25.0,
+     "length": 26.0
+    },
+    "XL": {
+     "chest_flat": 26.0,
+     "length": 26.5
+    },
+    "2XL": {
+     "chest_flat": 27.0,
+     "length": 27.0
+    }
+   }
+  },
+  {
+   "name": "BEACH HOODED SWEATER",
+   "category": "hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/117298-beach-hooded-sweater-oatmeal",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.0,
+     "length": 24.0
+    },
+    "S": {
+     "chest_flat": 22.0,
+     "length": 25.0
+    },
+    "M": {
+     "chest_flat": 23.0,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 24.0,
+     "length": 27.0
+    },
+    "XL": {
+     "chest_flat": 25.0,
+     "length": 28.0
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "TEXTURED CARDIGAN",
+   "category": "sweater",
+   "fit_note": "Classic fit",
+   "url": "https://www.stussy.com/products/117291-textured-cardigan-navy-brown",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.5,
+     "length": 23.5
+    },
+    "S": {
+     "chest_flat": 22.5,
+     "length": 24.5
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 25.5
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 26.5
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 27.5
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 28.5
+    }
+   }
+  },
+  {
+   "name": "MESH PRINT SWEATER",
+   "category": "sweater",
+   "fit_note": "Classic fit",
+   "url": "https://www.stussy.com/products/117313-mesh-print-sweater-mesh-net",
+   "sizes": {
+    "S": {
+     "chest_flat": 22.5,
+     "length": 23.5
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 24.5
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 25.5
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 26.5
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 27.5
+    }
+   }
+  },
+  {
+   "name": "STRIPED HIBISCUS SWEATER",
+   "category": "sweater",
+   "fit_note": "Classic fit",
+   "url": "https://www.stussy.com/products/117305-striped-hibiscus-sweater-grey",
+   "sizes": {
+    "S": {
+     "chest_flat": 22.5,
+     "length": 23.5
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 24.5
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 25.5
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 26.5
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 27.5
+    }
+   }
+  },
+  {
+   "name": "MERINO ROLL NECK SWEATER",
+   "category": "sweater",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/117314-merino-roll-neck-sweater-brown",
+   "sizes": {
+    "XS": {
+     "chest_flat": 20.5,
+     "length": 23.5
+    },
+    "S": {
+     "chest_flat": 21.5,
+     "length": 24.5
+    },
+    "M": {
+     "chest_flat": 22.5,
+     "length": 25.5
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 26.5
+    },
+    "XL": {
+     "chest_flat": 24.5,
+     "length": 27.5
+    },
+    "2XL": {
+     "chest_flat": 25.5,
+     "length": 28.5
+    }
+   }
+  },
+  {
+   "name": "PIQUE KNIT STRIPE RUGBY",
+   "category": "rugby",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/117317-pique-knit-stripe-rugby-olive",
+   "sizes": {
+    "XS": {
+     "chest_flat": 20.5,
+     "length": 25.5
+    },
+    "S": {
+     "chest_flat": 21.5,
+     "length": 26.0
+    },
+    "M": {
+     "chest_flat": 22.5,
+     "length": 26.5
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 27.0
+    },
+    "XL": {
+     "chest_flat": 24.5,
+     "length": 27.5
+    },
+    "2XL": {
+     "chest_flat": 25.5,
+     "length": 28.0
+    }
+   }
+  },
+  {
+   "name": "PLAID LINED ZIP HOODIE",
+   "category": "zip-hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/118619-plaid-lined-zip-hoodie-grey-heather",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.5,
+     "length": 24.5
+    },
+    "S": {
+     "chest_flat": 22.5,
+     "length": 25.5
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 26.5
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 27.5
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 29.5
+    }
+   }
+  },
+  {
+   "name": "DOUBLE FACED ZIP HOODIE",
+   "category": "zip-hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/118624-double-faced-zip-hoodie-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 22.0,
+     "length": 24.5
+    },
+    "S": {
+     "chest_flat": 23.0,
+     "length": 25.5
+    },
+    "M": {
+     "chest_flat": 24.0,
+     "length": 26.5
+    },
+    "L": {
+     "chest_flat": 25.0,
+     "length": 27.5
+    },
+    "XL": {
+     "chest_flat": 26.0,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 27.0,
+     "length": 29.5
+    }
+   }
+  },
+  {
+   "name": "STANDARD SS SHIRT",
+   "category": "shirt",
+   "fit_note": "Boxy fit",
+   "url": "https://www.stussy.com/products/1110415-standard-ss-shirt-blue-stripe",
+   "sizes": {
+    "S": {
+     "chest_flat": 24.0,
+     "length": 29.5
+    },
+    "M": {
+     "chest_flat": 25.0,
+     "length": 30.0
+    },
+    "L": {
+     "chest_flat": 26.0,
+     "length": 30.5
+    },
+    "XL": {
+     "chest_flat": 27.0,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 28.0,
+     "length": 31.5
+    }
+   }
+  },
+  {
+   "name": "LIGHTWEIGHT TERRY ZIP HOODIE",
+   "category": "zip-hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/118613-lightweight-terry-zip-hoodie-blue",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.0,
+     "length": 24.0
+    },
+    "S": {
+     "chest_flat": 22.0,
+     "length": 25.0
+    },
+    "M": {
+     "chest_flat": 23.0,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 24.0,
+     "length": 27.0
+    },
+    "XL": {
+     "chest_flat": 25.0,
+     "length": 28.0
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "LIGHTWEIGHT TERRY HOODIE",
+   "category": "hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/118612-lightweight-terry-hoodie-yellow",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.0,
+     "length": 24.5
+    },
+    "S": {
+     "chest_flat": 22.0,
+     "length": 25.5
+    },
+    "M": {
+     "chest_flat": 23.0,
+     "length": 26.5
+    },
+    "L": {
+     "chest_flat": 24.0,
+     "length": 27.5
+    },
+    "XL": {
+     "chest_flat": 25.0,
+     "length": 28.5
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 29.5
+    }
+   }
+  },
+  {
+   "name": "LIGHTWEIGHT STRIPED SWEATER",
+   "category": "sweater",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/117297-lightweight-striped-sweater-brown",
+   "sizes": {
+    "XS": {
+     "chest_flat": 20.5,
+     "length": 24.0
+    },
+    "S": {
+     "chest_flat": 21.5,
+     "length": 25.0
+    },
+    "M": {
+     "chest_flat": 22.5,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 27.0
+    },
+    "XL": {
+     "chest_flat": 24.5,
+     "length": 28.0
+    },
+    "2XL": {
+     "chest_flat": 25.5,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "LAYERED MESH REVERSIBLE JACKET",
+   "category": "jacket",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/115933-layered-mesh-reversible-jacket-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 24.5,
+     "length": 26.5
+    },
+    "M": {
+     "chest_flat": 25.5,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 26.5,
+     "length": 27.5
+    },
+    "XL": {
+     "chest_flat": 27.5,
+     "length": 28.0
+    },
+    "2XL": {
+     "chest_flat": 28.5,
+     "length": 28.5
+    }
+   }
+  },
+  {
+   "name": "LAGUNA 80 JERSEY",
+   "category": "sweater",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1140389-laguna-80-jersey-blue",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.0,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 22.0,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 23.0,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 24.0,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 25.0,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 26.0,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "CLASSIC PIQUE POLO",
+   "category": "polo",
+   "fit_note": "Classic fit",
+   "url": "https://www.stussy.com/products/1140367-classic-pique-polo-plum",
+   "sizes": {
+    "S": {
+     "chest_flat": 23.0,
+     "length": 26.5
+    },
+    "M": {
+     "chest_flat": 24.0,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 25.0,
+     "length": 28.5
+    },
+    "XL": {
+     "chest_flat": 26.0,
+     "length": 29.5
+    },
+    "2XL": {
+     "chest_flat": 27.0,
+     "length": 30.5
+    }
+   }
+  },
+  {
+   "name": "DOT SURF PUFF PRINT ZIP HOODIE",
+   "category": "zip-hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1975195-dot-surf-puff-print-zip-hoodie-off-white",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 22.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "DOT SURF PUFF PRINT TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1905195-dot-surf-puff-print-tee-white",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "BEACH ROOTS ZIP HOODIE GARMENT DYED",
+   "category": "zip-hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1975198-beach-roots-zip-hoodie-garment-dyed-indigo",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 22.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "BEACH ROOTS TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1905198-beach-roots-tee-natural",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 28.5
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 29.5
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.5
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 31.5
+    }
+   }
+  },
+  {
+   "name": "DRAGON HOODIE",
+   "category": "hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1925166-dragon-hoodie-ash-heather",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 22.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "STOCK LINK ZIP HOODIE",
+   "category": "zip-hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1975118-stock-link-zip-hoodie-pine",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 22.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "BOX CROWN TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1905186-box-crown-tee-white",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "CALI GROWN TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1905162-cali-grown-tee-navy",
+   "sizes": {
+    "S": {
+     "chest_flat": 19.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "SUMMER CLASSICS HOODIE GARMENT DYED",
+   "category": "hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1925197-summer-classics-hoodie-garment-dyed-faded-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 22.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "STANDARD SHIRT",
+   "category": "shirt",
+   "fit_note": "Boxy fit",
+   "url": "https://www.stussy.com/products/1110388-standard-shirt-white",
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.0,
+     "length": 29.0
+    },
+    "S": {
+     "chest_flat": 24.0,
+     "length": 29.5
+    },
+    "M": {
+     "chest_flat": 25.0,
+     "length": 30.0
+    },
+    "L": {
+     "chest_flat": 26.0,
+     "length": 30.5
+    },
+    "XL": {
+     "chest_flat": 27.0,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 28.0,
+     "length": 31.5
+    }
+   }
+  },
+  {
+   "name": "MECHANIC JACKET",
+   "category": "jacket",
+   "fit_note": "Boxy fit",
+   "url": "https://www.stussy.com/products/115936-mechanic-jacket-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 24.0,
+     "length": 25.25
+    },
+    "S": {
+     "chest_flat": 25.0,
+     "length": 25.75
+    },
+    "M": {
+     "chest_flat": 26.0
+    },
+    "L": {
+     "chest_flat": 27.0,
+     "length": 26.75
+    },
+    "XL": {
+     "chest_flat": 28.0,
+     "length": 27.25
+    },
+    "2XL": {
+     "chest_flat": 29.0,
+     "length": 27.75
+    }
+   }
+  },
+  {
+   "name": "LEATHER WORK JACKET",
+   "category": "jacket",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/115938-leather-work-jacket-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 22.75,
+     "length": 24.0
+    },
+    "S": {
+     "chest_flat": 23.75,
+     "length": 25.0
+    },
+    "M": {
+     "chest_flat": 24.75,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 25.75,
+     "length": 27.0
+    },
+    "XL": {
+     "chest_flat": 26.75,
+     "length": 28.0
+    },
+    "2XL": {
+     "chest_flat": 27.75,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "DOUBLE VENUS TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1905194-double-venus-tee-white",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "CURSIVE APPLIQUE ZIP HOODIE",
+   "category": "zip-hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/118617-cursive-applique-zip-hoodie-natural",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.5,
+     "length": 24.75
+    },
+    "S": {
+     "chest_flat": 22.5,
+     "length": 25.75
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 26.75
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 27.75
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 28.75
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 29.75
+    }
+   }
+  },
+  {
+   "name": "BODY SCAN TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1905163-body-scan-tee-black",
+   "sizes": {
+    "S": {
+     "chest_flat": 19.5,
+     "length": 28.0
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 31.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 32.0
+    }
+   }
+  },
+  {
+   "name": "LIGHTWEIGHT PULLOVER JACKET",
+   "category": "jacket",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/115905-lightweight-pullover-jacket-white",
+   "sizes": {
+    "XS": {
+     "chest_flat": 23.0,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 24.0,
+     "length": 26.5
+    },
+    "M": {
+     "chest_flat": 25.0,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 26.0,
+     "length": 27.5
+    },
+    "XL": {
+     "chest_flat": 27.0,
+     "length": 28.0
+    },
+    "2XL": {
+     "chest_flat": 28.0,
+     "length": 28.5
+    }
+   }
+  },
+  {
+   "name": "LIGHTWEIGHT HOODED JACKET",
+   "category": "hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/115900-lightweight-hooded-jacket-olive",
+   "sizes": {
+    "XS": {
+     "chest_flat": 24.5,
+     "length": 25.5
+    },
+    "S": {
+     "chest_flat": 25.5,
+     "length": 26.5
+    },
+    "M": {
+     "chest_flat": 26.5,
+     "length": 27.5
+    },
+    "L": {
+     "chest_flat": 27.5,
+     "length": 28.5
+    },
+    "XL": {
+     "chest_flat": 28.5,
+     "length": 29.5
+    },
+    "2XL": {
+     "chest_flat": 29.5,
+     "length": 30.5
+    }
+   }
+  },
+  {
+   "name": "WAVE OVAL HOODIE",
+   "category": "hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1925181-wave-oval-hoodie-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 22.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "TALL DICE ZIP HOODIE",
+   "category": "zip-hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1975187-tall-dice-zip-hoodie-navy",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 22.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "PIGMENT DYED SS THERMAL",
+   "category": "sweater",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1140368-pigment-dyed-ss-thermal-white",
+   "sizes": {
+    "XS": {
+     "chest_flat": 19.0,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 20.0,
+     "length": 26.0
+    },
+    "M": {
+     "chest_flat": 21.0,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 22.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 23.0,
+     "length": 29.0
+    },
+    "2XL": {
+     "chest_flat": 24.0,
+     "length": 30.0
+    }
+   }
+  },
+  {
+   "name": "TALL DICE TEE",
+   "category": "tee",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1905187-tall-dice-tee-white",
+   "sizes": {
+    "XS": {
+     "chest_flat": 17.5,
+     "length": 26.5
+    },
+    "S": {
+     "chest_flat": 19.5,
+     "length": 27.5
+    },
+    "M": {
+     "chest_flat": 21.5,
+     "length": 28.5
+    },
+    "L": {
+     "chest_flat": 23.5,
+     "length": 29.5
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.5
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 31.5
+    }
+   }
+  },
+  {
+   "name": "MATTHEW PLAID SHIRT",
+   "category": "shirt",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1110369-matthew-plaid-shirt-charcoal",
+   "sizes": {
+    "S": {
+     "chest_flat": 23.5,
+     "length": 28.5
+    },
+    "M": {
+     "chest_flat": 24.5,
+     "length": 29.0
+    },
+    "L": {
+     "chest_flat": 25.5,
+     "length": 29.5
+    },
+    "XL": {
+     "chest_flat": 26.5,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 27.5,
+     "length": 30.5
+    }
+   }
+  },
+  {
+   "name": "ZIP HOODED PLAID SHIRT",
+   "category": "zip-hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1110381-zip-hooded-plaid-shirt-charcoal",
+   "sizes": {
+    "S": {
+     "chest_flat": 24.0,
+     "length": 26.5
+    },
+    "M": {
+     "chest_flat": 25.0,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 26.0,
+     "length": 27.5
+    },
+    "XL": {
+     "chest_flat": 27.0,
+     "length": 28.0
+    },
+    "2XL": {
+     "chest_flat": 28.0,
+     "length": 28.5
+    }
+   }
+  },
+  {
+   "name": "MOTIF PRINT HOODIE",
+   "category": "hoodie",
+   "fit_note": "Boxy fit",
+   "url": "https://www.stussy.com/products/118605-motif-print-hoodie-black",
+   "sizes": {
+    "S": {
+     "chest_flat": 22.5,
+     "length": 25.0
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 27.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 28.0
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "MOCK NECK FLIGHT BOMBER",
+   "category": "jacket",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/115903-mock-neck-flight-bomber-white",
+   "sizes": {
+    "S": {
+     "chest_flat": 27.0,
+     "length": 25.0
+    },
+    "M": {
+     "chest_flat": 28.0,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 29.0,
+     "length": 27.0
+    },
+    "XL": {
+     "chest_flat": 30.0,
+     "length": 28.0
+    }
+   }
+  },
+  {
+   "name": "DOUBLE COTTON HOODED JACKET",
+   "category": "hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/115930-double-cotton-hooded-jacket-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 25.0,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 26.0,
+     "length": 26.0
+    },
+    "M": {
+     "chest_flat": 27.0,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 28.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 29.0,
+     "length": 29.0
+    },
+    "2XL": {
+     "chest_flat": 30.0,
+     "length": 30.0
+    }
+   }
+  },
+  {
+   "name": "WOOL LS THERMAL",
+   "category": "sweater",
+   "fit_note": "Classic fit",
+   "url": "https://www.stussy.com/products/1140374-wool-ls-thermal-ecru",
+   "sizes": {
+    "S": {
+     "chest_flat": 18.25,
+     "length": 25.25
+    },
+    "M": {
+     "chest_flat": 19.25,
+     "length": 26.25
+    },
+    "L": {
+     "chest_flat": 20.25,
+     "length": 27.25
+    },
+    "XL": {
+     "chest_flat": 21.25,
+     "length": 28.25
+    },
+    "2XL": {
+     "chest_flat": 22.25,
+     "length": 29.25
+    }
+   }
+  },
+  {
+   "name": "STANDARD LOGO SHIRT",
+   "category": "shirt",
+   "fit_note": "Boxy fit",
+   "url": "https://www.stussy.com/products/1110387-standard-logo-shirt-blue-stripe",
+   "sizes": {
+    "S": {
+     "chest_flat": 24.0,
+     "length": 29.0
+    },
+    "M": {
+     "chest_flat": 25.0,
+     "length": 29.5
+    },
+    "L": {
+     "chest_flat": 26.0,
+     "length": 30.0
+    },
+    "XL": {
+     "chest_flat": 27.0,
+     "length": 30.5
+    },
+    "2XL": {
+     "chest_flat": 28.0,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "PIGMENT DYED LS THERMAL",
+   "category": "sweater",
+   "fit_note": "Classic fit",
+   "url": "https://www.stussy.com/products/1140396-pigment-dyed-ls-thermal-lime",
+   "sizes": {
+    "XS": {
+     "chest_flat": 19.0,
+     "length": 25.0
+    },
+    "S": {
+     "chest_flat": 20.0,
+     "length": 26.0
+    },
+    "M": {
+     "chest_flat": 21.0,
+     "length": 27.0
+    },
+    "L": {
+     "chest_flat": 22.0,
+     "length": 28.0
+    },
+    "XL": {
+     "chest_flat": 23.0,
+     "length": 29.0
+    },
+    "2XL": {
+     "chest_flat": 24.0,
+     "length": 30.0
+    }
+   }
+  },
+  {
+   "name": "LEOPARD SWEATER",
+   "category": "sweater",
+   "fit_note": "Classic fit",
+   "url": "https://www.stussy.com/products/117287-leopard-sweater-leopard",
+   "sizes": {
+    "S": {
+     "chest_flat": 22.5,
+     "length": 24.0
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 25.0
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 26.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 27.0
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 28.0
+    }
+   }
+  },
+  {
+   "name": "LONG HAUL ZIP HOODIE",
+   "category": "zip-hoodie",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1975185-long-haul-zip-hoodie-black",
+   "sizes": {
+    "XS": {
+     "chest_flat": 21.5,
+     "length": 26.0
+    },
+    "S": {
+     "chest_flat": 22.5,
+     "length": 27.0
+    },
+    "M": {
+     "chest_flat": 23.5,
+     "length": 28.0
+    },
+    "L": {
+     "chest_flat": 24.5,
+     "length": 29.0
+    },
+    "XL": {
+     "chest_flat": 25.5,
+     "length": 30.0
+    },
+    "2XL": {
+     "chest_flat": 26.5,
+     "length": 31.0
+    }
+   }
+  },
+  {
+   "name": "WORK JACKET CANVAS",
+   "category": "jacket",
+   "fit_note": "Boxy fit",
+   "url": "https://www.stussy.com/products/115913-work-jacket-canvas-olive",
+   "sizes": {
+    "XS": {
+     "chest_flat": 22.0,
+     "length": 24.0
+    },
+    "S": {
+     "chest_flat": 23.0,
+     "length": 25.0
+    },
+    "M": {
+     "chest_flat": 24.0,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 25.0,
+     "length": 27.0
+    },
+    "XL": {
+     "chest_flat": 26.0,
+     "length": 28.0
+    },
+    "2XL": {
+     "chest_flat": 27.0,
+     "length": 29.0
+    }
+   }
+  },
+  {
+   "name": "EXTRA TOUGH RAGLAN THERMAL",
+   "category": "sweater",
+   "fit_note": "Relaxed fit",
+   "url": "https://www.stussy.com/products/1140382-extra-tough-raglan-thermal-navy",
+   "sizes": {
+    "S": {
+     "chest_flat": 20.0,
+     "length": 26.25
+    },
+    "M": {
+     "chest_flat": 21.0,
+     "length": 27.25
+    },
+    "L": {
+     "chest_flat": 22.0,
+     "length": 28.25
+    },
+    "XL": {
+     "chest_flat": 23.0,
+     "length": 29.25
+    },
+    "2XL": {
+     "chest_flat": 24.0,
+     "length": 30.25
+    }
+   }
+  },
+  {
+   "name": "TEXTURED ZIP HOODED SWEATER",
+   "category": "zip-hoodie",
+   "fit_note": null,
+   "url": "https://www.stussy.com/products/117282-textured-zip-hooded-sweater-bone",
+   "sizes": {
+    "XS": {
+     "chest_flat": 22.0,
+     "length": 24.0
+    },
+    "S": {
+     "chest_flat": 23.0,
+     "length": 25.0
+    },
+    "M": {
+     "chest_flat": 24.0,
+     "length": 26.0
+    },
+    "L": {
+     "chest_flat": 25.0,
+     "length": 27.0
+    },
+    "XL": {
+     "chest_flat": 26.0,
+     "length": 28.0
+    },
+    "2XL": {
+     "chest_flat": 27.0,
+     "length": 29.0
+    }
+   }
+  }
+ ]
+}
