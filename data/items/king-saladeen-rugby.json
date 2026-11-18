@@ -11,7 +11,8 @@
     "type": "official_chart",
     "file": "sources/charts/king-saladeen-rugby.webp",
     "tolerance_in": 1,
-    "transcribed": "2026-11-18"
+    "transcribed": "2026-11-18",
+    "post": "https://x.com/BoredApeYC/status/2120969885131870591"
   },
   "units": "in",
   "measurement_basis": {
@@ -21,10 +22,41 @@
     "sleeve": "from shoulder seam"
   },
   "sizes": {
-    "S":   { "chest": 38, "chest_flat": 19,   "length": 27,   "shoulder": 19,   "sleeve": 25.25 },
-    "M":   { "chest": 40, "chest_flat": 20,   "length": 27.5, "shoulder": 19.5, "sleeve": 25.5 },
-    "L":   { "chest": 42, "chest_flat": 21,   "length": 28,   "shoulder": 20,   "sleeve": 25.75 },
-    "XL":  { "chest": 44, "chest_flat": 22,   "length": 28.5, "shoulder": 20.5, "sleeve": 26 },
-    "2XL": { "chest": 46, "chest_flat": 23,   "length": 29,   "shoulder": 21,   "sleeve": 26.25 }
-  }
+    "S": {
+      "chest": 38,
+      "chest_flat": 19,
+      "length": 27,
+      "shoulder": 19,
+      "sleeve": 25.25
+    },
+    "M": {
+      "chest": 40,
+      "chest_flat": 20,
+      "length": 27.5,
+      "shoulder": 19.5,
+      "sleeve": 25.5
+    },
+    "L": {
+      "chest": 42,
+      "chest_flat": 21,
+      "length": 28,
+      "shoulder": 20,
+      "sleeve": 25.75
+    },
+    "XL": {
+      "chest": 44,
+      "chest_flat": 22,
+      "length": 28.5,
+      "shoulder": 20.5,
+      "sleeve": 26
+    },
+    "2XL": {
+      "chest": 46,
+      "chest_flat": 23,
+      "length": 29,
+      "shoulder": 21,
+      "sleeve": 26.25
+    }
+  },
+  "data_note": "Uses the same chart template and the same 'Chest 1in down from armhole' label as the Regatta Crewneck, but the Regatta values (22-29) are flat while these (38-46) are full circumference. Halved to chest_flat."
 }

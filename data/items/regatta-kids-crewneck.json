@@ -1,0 +1,43 @@
+{
+  "id": "regatta-kids-crewneck",
+  "name": "BAYC Kids Regatta Crewneck",
+  "drop": "Manifest 002: Regatta",
+  "released": "2026-11-12",
+  "category": "kids-crewneck",
+  "store_url": "https://store.boredapeyachtclub.com/products/bayc-kids-regatta-crewneck",
+  "fit_note": null,
+  "source": {
+    "type": "official_chart",
+    "file": "sources/charts/regatta-kids-crewneck.jpg",
+    "post": "https://x.com/BoredApeYC/status/2120954792168358208",
+    "tolerance_in": 1
+  },
+  "units": "in",
+  "measurement_basis": {
+    "chest_flat": "chest 1in down from armhole, laid flat",
+    "length": "body length from HPS",
+    "sleeve_cb": "from center back incl. cuff rib"
+  },
+  "sizes": {
+    "YS (6/8)": {
+      "chest_flat": 17.5,
+      "length": 20.5,
+      "sleeve_cb": 26.5
+    },
+    "YM (10/12)": {
+      "chest_flat": 18.5,
+      "length": 22.5,
+      "sleeve_cb": 28.5
+    },
+    "YL (14/16)": {
+      "chest_flat": 19.5,
+      "length": 24.5,
+      "sleeve_cb": 30.5
+    },
+    "YXL (18/20)": {
+      "chest_flat": 20.5,
+      "length": 26,
+      "sleeve_cb": 32.5
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "wotherspoon-surf-tee",
+  "name": "BAYC x Sean Wotherspoon Surf Tee",
+  "drop": "Anchor Drop 002",
+  "released": "2026-08-03",
+  "category": "tee",
+  "store_url": "https://store.boredapeyachtclub.com/products/bayc-x-sean-wotherspoon-tee",
+  "fit_note": null,
+  "source": {
+    "type": "official_chart",
+    "file": "sources/charts/wotherspoon-surf-tee.jpg",
+    "post": "https://x.com/BoredApeYC/status/2084308196303286770"
+  },
+  "chart_type": "body",
+  "data_note": "Chart row is labeled WAIST but the footnote says to measure around the chest, so these are the WEARER's chest ranges (body chart), not garment measurements. Cannot be matched garment-to-garment until someone measures one flat.",
+  "units": "in",
+  "sizes": {
+    "S": {
+      "body_chest": [
+        35,
+        37
+      ]
+    },
+    "M": {
+      "body_chest": [
+        38,
+        40
+      ]
+    },
+    "L": {
+      "body_chest": [
+        41,
+        43
+      ]
+    },
+    "XL": {
+      "body_chest": [
+        44,
+        46
+      ]
+    },
+    "2XL": {
+      "body_chest": [
+        47,
+        49
+      ]
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "regatta-unisex-crewneck",
+  "name": "BAYC Regatta Crewneck",
+  "drop": "Manifest 002: Regatta",
+  "released": "2026-11-12",
+  "category": "crewneck",
+  "store_url": "https://store.boredapeyachtclub.com/products/bayc-regatta-crewneck",
+  "fit_note": "Men's sizing; chart says ladies may need to size down.",
+  "source": {
+    "type": "official_chart",
+    "file": "sources/charts/regatta-unisex-crewneck.jpg",
+    "post": "https://x.com/BoredApeYC/status/2120954792168358208",
+    "tolerance_in": 1
+  },
+  "units": "in",
+  "measurement_basis": {
+    "chest_flat": "chest 1in down from armhole, laid flat",
+    "length": "body length from HPS",
+    "sleeve_cb": "from center back incl. cuff rib"
+  },
+  "sizes": {
+    "XS": {
+      "chest_flat": 22,
+      "length": 27,
+      "sleeve_cb": 34.5
+    },
+    "S": {
+      "chest_flat": 23,
+      "length": 28,
+      "sleeve_cb": 35.5
+    },
+    "M": {
+      "chest_flat": 24,
+      "length": 29,
+      "sleeve_cb": 36.5
+    },
+    "L": {
+      "chest_flat": 25,
+      "length": 30,
+      "sleeve_cb": 37.5
+    },
+    "XL": {
+      "chest_flat": 26,
+      "length": 31,
+      "sleeve_cb": 38.5
+    },
+    "2XL": {
+      "chest_flat": 27.5,
+      "length": 32,
+      "sleeve_cb": 39.5
+    },
+    "3XL": {
+      "chest_flat": 29,
+      "length": 33,
+      "sleeve_cb": 40.5
+    }
+  }
+}

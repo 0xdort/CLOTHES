@@ -8,6 +8,8 @@ ROOT = os.path.join(os.path.dirname(__file__), "..", "data")
 def load(path):
     d = json.load(open(path))
     out = []
+    if d.get("chart_type") == "body":
+        return out  # wearer measurements only; not comparable garment-to-garment
     if "sizes" in d:
         out.append((d["id"], d["name"], d.get("category", ""), d["sizes"]))
     for it in d.get("items", []):  # one-of-one listings (e.g. vintage drops)
@@ -23,7 +25,7 @@ def known():
 # Garment families: "fits like" is most meaningful within the same family.
 FAMILY = {
     "tee": "tee", "long-sleeve": "long-sleeve", "rugby": "long-sleeve", "oxford": "shirt",
-    "hoodie": "fleece", "zip-hoodie": "fleece", "crewneck": "fleece", "half-zip": "fleece",
+    "kids-crewneck": "kids", "hoodie": "fleece", "zip-hoodie": "fleece", "crewneck": "fleece", "half-zip": "fleece",
     "jacket": "jacket",
 }
 fam = lambda c: FAMILY.get(c, c)

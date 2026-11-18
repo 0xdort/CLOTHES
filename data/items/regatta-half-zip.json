@@ -1,0 +1,46 @@
+{
+  "id": "regatta-half-zip",
+  "name": "BAYC Regatta Half Zip",
+  "drop": "Manifest 002: Regatta",
+  "released": "2026-11-12",
+  "category": "half-zip",
+  "store_url": "https://store.boredapeyachtclub.com/products/bayc-regatta-half-zip",
+  "fit_note": null,
+  "source": {
+    "type": "official_chart",
+    "file": "sources/charts/regatta-half-zip.jpg",
+    "post": "https://x.com/BoredApeYC/status/2120954792168358208",
+    "tolerance_in": 1
+  },
+  "units": "in",
+  "measurement_basis": {
+    "chest_flat": "'body width' (flat)",
+    "length": "body length"
+  },
+  "sizes": {
+    "S": {
+      "chest_flat": 20.5,
+      "length": 28.5
+    },
+    "M": {
+      "chest_flat": 21.75,
+      "length": 29.5
+    },
+    "L": {
+      "chest_flat": 22.75,
+      "length": 30.5
+    },
+    "XL": {
+      "chest_flat": 24,
+      "length": 31.5
+    },
+    "2XL": {
+      "chest_flat": 25.25,
+      "length": 32.5
+    },
+    "3XL": {
+      "chest_flat": 26.5,
+      "length": 33.5
+    }
+  }
+}
