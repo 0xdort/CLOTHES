@@ -1,0 +1,30 @@
+{
+  "id": "king-saladeen-rugby",
+  "name": "KING SALADEEN RUGBY",
+  "drop": "BAYC x King Saladeen",
+  "released": "2026-11-13",
+  "category": "rugby",
+  "store_url": "https://store.boredapeyachtclub.com/products/king-saladeen-rugby",
+  "fabric": "100% cotton, embroidered",
+  "fit_note": null,
+  "source": {
+    "type": "official_chart",
+    "file": "sources/charts/king-saladeen-rugby.webp",
+    "tolerance_in": 1,
+    "transcribed": "2026-11-18"
+  },
+  "units": "in",
+  "measurement_basis": {
+    "chest": "full circumference, 1in below armhole (chart gives circumference; chest_flat = chest / 2)",
+    "length": "front length from high point shoulder (HPS)",
+    "shoulder": "across, seam to seam",
+    "sleeve": "from shoulder seam"
+  },
+  "sizes": {
+    "S":   { "chest": 38, "chest_flat": 19,   "length": 27,   "shoulder": 19,   "sleeve": 25.25 },
+    "M":   { "chest": 40, "chest_flat": 20,   "length": 27.5, "shoulder": 19.5, "sleeve": 25.5 },
+    "L":   { "chest": 42, "chest_flat": 21,   "length": 28,   "shoulder": 20,   "sleeve": 25.75 },
+    "XL":  { "chest": 44, "chest_flat": 22,   "length": 28.5, "shoulder": 20.5, "sleeve": 26 },
+    "2XL": { "chest": 46, "chest_flat": 23,   "length": 29,   "shoulder": 21,   "sleeve": 26.25 }
+  }
+}

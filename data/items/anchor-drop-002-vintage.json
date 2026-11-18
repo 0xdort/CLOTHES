@@ -1,0 +1,31 @@
+{
+  "id": "anchor-drop-002-vintage",
+  "name": "Anchor Drop 002 vintage tees (one-of-ones, Sean Wotherspoon archive)",
+  "drop": "Anchor Drop 002",
+  "released": "2026-08-03",
+  "category": "tee",
+  "source": { "type": "store_listing_text", "note": "Each listing states '<chest>\" chest width (flat), <length>\" long'. Scraped 2026-11-18." },
+  "units": "in",
+  "items": [
+    { "handle": "1990s-hang-loose-hawaii-shaka-brah-tee", "size": "M",  "chest_flat": 20,   "length": 29.5 },
+    { "handle": "1990s-op-surf-advertisement-panel-tee",  "size": "L",  "chest_flat": 21,   "length": 29 },
+    { "handle": "1990s-t-c-surf-designs-hawaii-tee",      "size": "S",  "chest_flat": 17.5, "length": 27.5 },
+    { "handle": "1990s-b-g-sports-wear-evolution-of-surf-tee", "size": "M", "chest_flat": 19.5, "length": 29 },
+    { "handle": "1990s-hawaii-surf-pocket-tee",           "size": "S",  "chest_flat": 18,   "length": 27.5 },
+    { "handle": "1990s-california-floral-surf-pocket-tee","size": "M",  "chest_flat": 20,   "length": 28 },
+    { "handle": "misquamict-beach-rhode-island-long-sleeve","size": "S","chest_flat": 17,   "length": 23 },
+    { "handle": "1990s-triple-crown-of-surfing-tee",      "size": "M",  "chest_flat": 20,   "length": 29 },
+    { "handle": "1990s-billabong-sign-language-tee",      "size": "S",  "chest_flat": 18,   "length": 27.5 },
+    { "handle": "1980s-surf-bum-hawaiian-design-tee",     "size": "L",  "chest_flat": 21,   "length": 28.5 },
+    { "handle": "1990s-t-c-surf-designs-pearl-city-tee",  "size": "M",  "chest_flat": 19,   "length": 28 },
+    { "handle": "offshore-grommets",                      "size": "L",  "chest_flat": 22,   "length": 27 },
+    { "handle": "1990s-aipa-surfboards-hawaii-tee",       "size": "L",  "chest_flat": 22,   "length": 27 },
+    { "handle": "1990-t-c-oneill-oakley-hawaii-tee",      "size": "L",  "chest_flat": 21.5, "length": 29 },
+    { "handle": "1987-gotcha-pro-surf-championship-tee",  "size": "M",  "chest_flat": 18.5, "length": 28 },
+    { "handle": "1990s-world-cup-of-surfing-north-shore-tee","size": "M","chest_flat": 19,  "length": 27 },
+    { "handle": "1990s-reyn-spooner-waikiki-beach-tee",   "size": "S",  "chest_flat": 18,   "length": 26 },
+    { "handle": "1990s-body-glove-aop-tee",               "size": "XL", "chest_flat": 23,   "length": 32 },
+    { "handle": "1970s-true-vintage-hawaii-surf-tee",     "size": "L",  "chest_flat": 20,   "length": 27 },
+    { "handle": "1970s-crazy-shirts-hawaii-graphic-tee",  "size": "L",  "chest_flat": 21,   "length": 27 }
+  ]
+}
